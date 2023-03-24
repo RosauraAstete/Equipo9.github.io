@@ -1,9 +1,9 @@
 # Equipo9.github.io
-CURSO: INTRODUCCIÓN A SEÑALES BIOMÉDICAS
+Curso: Introducción a Señales Biomédicas
 
 El curso abordará los demás de adquisición y procesamiento de señales médicas. Se verá contenido teórico y práctico para conocer los procesos tecnologicos qye se utilizan para el uso de señales.
 
-PRESENTACIÓN DEL GRUPO:
+Integrantes del grupo:
 Sebastian Chion,
 Juan Mena,
 Valeria Zavaleta,
@@ -11,7 +11,7 @@ Sofia Franco,
 Rosaura Astete,
 Ariana Figueroa,
 
-SEÑAL DE INTERES: ECG
+Señal de interés: ECG
 
 # Tabla de contenidos
 1. ¿Qué es una Bioseñal?
