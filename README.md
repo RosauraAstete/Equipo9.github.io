@@ -14,7 +14,7 @@ Ariana Figueroa,
 SEÑAL DE INTERES: ECG
 
 # Tabla de contenidos
-1. ¿Qué es uma Bioseñal?
+1. ¿Qué es una Bioseñal?
 2. Materiales
 3. Metodología
 4. Temática del proyecto
