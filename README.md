@@ -13,3 +13,11 @@ Ariana Figueroa,
 
 SEÑAL DE INTERES: ECG
 
+# Tabla de contenidos
+*¿Qué es uma Bioseñal?
+*Materiales
+*Metodología
+*Temática del proyecto
+*Contenido del curso 
+*Participantes
+*Docentes del curso
