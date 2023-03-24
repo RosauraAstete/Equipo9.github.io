@@ -20,4 +20,4 @@ Señal de interés: ECG
 4. [Temática del proyecto](https://github.com/RosauraAstete/Equipo9.github.io/blob/730ee02eee0cd0a22203858482b42d3dd368ee92/Documentaci%C3%B3n/Tem%C3%A1tica%20del%20proyecto)
 5. Contenido del curso 
 6. [Participantes](https://github.com/RosauraAstete/Equipo9.github.io/blob/a38499164b3151e389d34577a37e128685d73ed7/Documentaci%C3%B3n/Participantes)
-7. Docentes del curso
+7. [Docentes del curso](https://github.com/RosauraAstete/Equipo9.github.io/blob/30a9a1078963874a401112b5f35d3ca1f997cc9b/Documentaci%C3%B3n/Docentes%20del%20curso)
