@@ -3,7 +3,8 @@ Bienvenidos al repositorio del curso: Introducción a Señales Biomédicas
 
 El curso abordará los demás de adquisición y procesamiento de señales médicas. Se verá contenido teórico y práctico para conocer los procesos tecnológicos que se utilizan para el manejo de señales.
 
-Integrantes del grupo:
+Integrantes del grupo:  
+
 Sebastian Chion,
 Juan Mena,
 Valeria Zavaleta,
