@@ -3,6 +3,7 @@
 ## Sebastian Chion 
 ###### sebastian.chion@upch.pe
 **Área de interés:** Ingeniería Clínica
+
 <img src="https://i.postimg.cc/fbDQq1Mg/IMG-1667.jpg"  width="300" height="400">
 
 ## Juan Mena 
