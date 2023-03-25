@@ -12,3 +12,5 @@ Consta de los siguientes pasos:
 6. Proyectos preliminares.
 7. Matrices de evaluación.
 8. Proyecto óptimo. 
+
+![](https://i0.wp.com/myengineerings.com/wp-content/uploads/2020/04/image-5.png?resize=723%2C485&ssl=1)
