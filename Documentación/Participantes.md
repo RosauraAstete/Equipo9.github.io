@@ -8,7 +8,7 @@
 ##### juan.mena@upch.pe
 El área de mi interés es Señales e Imagenes Médicas
 
-<img src="https://i.postimg.cc/JnF3tVnT/Whats-App-Image-2021-09-06-at-5-42-25-PM.jpg">
+<img src="https://i.postimg.cc/JnF3tVnT/Whats-App-Image-2021-09-06-at-5-42-25-PM.jpg"  width="300" height="533.33">
 
 ## Valeria Zavaleta
 
