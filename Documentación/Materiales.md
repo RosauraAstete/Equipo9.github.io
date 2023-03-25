@@ -1,4 +1,6 @@
 
+## CONTENIDO DEL CURSO
+
 | Left-Aligned  | Center Aligned  | Right Aligned |
 |:------------- |:---------------:| -------------:|
 | Row 1         | Cell 2          | Cell 3        |
