@@ -3,7 +3,9 @@
 #### COORDINADORES
 ## Lewis De La Cruz
 ###### umbert.delacruz@upch.pe
-Magíster en Informática Biomédica en Salud Global con mención en Informática en Salud de la Universidad Peruana Cayetano Heredia. Es un entusiasta por la investigación y el desarrollo tecnológico. Fue director y fundador del Centro de Capacitación en tecnologías de la industria 4.0 de Data Science Research Perú. Fue coordinador de laboratorios especializados en la UTP Piura. Mentor en programas de Ingeniería Biomédica por la IEEE EMBS UTP Y UNMSM. En la actualidad se desempeña como docente e investigador de la Escuela de Ingeniería de UPCH.<div class="pull-right"><img src= "https://upchlabib.com/wp-content/uploads/2023/02/l1.jpg" /></div/>
+Magíster en Informática Biomédica en Salud Global con mención en Informática en Salud de la Universidad Peruana Cayetano Heredia. Es un entusiasta por la investigación y el desarrollo tecnológico. Fue director y fundador del Centro de Capacitación en tecnologías de la industria 4.0 de Data Science Research Perú. Fue coordinador de laboratorios especializados en la UTP Piura. Mentor en programas de Ingeniería Biomédica por la IEEE EMBS UTP Y UNMSM. En la actualidad se desempeña como docente e investigador de la Escuela de Ingeniería de UPCH.
+
+![](https://upchlabib.com/wp-content/uploads/2023/02/l1.jpg)
 
 ## Moises Meza
 ###### moises.meza@upch.pe
