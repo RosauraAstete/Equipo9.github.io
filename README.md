@@ -5,12 +5,12 @@ El curso abordará los demás de adquisición y procesamiento de señales médic
 
 Integrantes del grupo:  
 
-Sebastian Chion,
-Juan Mena,
-Valeria Zavaleta,
-Sofia Franco,
-Rosaura Astete,
-Ariana Figueroa,
+ - Sebastian Alberto Chion Alvarado (colaborador)-sebastian.chion@upch.pe
+ - Juan Mena,
+ - Valeria Zavaleta,
+ - Sofia Franco,
+ - Rosaura Astete,
+ - Ariana Figueroa,
 
 Señal de interés: ECG
 
