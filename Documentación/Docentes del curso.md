@@ -18,7 +18,7 @@ en programación de sistemas embebidos, machine learning e informpatica en salud
 ###### jo.alonsok@gmail.com
 Graduado de la Carrera de Ciencias Biomédicas de la Universidad Tecnológica de Sydney (Australia), cuenta además con un Diplomado en Ciencias de Datos de la Universidad Tecnológica de Monterrey (México). En la actualidad, se desempeña como analista de investigación científica y coordinador del área de investigación del Laboratorio Clinico ROE. Es uno de los fundadores y actual director de Tecnología e Información del emprendimiento social APPNEMIA. Sus principales intereses como investigador se encuentran dentro de las áreas de patología, inmunología y tecnología aplicada a ciencias de la salud. 
 
-<img src="https://upchlabib.com/wp-content/uploads/2023/02/alonso.jpg"  width="500" height="300">
+<img src="https://upchlabib.com/wp-content/uploads/2023/02/alonso.jpg"  width="450" height="300">
 
 ## Julissa Vennacio
 ###### julissa.venancio@upch.pe
