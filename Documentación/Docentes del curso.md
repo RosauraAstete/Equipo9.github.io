@@ -5,7 +5,7 @@
 ###### umbert.delacruz@upch.pe
 Magíster en la Informática Biomédica en Salud Global con mención en Informática en Salud de la 
 Universidad Peruana Cayetano Heredia.
-[![](https://upchlabib.com/cursos/isb/)](https://upchlabib.com/wp-content/uploads/2023/02/l1.jpg)
+![](https://upchlabib.com/wp-content/uploads/2023/02/l1.jpg)
 
 ## Moises Meza
 ###### moises.meza@upch.pe
