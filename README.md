@@ -1,7 +1,7 @@
 # Equipo9.github.io
 Curso: Introducción a Señales Biomédicas
 
-El curso abordará los demás de adquisición y procesamiento de señales médicas. Se verá contenido teórico y práctico para conocer los procesos tecnologicos qye se utilizan para el uso de señales.
+El curso abordará los demás de adquisición y procesamiento de señales médicas. Se verá contenido teórico y práctico para conocer los procesos tecnológicos que se utilizan para el manejo de señales.
 
 Integrantes del grupo:
 Sebastian Chion,
