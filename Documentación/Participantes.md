@@ -2,13 +2,13 @@
 
 ## Sebastian Chion 
 
-<img src="https://i.postimg.cc/jjXZxFP9/IMG-1667.jpg"  width="300" height="400">
+<img src="https://i.postimg.cc/jjXZxFP9/IMG-1667.jpg">
 
 ## Juan Mena 
 ##### juan.mena@upch.pe
 El área de mi interés es Señales e Imagenes Médicas
 
-<img src="https://i.postimg.cc/JnF3tVnT/Whats-App-Image-2021-09-06-at-5-42-25-PM.jpg"  width="300" height="400">
+<img src="https://i.postimg.cc/JnF3tVnT/Whats-App-Image-2021-09-06-at-5-42-25-PM.jpg">
 
 ## Valeria Zavaleta
 
@@ -30,4 +30,4 @@ El área de mi interés es tejidos y biomateriales
 ##### ariana.figueroa@upch.pe
 Tengo un interés por la investigación, desarrollo de prototipos y dispositivos biomedicina y por la impresión en 3D
 
-<img src="https://i.postimg.cc/7h7BkYV1/IMG-20220105-180620-01-2-1-preview-rev-1.png"  width="300" height="400">
+<img src="https://i.postimg.cc/7h7BkYV1/IMG-20220105-180620-01-2-1-preview-rev-1.png">
