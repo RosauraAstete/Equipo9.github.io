@@ -1,9 +1,9 @@
-# Equipo9.github.io
-Bienvenidos al repositorio del curso: Introducción a Señales Biomédicas
+# Introducción a Señales Biomédicas Equipo 9
+Bienvenidos al repositorio del curso: **Introducción a Señales Biomédicas**
 
 El curso abordará los demás de adquisición y procesamiento de señales médicas. Se verá contenido teórico y práctico para conocer los procesos tecnológicos que se utilizan para el manejo de señales.
 
-Integrantes del grupo:  
+**Integrantes del grupo:**  
 
  - Sebastian Alberto Chion Alvarado (colaborador) - sebastian.chion@upch.pe
  - Juan Manuel Mena Carrillo (colaborador) - juan.mena@upch.pe
@@ -12,7 +12,7 @@ Integrantes del grupo:
  - Rosaura Valeria Astete Castro (colaborador) - rosaura.astete@upch.pe
  - Ariana Milagros Figueroa Chavez (colaborador) - ariana.figueroa@upch.pe
 
-Señal de interés: ECG
+**Señal de interés:** ECG
 
 # Tabla de contenidos
 1. [¿Qué es una Bioseñal?](https://github.com/RosauraAstete/Equipo9.github.io/blob/c4dab56cb1faca911e6789620ad9b0c25090142d/Documentaci%C3%B3n/%C2%BFQu%C3%A9%20es%20una%20biose%C3%B1al%3F.md)
