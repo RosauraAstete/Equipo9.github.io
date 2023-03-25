@@ -16,7 +16,7 @@
 ###### valeria.zavaleta@upch.pe
 **Área de interés:** ingeniería clínica
 
-<img src="https://i.postimg.cc/ryjdGwPd/IMG-9109-1.jpg"  width="300" height="600">
+<img src="https://i.postimg.cc/63pMPRHg/IMG-9109.jpg"  width="240" height="320">
 
 ## Sofia Franco
 ###### sofia.franco@upch.pe
