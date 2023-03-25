@@ -1,9 +1,9 @@
-'Se propone el uso de Python como lenguaje principal debido a sus múltiples ventajas:
+Se propone el uso de Python como lenguaje principal debido a sus múltiples ventajas:
 Python es un lenguaje de programación interpretado, fácil de aprender y usar, multiplataforma y con una gran cantidad de bibliotecas y 
 herramientas para una amplia variedad de aplicaciones. Es un lenguaje de alto nivel que permite a los programadores concentrarse en la lógica del programa 
 en lugar de preocuparse por detalles técnicos. Python tiene una comunidad activa de programadores y desarrolladores que colaboran para crear y mantener bibliotecas 
 y herramientas útiles. 
-Además, los programas escritos en Python se pueden portar fácilmente a otros sistemas operativos, lo que lo hace muy versátil.'
+Además, los programas escritos en Python se pueden portar fácilmente a otros sistemas operativos, lo que lo hace muy versátil.
 
 ``` python
 
