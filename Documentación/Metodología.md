@@ -1,6 +1,8 @@
 
 #Metodología del diseño
+
 ##VDI 2221
+
 El modelo VDI 2221 centra sus actividades en la búsqueda de soluciones, con el fin de obtener información precisa para el desarrollo de un diseño eficaz que permita un prototipo que satisfaga en su totalidad las necesidades requeridas. El diseño de detalle contiene una participación importante según el diseño final.
 
 Consta de los siguientes pasos:
