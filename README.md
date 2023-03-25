@@ -21,4 +21,4 @@ El curso abordará los demás de adquisición y procesamiento de señales médic
 4. [Temática del proyecto](https://github.com/RosauraAstete/Equipo9.github.io/blob/9c88d9386a44558e1038440e3037d1503c23bc67/Documentaci%C3%B3n/Tem%C3%A1tica%20del%20proyecto.md)
 5. [Contenido del curso](https://github.com/RosauraAstete/Equipo9.github.io/blob/61a24a91259dc5158b6247f43b799c71650ed7c9/Documentaci%C3%B3n/Contenido%20del%20curso.md) 
 6. [Participantes](https://github.com/RosauraAstete/Equipo9.github.io/blob/eb819d622eb12daf2c0db1c5ab9dd5b87d4ca2d8/Documentaci%C3%B3n/Participantes.md)
-7. [Docentes del curso](https://github.com/RosauraAstete/Equipo9.github.io/blob/21800e2461a272893e8403d9eabe6458ec83eccb/Documentaci%C3%B3n/Docentes%20del%20curso.md)
+7. [Docentes del curso](https://github.com/RosauraAstete/Equipo9.github.io/blob/d72e489cec6edf81b8086c072bae931fc9ca79ee/Documentaci%C3%B3n/Docentes%20del%20curso.md)
