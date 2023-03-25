@@ -10,7 +10,7 @@ En resumen, una bioseñal es cualquier señal que se origina en un organismo viv
 funcionamiento y estado de salud.
 
 <p align="center">
-![Bioseñal](https://user-images.githubusercontent.com/90285838/227676737-9efc0d74-df07-418d-8be5-a01a570c086a.png)
+![Bioseñal](https://cdn.slidesharecdn.com/ss_thumbnails/biosealesalex-111106182529-phpapp02-thumbnail.jpg?width=600&height=600&fit=bounds)
 </p>
 
 **ECG:**
@@ -21,7 +21,7 @@ Es una señal eléctrica débil que se origina en las células del músculo card
 En resumen, es una bioseñal valiosa que se utiliza en una variedad de aplicaciones médicas, incluyendo la evaluación de la función cardíaca, la detección de trastornos cardíacos y el monitoreo del ritmo cardíaco durante la cirugía y otros procedimientos médicos. También se utiliza en la investigación médica para estudiar la actividad eléctrica del corazón y desarrollar nuevos tratamientos para enfermedades cardíacas.
 
 <p align="center">
-![image](https://user-images.githubusercontent.com/90285838/227677173-b36aff63-217e-4c2d-9715-d15ba631ee03.png)
+![ECG](https://content.healthwise.net/resources/13.6/es-us/media/medical/hw/s_h9991262_001_2.jpg)
 </p>
 
 
