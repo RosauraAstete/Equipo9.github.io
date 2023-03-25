@@ -6,6 +6,7 @@ y herramientas útiles.
 Además, los programas escritos en Python se pueden portar fácilmente a otros sistemas operativos, lo que lo hace muy versátil.'
 
 '''python
+
 print(): para imprimir mensajes en la consola o pantalla.
 Ejemplo: print("Hola, mundo!")
 
