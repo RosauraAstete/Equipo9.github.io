@@ -1,22 +1,22 @@
-## PARTICIPANTES
+### PARTICIPANTES
 
-### Sebastian Chion 
+## Sebastian Chion 
 
-### Juan Mena 
+## Juan Mena 
 ##### juan.mena@upch.pe
 El área de mi interés es Señales e Imagenes Médicas
 
-### Valeria Zavaleta
+## Valeria Zavaleta
 
-### Sofia Franco
+## Sofia Franco
 ##### sofia.franco@upch.pe
 Me interesa el área de biomecánica y rehabilitación, especialmente la rehabilitación deportiva. Además estoy interesada en la manufactura y la impresión 3D.
-![](https://i.postimg.cc/XYts153H/SOFI3.jpg)
+![](https://i.postimg.cc/XYts153H/SOFI3.jpg) width="300" height="300"
 
-### Rosaura Astete 
+## Rosaura Astete 
 ##### rosaura.astete@upch.pe
 El área de mi interés es tejidos y biomateriales
 
-### Ariana Figueroa
+## Ariana Figueroa
 ##### ariana.figueroa@upch.pe
 Tengo un interés por la investigación, desarrollo de prototipos y dispositivos biomedicina y por la impresión en 3D
