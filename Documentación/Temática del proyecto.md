@@ -1,4 +1,5 @@
 #Tema central
+
 El tema central del proyecto será realizar un dipositivo o procedimiento que sea capaz de adquirir y procesar bioseñales como ECG, EEG, EMG, EOG, entre otras. Para el final del curso se realizara un prototipo de baja/mediana fidelidad.
 
 ##Adquisición de la señal médica
