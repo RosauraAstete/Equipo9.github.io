@@ -1,5 +1,5 @@
 
-## CONTENIDO DEL CURSO
+## MATERIALES
 
 | Left-Aligned  | Center Aligned  | Right Aligned |
 |:------------- |:---------------:| -------------:|
