@@ -5,7 +5,7 @@ en lugar de preocuparse por detalles técnicos. Python tiene una comunidad activ
 y herramientas útiles. 
 Además, los programas escritos en Python se pueden portar fácilmente a otros sistemas operativos, lo que lo hace muy versátil.'
 
-'''python
+``` python
 
 print(): para imprimir mensajes en la consola o pantalla.
 Ejemplo: print("Hola, mundo!")
@@ -31,3 +31,4 @@ import: para importar módulos o bibliotecas en el programa.
 Ejemplo:
 import math
 x = math.sqrt(16)
+```
