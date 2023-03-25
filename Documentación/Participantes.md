@@ -11,6 +11,7 @@ El área de mi interés es Señales e Imagenes Médicas
 ### Sofia Franco
 ##### sofia.franco@upch.pe
 Me interesa el área de biomecánica y rehabilitación, especialmente la rehabilitación deportiva. Además estoy interesada en la manufactura y la impresión 3D.
+![](https://i.postimg.cc/XYts153H/SOFI3.jpg)
 
 ### Rosaura Astete 
 ##### rosaura.astete@upch.pe
