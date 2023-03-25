@@ -12,7 +12,7 @@ El área de mi interés es Señales e Imagenes Médicas
 
 ## Valeria Zavaleta
 ###### valeria.zavaleta@upch.pe
-<img src="https://i.postimg.cc/XYts153H/SOFI3.jpg"  width="300" height="400">
+
 
 ## Sofia Franco
 ###### sofia.franco@upch.pe
@@ -30,4 +30,4 @@ El área de mi interés es tejidos y biomateriales
 ###### ariana.figueroa@upch.pe
 Tengo un interés por la investigación, desarrollo de prototipos y dispositivos biomedicina y por la impresión en 3D
 
-<img src="https://i.postimg.cc/7h7BkYV1/IMG-20220105-180620-01-2-1-preview-rev-1.png"  width="400" height="400">
+<img src="https://i.postimg.cc/7h7BkYV1/IMG-20220105-180620-01-2-1-preview-rev-1.png"  width="300" height="300">
