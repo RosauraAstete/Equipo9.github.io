@@ -12,7 +12,7 @@ El curso abordará los demás de adquisición y procesamiento de señales médic
  - Rosaura Valeria Astete Castro (colaborador) - rosaura.astete@upch.pe
  - Ariana Milagros Figueroa Chavez (colaborador) - ariana.figueroa@upch.pe
 
-**Señal de interés:** ECG
+**Señal de interés:** Electrocardiograma (ECG)
 
 # Tabla de contenidos
 1. [¿Qué es una Bioseñal?](https://github.com/RosauraAstete/Equipo9.github.io/blob/2ab97ced22c58ae29c03555f2b64ad15376a1636/Documentaci%C3%B3n/%C2%BFQu%C3%A9%20es%20una%20biose%C3%B1al%3F.md)
