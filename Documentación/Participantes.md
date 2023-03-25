@@ -10,12 +10,12 @@
 ###### juan.mena@upch.pe
 **Área de interés:** Señales e Imagenes Médicas
 
-<img src="https://i.postimg.cc/XYh0VJft/IMG-9109.jpg"  width="300" height="533.33">
+<img src="https://i.postimg.cc/JnF3tVnT/Whats-App-Image-2021-09-06-at-5-42-25-PM.jpg"  width="300" height="533.33">
 
 ## Valeria Zavaleta
 ###### valeria.zavaleta@upch.pe
 **Área de interés:** ingeniería clínica
-<img src="https://i.postimg.cc/JnF3tVnT/Whats-App-Image-2021-09-06-at-5-42-25-PM.jpg"  width="300" height="533.33">
+<img src="https://i.postimg.cc/ryjdGwPd/IMG-9109-1.jpg"  width="300" height="533.33">
 
 ## Sofia Franco
 ###### sofia.franco@upch.pe
