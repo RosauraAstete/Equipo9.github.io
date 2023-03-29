@@ -4,7 +4,7 @@
 ###### sebastian.chion@upch.pe
 **Área de interés:** Ingeniería Clínica
 
-<img align="center" src="https://i.postimg.cc/fbDQq1Mg/IMG-1667.jpg"  width="300" height="400">
+<img align="center" width="300" height="400" src="https://i.postimg.cc/fbDQq1Mg/IMG-1667.jpg">
 
 ## Juan Mena 
 ###### juan.mena@upch.pe
