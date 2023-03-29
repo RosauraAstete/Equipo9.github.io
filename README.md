@@ -1,7 +1,10 @@
-# Introducción a Señales Biomédicas Equipo 9 
-Bienvenidos al repositorio del curso: **Introducción a Señales Biomédicas**
+# Introducción a Señales Biomédicas
+Bienvenidos al repositorio del **equipo 9**
 
-El curso abordará los temás de adquisición y procesamiento de señales médicas. Se verá contenido teórico y práctico para conocer los procesos tecnológicos que se utilizan para el manejo de señales.
+Somos estudiantes de la carrera de Ingeniería Biomédica PUCP-UPCH 2023-1.
+El proyecto abordará los temás de adquisición y procesamiento de señales médicas. Se verá contenido teórico y práctico para conocer los procesos tecnológicos que se utilizan para el manejo de señales.
+
+**Señal de interés:** Electrocardiograma (ECG)
 
 **Integrantes del grupo:**  
 
@@ -11,8 +14,6 @@ El curso abordará los temás de adquisición y procesamiento de señales médic
  - Sofia Micaela Franco Zevallos (colaborador) - sofia.franco@upch.pe
  - Rosaura Valeria Astete Castro (colaborador) - rosaura.astete@upch.pe
  - Ariana Milagros Figueroa Chavez (colaborador) - ariana.figueroa@upch.pe
-
-**Señal de interés:** Electrocardiograma (ECG)
 
 # Tabla de contenidos
 1. [¿Qué es una Bioseñal?](https://github.com/RosauraAstete/Equipo9.github.io/blob/2ab97ced22c58ae29c03555f2b64ad15376a1636/Documentaci%C3%B3n/%C2%BFQu%C3%A9%20es%20una%20biose%C3%B1al%3F.md)
