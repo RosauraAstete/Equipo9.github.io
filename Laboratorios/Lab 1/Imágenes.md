@@ -7,6 +7,6 @@ Sinusoidal: https://i.postimg.cc/26bM3H97/CC3-ABE81-CD09-4-FF0-A9-FF-E0197-A558-
 
 <p align=“center”> 
 
-<img align=“center” width=“300” height=“400” scr=”https://postimg.cc/gallery/7230VLV">
+<img align=“center” width=“300” height=“400” scr=“https://postimg.cc/gallery/7230VLV”>
 
 </p>
