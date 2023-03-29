@@ -21,7 +21,7 @@
 **Área de interés:** ingeniería clínica
 
 <p align="center"> 
-<img src="https://i.postimg.cc/63pMPRHg/IMG-9109.jpg"  width="240" height="320" align="center">
+<img src="https://i.postimg.cc/90t9n5z1/val.jpg"  width="300" height="400" align="center">
 </p>
 
 ## Sofia Franco
