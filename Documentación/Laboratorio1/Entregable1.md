@@ -19,7 +19,7 @@
 |      Señal originada mediante el Generador de señales         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio1/Archivos/TriangularGenerador.PNG)          |
 | Señal obtenida en el Osciloscopio         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio1/Archivos/TriangularOsciloscopio.PNG)          |
 | Señal obtenida y graficada en Arduino        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio1/Archivos/TriangularArduino.jpeg)          |
-| Señal graficada en Python        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio1/Archivos/TriangularPython.png)          |
+| Señal graficada en Python y Código en [Google Collab](https://colab.research.google.com/drive/12_nSBH1koHt02jyglJE-G3P-omtsNi12?usp=sharing)       | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio1/Archivos/TriangularPython.png)          |
 
 ## Señal Cuadrada
 
