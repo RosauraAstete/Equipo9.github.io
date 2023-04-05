@@ -16,7 +16,7 @@
 ## Video de la señal EMG adquirida
 
 <p align="center"> 
-<img align="center" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/EMG.GIF">
+<img align="center" width="800" height="400" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/EMG.GIF">
 </p>
 
 
