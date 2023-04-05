@@ -22,4 +22,4 @@ El proyecto abordará los temás de adquisición y procesamiento de señales mé
 4. [Temática del proyecto](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Tem%C3%A1tica%20del%20proyecto.md)
 5. [Contenido del curso](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Contenido%20del%20curso.md) 
 6. [Participantes](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Participantes.md)
-7. [Docentes del curso](https://github.com/RosauraAstete/Equipo9.github.io/blob/becceda7a87966b4b0ae8ab6480c35735e4cf2b3/Documentaci%C3%B3n/Docentes%20del%20curso.md)
+7. [Docentes del curso](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Docentes%20del%20curso.md)
