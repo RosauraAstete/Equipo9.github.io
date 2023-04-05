@@ -30,7 +30,7 @@
 |      Señal originada mediante el Generador de señales         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio1/Archivos/CuadradaGenerador.PNG)          |
 | Señal obtenida en el Osciloscopio         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio1/Archivos/CuadradaOsciloscopio.PNG)          |
 | Señal obtenida y graficada en Arduino        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio1/Archivos/CuadradaArduino.jpeg)          |
-| Señal graficada en Python        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio1/Archivos/CuadradaPython.png)          |
+| Señal graficada en Python y Código en [Google Collab](https://colab.research.google.com/drive/13uO8DAhqXYyyNppZi5XEAAY37xugvTKT?usp=sharing)       | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio1/Archivos/CuadradaPython.png)          |
 
 
 ## Código en Arduino 
