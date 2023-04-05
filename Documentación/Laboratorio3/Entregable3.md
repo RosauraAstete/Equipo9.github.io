@@ -13,9 +13,9 @@
 | BITalino-cables         | <img src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/ConexionesBiTalino.png"  width="400" height="300">|
 | Electrodos-Cuerpo       | <img src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/ConexionesBrazo.png"  width="400" height="300">|
 
+## Video de la señal EMG adquirida
 
-
-
+![v](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/EMG.GIF)
 
 ## Definición de EMG:
 EMG (Electromyography) es una técnica de diagnóstico médico que se utiliza para evaluar la actividad eléctrica de los músculos para investigación médica, rehabilitación y evaluación de trastornos neuromusculares. La EMG implica el uso de electrodos colocados en la superficie de la piel o en agujas finas que se insertan en el músculo para medir la actividad eléctrica durante la contracción muscular.
