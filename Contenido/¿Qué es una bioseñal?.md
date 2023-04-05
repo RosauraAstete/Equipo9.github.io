@@ -10,7 +10,7 @@ En resumen, una bioseñal es cualquier señal que se origina en un organismo viv
 funcionamiento y estado de salud.
 
 <p align="center"> 
-<img src="https://cdn.slidesharecdn.com/ss_thumbnails/biosealesalex-111106182529-phpapp02-thumbnail.jpg?width=600&height=600&fit=bounds" align="center">
+<img src="https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-030-43395-6_2/MediaObjects/107245_3_En_2_Fig1_HTML.png" align="center">
 </p>
 
 
