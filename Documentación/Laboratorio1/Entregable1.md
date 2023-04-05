@@ -33,6 +33,8 @@
 | Señal graficada en Python        | Cell 8          |
 
 
+## Código en Arduino 
+
 ```Arduino
 unsigned long lastMsg = 0;
 float  Fmax=20;                      // 1 hz
