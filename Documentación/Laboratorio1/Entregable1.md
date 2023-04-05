@@ -8,7 +8,8 @@
 |      Señal originada mediante el Generador de señales         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio1/Archivos/SinusoidalGenerador.PNG)          |
 | Señal obtenida en el Osciloscopio         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio1/Archivos/SinusoidalOsciloscopio.PNG)          |
 | Señal obtenida y graficada en Arduino        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio1/Archivos/SinusoidalArduino.jpeg)          |
-| Señal graficada en Python        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio1/Archivos/SinusoidalPython.png)          |
+| Señal graficada en Python
+Código en [Google Collab](https://colab.research.google.com/drive/1fOutGNwRVHa_bOO49fnBsoD3h91hk9yZ?usp=sharing)| ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio1/Archivos/SinusoidalPython.png)          |
 
 ## Señal Triangular
 
