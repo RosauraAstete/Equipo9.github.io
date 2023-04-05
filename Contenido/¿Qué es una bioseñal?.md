@@ -9,6 +9,10 @@ mediante técnicas de imagenología, como la resonancia magnética (RM) y la tom
 En resumen, una bioseñal es cualquier señal que se origina en un organismo vivo y que puede ser medida y analizada para obtener información sobre su 
 funcionamiento y estado de salud.
 
+<p align="center"> 
+<img src="https://cdn.slidesharecdn.com/ss_thumbnails/biosealesalex-111106182529-phpapp02-thumbnail.jpg?width=600&height=600&fit=bounds" align="center">
+</p>
+
 ![Bioseñal](https://cdn.slidesharecdn.com/ss_thumbnails/biosealesalex-111106182529-phpapp02-thumbnail.jpg?width=600&height=600&fit=bounds)
 
 **ECG:**
