@@ -10,8 +10,8 @@
 
 | Conexión  | Imagen |
 |:-------------: |:---------------:|
-| BITalino-cables         | Cell 2          |
-| Electrodos-Cuerpo       | Cell 5          |
+| BITalino-cables         | ![bi](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/ConexionesBiTalino.png)          |
+| Electrodos-Cuerpo       | ![bi](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/ConexionesBrazo.png)          |
 
 
 
