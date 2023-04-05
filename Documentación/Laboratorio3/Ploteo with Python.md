@@ -12,9 +12,9 @@
 
 
 
-###Python code
+### Python code
 ------------
-```pyhton
+```python
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -78,3 +78,4 @@ plt.title("FFT en el decibelios")
 plt.xlim([0,200])
 plt.xticks(np.arange(0,200,10))
 plt.show()
+```
