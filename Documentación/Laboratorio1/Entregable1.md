@@ -32,3 +32,38 @@
 | Señal obtenida y graficada en Arduino        | Cell 8          |
 | Señal graficada en Python        | Cell 8          |
 
+
+```Arduino
+unsigned long lastMsg = 0;
+float  Fmax=20;                      // 1 hz
+double  Fs = 10*Fmax;               // 10 hz
+double Ts_ms = (1/Fs)*1000;     //  100 ms  
+
+void setup() {
+  Serial.begin(9600);
+  while (!Serial);
+  analogReadResolution(10);
+  //Serial.println("R1:,R2:,");
+}
+
+void loop() {
+
+  unsigned long now = millis();
+
+  if (now - lastMsg > Ts_ms) {
+    
+    lastMsg = now;
+
+    int r1 = analogRead(A0);
+    float voltage = r1*3.3/1023.0;
+    //int r2 = random(10);
+
+    Serial.print("Señal1:");
+    Serial.print(voltage);
+    Serial.println(",");
+    //Serial.print("Señal2:");
+    //Serial.println(r2);
+  }
+
+}
+```
