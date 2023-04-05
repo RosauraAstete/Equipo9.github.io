@@ -18,7 +18,7 @@ El proyecto abordará los temás de adquisición y procesamiento de señales mé
 # Tabla de contenidos
 1. [¿Qué es una Bioseñal?](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/%C2%BFQu%C3%A9%20es%20una%20biose%C3%B1al%3F.md)
 2. [Materiales](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Materiales.md)
-3. [Metodología](https://github.com/RosauraAstete/Equipo9.github.io/blob/61ec15e51fc1bca3d708a452a562af16ad6dfe3b/Documentaci%C3%B3n/Metodolog%C3%ADa.md)
+3. [Metodología](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Metodolog%C3%ADa.md)
 4. [Temática del proyecto](https://github.com/RosauraAstete/Equipo9.github.io/blob/87dc3edd5b80a6cc350e03a5f40beae401cfd793/Documentaci%C3%B3n/Tem%C3%A1tica%20del%20proyecto.md)
 5. [Contenido del curso](https://github.com/RosauraAstete/Equipo9.github.io/blob/61a24a91259dc5158b6247f43b799c71650ed7c9/Documentaci%C3%B3n/Contenido%20del%20curso.md) 
 6. [Participantes](https://github.com/RosauraAstete/Equipo9.github.io/blob/94eae3f4d9878dd0ff797edd1428fd816ba5fe99/Documentaci%C3%B3n/Participantes.md)
