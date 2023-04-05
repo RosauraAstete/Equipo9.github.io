@@ -3,11 +3,12 @@
 ## Señal Sinusoidal
 
 
-
+| Señal  | Imagen  |
 |:------------- |:---------------:|
-| Row 1         | Cell 2          |
-| Row 2         | Cell 5          |
-| Row 3         | Cell 8          |
+| Señal originada mediante el Generador de señales         | Cell 2          |
+| Señal obtenida en el Osciloscopio         | Cell 5          |
+| Señal obtenida y graficada en Arduino        | Cell 8          |
+| Señal graficada en Python        | Cell 8          |
 
 ## Señal Triangular
 
