@@ -13,7 +13,7 @@
 | BITalino-cables         | ![bi](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/ConexionesBiTalino.png){width=400 height=300}       |
 | Electrodos-Cuerpo       | ![bi](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/ConexionesBrazo.png)          |
 
-
+<img src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/ConexionesBiTalino.png"  width="400" height="300">
 
 
 
