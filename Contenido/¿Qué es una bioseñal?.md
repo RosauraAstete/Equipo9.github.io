@@ -13,7 +13,6 @@ funcionamiento y estado de salud.
 <img src="https://cdn.slidesharecdn.com/ss_thumbnails/biosealesalex-111106182529-phpapp02-thumbnail.jpg?width=600&height=600&fit=bounds" align="center">
 </p>
 
-![Bioseñal](https://cdn.slidesharecdn.com/ss_thumbnails/biosealesalex-111106182529-phpapp02-thumbnail.jpg?width=600&height=600&fit=bounds)
 
 **ECG:**
 Un electrocardiograma (ECG) es una bioseñal que se utiliza para medir la actividad eléctrica del corazón a lo largo del tiempo y se puede utilizar para detectar trastornos cardíacos y evaluar la función cardíaca.
@@ -23,8 +22,9 @@ Es una señal eléctrica débil que se origina en las células del músculo card
 En resumen, es una bioseñal valiosa que se utiliza en una variedad de aplicaciones médicas, incluyendo la evaluación de la función cardíaca, la detección de trastornos cardíacos y el monitoreo del ritmo cardíaco durante la cirugía y otros procedimientos médicos. También se utiliza en la investigación médica para estudiar la actividad eléctrica del corazón y desarrollar nuevos tratamientos para enfermedades cardíacas.
 
 
-![ECG](https://content.healthwise.net/resources/13.6/es-us/media/medical/hw/s_h9991262_001_2.jpg)
-
+<p align="center"> 
+<img src="https://content.healthwise.net/resources/13.6/es-us/media/medical/hw/s_h9991262_001_2.jpg" align="center">
+</p>
 
 
 
