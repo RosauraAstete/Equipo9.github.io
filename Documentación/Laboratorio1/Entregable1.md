@@ -4,7 +4,7 @@
 
 
 | Señal  | Imagen  |
-|:------------- |:---------------:|
+|:-------------: |:---------------:|
 | Señal originada mediante el Generador de señales         | Cell 2          |
 | Señal obtenida en el Osciloscopio         | Cell 5          |
 | Señal obtenida y graficada en Arduino        | Cell 8          |
