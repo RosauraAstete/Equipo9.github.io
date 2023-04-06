@@ -25,12 +25,12 @@ Al igual que los nervios, el tejido muscular conduce potenciales eléctricos y s
 
 No obstante, al detectar y registrar una señal EMG existen factores que afectan en la fidelidad de una señal, tales como la relación señal-ruido y la distorsión de una señal.
 Para hablar de la relación señal-ruido debemos de tener en cuenta que el rango de amplitud de una señal EMG es 0-10mV antes de una amplificación y estas señales adquieren ruido mientras van a través de los diferentes tejidos; sin embargo, el ruido eléctrico que afecta la señal EMG se puede clasificar de la siguiente forma:
-Ruido inherente a los equipos médicos
-Ruido ambiental
-Artefacto de movimiento
-Inestabilidad inherente de la señal
+ - Ruido inherente a los equipos médicos
+ - Ruido ambiental
+ - Artefacto de movimiento
+ - Inestabilidad inherente de la señal
 
-Para poder entender y explicar mejor las tres imágenes obtenidas en el laboratorio se debe de tener en consideración la siguiente imagen, en la cual se observan los cambios de amplitud cuando el músculo se encuentra en reposo y cuando existe una contracción muscular.
+Para poder entender y explicar mejor las tres imágenes obtenidas en el laboratorio, se debe de tener en consideración la siguiente imagen, en la cual se observan los cambios de amplitud cuando el músculo se encuentra en reposo y cuando existe una contracción muscular.
 
 <p align="center"> 
 <img src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/EjemploEMG.png" align="center">
