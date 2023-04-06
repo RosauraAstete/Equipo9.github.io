@@ -23,10 +23,8 @@
 
 | <!-- -->      | <!-- -->        |
 |:-------------: |:---------------:|
-|![o](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/Onda1.png)   | Explicación: jscidvorjneroibnvifmvfvmfo mfo fepv,fjnbnjbb          |
-
+|![o](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/Onda1.png)   | Explicación: jscidvorjneroibnvifmvfvmfo mfo fepv,fjnbnjbb djnvnidvnrinrbirnbirbmitbmtibtb         |
 |![o](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/Onda2.png)   | Explicación          |
-
 |![o](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/Onda3.png)   | Explicación          |
 
 
