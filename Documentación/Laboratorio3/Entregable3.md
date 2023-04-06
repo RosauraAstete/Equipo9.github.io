@@ -32,7 +32,7 @@
 
 | Señal  | Imagen  | Señal | Imagen |
 |:-------------: |:---------------:| :-------------:|:-------------:|
-| Señal EMC         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/se%C3%B1alEMC.png)        | FFT        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/FFT.png)        |
+| Señal EMG         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/se%C3%B1alEMC.png)        | FFT        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/FFT.png)        |
 | FFT en decibelios (dB)         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/FFTdB.png)        | Señal graficada en Python y Código en [Google Collab](https://colab.research.google.com/drive/12pRxEPb44RMLwJIfce5WDyqkPjPfjwqx?usp=sharing)         | Cell 3        |
 
 
@@ -52,9 +52,9 @@ array1
 
 plt.plot(array1[:,-2])
 plt.xlabel("Número de muestras")
-plt.title("Señal EMC")
+plt.title("Señal EMG")
 
-###Señal EMC en función del tiempo
+###Señal EMG en función del tiempo
 
 ## Sabemos que la frecuencia de muestrero fue de 1000 Hz
 Fs = 1000
@@ -63,7 +63,7 @@ n = len(array1[:,-2])
 t = np.arange(0,25800,1)*Ts
 plt.plot(t, array1[:,-2])
 plt.xlabel("Tiempo [segundos]")
-plt.title("Señal EMC")
+plt.title("Señal EMG")
 
 ###FFT en frecuencia normalizada en radianes
 
