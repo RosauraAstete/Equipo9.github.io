@@ -32,7 +32,7 @@ EMG (Electromyography) es una técnica de diagnóstico médico que se utiliza pa
 ## Archivos de los datos de la señal ploteada
 | <!-- -->      | <!-- -->        |
 |:-------------:|:---------------:|
-| Row 1         | **Bold**        | 
+| [Video3](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/Video3.txt)         | [Video3Modificado](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/Video3Modificado.txt)       | 
 
 ## Ploteo de la señal en Python
 
