@@ -19,6 +19,18 @@
 <img align="center" width="900" height="450" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/EMG.GIF">
 </p>
 
+## Ploteo de la señal en OpenSignals
+
+| Left-Aligned  | Ploteo  | Right Aligned |
+|:-------------: |:---------------:| :-------------:|
+| Row 1         | Cell 2          | Cell 3        |
+| Explicación         | Explicación          | Explicación       |
+
+
+
+
+
+
 
 
 ***
