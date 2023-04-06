@@ -21,7 +21,7 @@
 
 ## Ploteo de la señal en OpenSignals
 
-
+| <!-- -->      | <!-- -->        | <!-- -->      |
 |:-------------: |:---------------:| :-------------:|
 | Row 1         | Cell 2          | Cell 3        |
 | Explicación         | Explicación          | Explicación       |
