@@ -32,7 +32,9 @@ Inestabilidad inherente de la señal
 
 Para poder entender y explicar mejor las tres imágenes obtenidas en el laboratorio se debe de tener en consideración la siguiente imagen, en la cual se observan los cambios de amplitud cuando el músculo se encuentra en reposo y cuando existe una contracción muscular.
 
-
+<p align="center"> 
+<img src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/EjemploEMG.PNG" align="center">
+</p>
 
 
 | <!-- -->      | <!-- -->        |
