@@ -1,7 +1,7 @@
 # **LABORATORIO 3: Uso de BiTalino para EMG**
 
 ## OBJETIVOS
-- Adquirir señal biomédica de EMG.
+- Adquirir señal biomédica de EMG. 
 - Hacer una correcta configuración de BiTalino.
 - Extraer la información de la señal EMG del software OpenSignals (r)evolution
 
