@@ -22,7 +22,7 @@
 ## Ploteo de la señal en OpenSignals
 
 EMG (Electromyography) es una técnica de diagnóstico médico que se utiliza para evaluar la actividad eléctrica de los músculos para investigación médica, rehabilitación y evaluación de trastornos neuromusculares. La EMG implica el uso de electrodos colocados en la superficie de la piel o en agujas finas que se insertan en el músculo para medir la actividad eléctrica durante la contracción muscular.
-Durante el laboratorio se  colocaron el electrodo positivo y negativo sobre el bíceps braquial y el electrodo de tierra se colo sobre la muñeca.
+Durante el laboratorio se  coloco el electrodo positivo y negativo sobre el bíceps braquial y el electrodo de tierra se colo sobre la muñeca.
 
 | <!-- -->      | <!-- -->        |
 |:-------------: |:---------------:|
