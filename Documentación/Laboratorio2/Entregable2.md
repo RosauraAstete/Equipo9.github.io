@@ -1,4 +1,4 @@
-# Laboratorio 1
+# Laboratorio 2: Adquisición de Señales y Graficación en Arduino
 
 ## Señal Sinusoidal
 
