@@ -21,7 +21,7 @@
 
 ## Ploteo de la señal en OpenSignals
 
-| Left-Aligned   Ploteo   Right Aligned |
+| Left-Aligned |  Ploteo  | Right Aligned |
 |:-------------: |:---------------:| :-------------:|
 | Row 1         | Cell 2          | Cell 3        |
 | Explicación         | Explicación          | Explicación       |
