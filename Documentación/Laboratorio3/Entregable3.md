@@ -21,8 +21,19 @@
 
 ## Ploteo de la señal en OpenSignals
 
-EMG (Electromyography) es una técnica de diagnóstico médico que se utiliza para evaluar la actividad eléctrica de los músculos para investigación médica, rehabilitación y evaluación de trastornos neuromusculares. La EMG implica el uso de electrodos colocados en la superficie de la piel o en agujas finas que se insertan en el músculo para medir la actividad eléctrica durante la contracción muscular.
-Durante el laboratorio se  coloco el electrodo positivo y negativo sobre el bíceps braquial y el electrodo de tierra se colo sobre la muñeca.
+Al igual que los nervios, el tejido muscular conduce potenciales eléctricos y se el nombre asignado a estas señales eléctricas es potencial de acción muscular. Desde el aspecto anatómico y fisiológico, un músculo está compuesto por haces de células especializadas capaces de contraerse y relajarse. En el caso del tejido muscular, este tiene extensibilidad, elasticidad, capacidad de recibir y responder a estímulos y puede acortarse o contraerse. Si bien se pueden identificar tres tipos de tejido muscular, la EMG se aplica para el estudio del músculo esquelético, el cual está unido al hueso y su contracción es la responsable de sostener y mover el esqueleto, esta contracción es iniciada por impulsos de neuronas motoras las cuales pueden proporcionar estimulaciones a muchas fibras musculares. 
+
+No obstante, al detectar y registrar una señal EMG existen factores que afectan en la fidelidad de una señal, tales como la relación señal-ruido y la distorsión de una señal.
+Para hablar de la relación señal-ruido debemos de tener en cuenta que el rango de amplitud de una señal EMG es 0-10mV antes de una amplificación y estas señales adquieren ruido mientras van a través de los diferentes tejidos; sin embargo, el ruido eléctrico que afecta la señal EMG se puede clasificar de la siguiente forma:
+Ruido inherente a los equipos médicos
+Ruido ambiental
+Artefacto de movimiento
+Inestabilidad inherente de la señal
+
+Para poder entender y explicar mejor las tres imágenes obtenidas en el laboratorio se debe de tener en consideración la siguiente imagen, en la cual se observan los cambios de amplitud cuando el músculo se encuentra en reposo y cuando existe una contracción muscular.
+
+
+
 
 | <!-- -->      | <!-- -->        |
 |:-------------: |:---------------:|
