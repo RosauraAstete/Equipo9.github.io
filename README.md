@@ -2,7 +2,7 @@
 Bienvenidos al repositorio del **equipo 9**
 
 Somos estudiantes de la carrera de Ingeniería Biomédica PUCP-UPCH 2023-1.
-El proyecto abordará los temás de adquisición y procesamiento de señales médicas. Se verá contenido teórico y práctico para conocer los procesos tecnológicos que se utilizan para el manejo de señales.
+El proyecto abordará los temas de adquisición y procesamiento de señales médicas. Se verá contenido teórico y práctico para conocer los procesos tecnológicos que se utilizan para el manejo de señales.
 
 **Señal de interés:** Electrocardiograma (ECG)
 
