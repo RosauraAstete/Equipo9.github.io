@@ -40,7 +40,7 @@ Para poder entender y explicar mejor las tres imágenes obtenidas en el laborato
 | <!-- -->      | <!-- -->        |
 |:-------------: |:---------------:|
 |![o](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/Onda1.png)   | En esta primera imagen se puede observar la señal de EMG durante el silencio eléctrico o el reposo. La amplitud de la señal es muy pequeña y no varía mucho. La pequeña magnitud que se aprecia antes del cambio se debe al ruido explicado anteriormente y a los pequeños movimientos del brazo en reposo.    |
-|![o](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/Onda2.png)   | Explicación: Se puede ver un incremento en la amplitud de la señal, esto se debe a que en ese momento se contrajo el músculo. La contracción del músculo genera la activación de más unidades motoras.         |
+|![o](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/Onda2.png)   | Se puede ver un incremento en la amplitud de la señal, esto se debe a que en ese momento se comenzó a contraer el músculo y generó la activación de más unidades motoras. Asimismo, la forma de onda es distinta en cada instante de la contacción, esto debido a que se usan diferentes unidades motoras.        |
 |![o](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/Onda3.png)   | Explicación: En esta última imagen podemos ver como la amplitud de la señal cae hasta llegar al punto neutro donde se queda estable. Esto se debe a que el músculo pasa de estar contraído, ha estar relajado. |        
 
 ## Archivos de los datos de la señal ploteada
