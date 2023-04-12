@@ -52,24 +52,33 @@ Asimismo, la velocidad con la que se mueve el electrocardiógrafo es de 25mm/seg
 ### SEÑAL DEL ELECTROCARDIOGRAMA
 La señal del ECG tiene como objetivo reflejar la actividad eléctrica del corazón observada desde puntos estratégicos del cuerpo humano. Esta señal se caracteriza por cinco picos conocidos como puntos de referencia, que se representan con las letras P,Q,R, S y T [3].
 
-La onda P es el resultado de la despolarización de la aurícula y el ventrículo provoca el resto de picos.
-Intervalo PR representa el tiempo desde el comienzo de la despolarización auricular hasta el comienzo de la despolarización ventricular e incluye el retraso en el nodo AV
-El complejo QRS es la despolarización de ambos ventrículos cardiacos, utilizado como punto de referencia para el análisis de señales.
-El intervalo QT es un indicador de la repolarizacíón ventricular
-El segmento ST representa el final de la despolarización ventricular y el comienzo de la repolarización ventricular
-La onda Q representa la despolarización del tabique interventricular.
-La onda R representa el estímulo eléctrico a medida que pasa por los ventrículos durante la despolarización.
-La onda S representa la despolarización final de las fibras de Purkinje.
-La onda T representa la repolarización ventricular [1][3].
-
+- La onda P es el resultado de la despolarización de la aurícula y el ventrículo provoca el resto de picos.
+- Intervalo PR representa el tiempo desde el comienzo de la despolarización auricular hasta el comienzo de la despolarización ventricular e incluye el retraso en el nodo AV
+- El complejo QRS es la despolarización de ambos ventrículos cardiacos, utilizado como punto de referencia para el análisis de señales.
+- El intervalo QT es un indicador de la repolarizacíón ventricular
+- El segmento ST representa el final de la despolarización ventricular y el comienzo de la repolarización ventricular
+- La onda Q representa la despolarización del tabique interventricular.
+- La onda R representa el estímulo eléctrico a medida que pasa por los ventrículos durante la despolarización.
+- La onda S representa la despolarización final de las fibras de Purkinje.
+- La onda T representa la repolarización ventricular [1][3].
+<p align="center"> 
+<img align="center" width="900" height="450" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/ecg2.jpg">
+</p>
 
 
 
 ## Colocación de los electrodos
 ---
-En el primer ensayo, la colocación de los electrodos positivo y negativo fue debajo de las clavículas izquierda y derecha respectivamente. El electrodo de referencia se colocó en la cresta ilíaca [a]. Esta ubicación se debe a que en estos puntos se proporciona una vista óptima del corazón. Además, en esta posición se evita la interferencia generada por otros músculos del pecho que se movilizan durante la respiración [b].
+En el primer ensayo, la colocación de los electrodos positivo y negativo fue debajo de las clavículas izquierda y derecha respectivamente. El electrodo de referencia se colocó en la cresta ilíaca [5]. Esta ubicación se debe a que en estos puntos se proporciona una vista óptima del corazón. Además, en esta posición se evita la interferencia generada por otros músculos del pecho que se movilizan durante la respiración [4].
+<p align="center"> 
+<img align="center" width="900" height="450" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/conexiones%20clavicula.jpg">
+</p>
 
-Sin embargo, en el segundo ensayo, se colocaron los electrodos positivo y negativo en las muñecas izquierda y derecha respectivamente. En la gráfica se puede observar que posee más ruido debido a que los músculos del brazo generan interferencia en la señal [a].
+Sin embargo, en el segundo ensayo, se colocaron los electrodos positivo y negativo en las muñecas izquierda y derecha respectivamente. En la gráfica se puede observar que posee más ruido debido a que los músculos del brazo generan interferencia en la señal [5].
+<p align="center"> 
+<img align="center" width="900" height="450" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/conexiones%20mu%C3%B1eca.jpg">
+</p>
+
 
 ## Ploteo de la señal en Python
 ---
