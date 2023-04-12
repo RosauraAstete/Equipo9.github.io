@@ -16,7 +16,7 @@ El proyecto abordará los temas de adquisición y procesamiento de señales méd
  - Ariana Milagros Figueroa Chavez (colaborador) - ariana.figueroa@upch.pe
 
 # Tabla de contenidos
-1. [¿Qué es una Bioseñal?](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Contenido/%C2%BFQu%C3%A9%20es%20una%20biose%C3%B1al%3F.md)
+1. [¿Qué es una Bioseñal?](/Contenido/¿Qué es una bioseñal?.md)
 2. [Materiales](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Contenido/Materiales.md)
 3. [Metodología](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Contenido/Metodolog%C3%ADa.md)
 4. [Temática del proyecto](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Contenido/Tem%C3%A1tica%20del%20proyecto.md)
