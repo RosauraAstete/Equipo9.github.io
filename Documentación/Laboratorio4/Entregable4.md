@@ -47,6 +47,10 @@ Las células no marcapasos comprenden principalmente las células del músculo c
 El electrocardiograma, abreviado como  EKG o ECG fue inventado por primera vez en 1902 por Willem Einthoven “padre de la electrocardiografía”. Poco tiempo después de su invención, el ECG fue reconocido como una sólida herramienta de detección y diagnóstico clínico.
 Actualmente, el ECG es una modalidad de diagnóstico no invasivo que tiene un impacto clínico en la investigación de la gravedad de las enfermedades cardiovasculares [1].  El ECG mide la actividad eléctrica del corazón, esta actividad controla el latido del corazón y son las células marcapasos las que liberan ráfagas de energía eléctrica que viajan a través del músculo cardiaco y hacen que este se contraiga, esta contracción genera el bombeo de la sangre a través del corazón [2].
 
+<p align="center"> 
+<img align="center" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/ecg.gif">
+</p>
+
 Asimismo, la velocidad con la que se mueve el electrocardiógrafo es de 25mm/seg. En la gráfica, el tiempo se representa en el eje x y el voltaje en el eje y. Respecto al eje X, 1 segundo se divide en cinco cuadrados grandes, cada uno de los cuales representa 0,2 segundos [1]. 
 
 ### SEÑAL DEL ELECTROCARDIOGRAMA
@@ -62,7 +66,7 @@ La señal del ECG tiene como objetivo reflejar la actividad eléctrica del coraz
 - La onda S representa la despolarización final de las fibras de Purkinje.
 - La onda T representa la repolarización ventricular [1][3].
 <p align="center"> 
-<img align="center" width="900" height="450" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/ecg2.jpg">
+<img align="center" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/ecg2.jpg">
 </p>
 
 
@@ -71,12 +75,12 @@ La señal del ECG tiene como objetivo reflejar la actividad eléctrica del coraz
 ---
 En el primer ensayo, la colocación de los electrodos positivo y negativo fue debajo de las clavículas izquierda y derecha respectivamente. El electrodo de referencia se colocó en la cresta ilíaca [5]. Esta ubicación se debe a que en estos puntos se proporciona una vista óptima del corazón. Además, en esta posición se evita la interferencia generada por otros músculos del pecho que se movilizan durante la respiración [4].
 <p align="center"> 
-<img align="center" width="900" height="450" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/conexiones%20clavicula.jpg">
+<img align="center" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/conexiones%20clavicula.jpg">
 </p>
 
 Sin embargo, en el segundo ensayo, se colocaron los electrodos positivo y negativo en las muñecas izquierda y derecha respectivamente. En la gráfica se puede observar que posee más ruido debido a que los músculos del brazo generan interferencia en la señal [5].
 <p align="center"> 
-<img align="center" width="900" height="450" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/conexiones%20mu%C3%B1eca.jpg">
+<img align="center" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/conexiones%20mu%C3%B1eca.jpg">
 </p>
 
 
