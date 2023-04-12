@@ -22,8 +22,6 @@
 
 ## Ploteo de la señal en OpenSignals
 ---
-.
-
 <p align="center"> 
 <img src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/EjemploEMG.png" align="center">
 </p>
@@ -37,7 +35,35 @@
 
 ## Archivos de los datos de la señal ploteada
 ---
-.....
+### ANATOMÍA Y FISIOLOGÍA DEL CORAZÓN
+El corazón es un órgano muscular compuesto por cuatro cámaras con dos aurículas que desembocan en los ventrículos derecho e izquierdo a través de las válvulas tricúspide y mitral, respectivamente. 
+La ramificación de las fibras del músculo cardíaco y su conexión de extremo a extremo entre sí a través de discos intercalados hacen que se contraigan en forma de onda. Asimismo, el trabajo mecánico de bombear sangre a todo el cuerpo ocurre de manera sincronizada y está bajo el control del sistema de conducción cardíaco. Del mismo modo, se compone de dos tipos de células, células marcapasos y células no marcapasos [1]. 
+
+Las células de marcapasos se encuentran principalmente en los nódulos SA y AV, y es el nódulo SA el que impulsa la frecuencia y el ritmo del corazón. El nodo AV queda suprimido por el ritmo más rápido del nodo SA, la función especial de este tipo de células es su despolarización espontánea sin un verdadero potencial de reposo, cuando esta despolarización espontánea alcanza el voltaje umbral, desencadena una despolarización rápida seguida de una repolarización [1]. 
+
+Las células no marcapasos comprenden principalmente las células del músculo cardíaco auricular y ventricular y las fibras de Purkinje del sistema de conducción. Consisten en un verdadero potencial de membrana en reposo y, al iniciarse un potencial de acción, se desencadena una rápida despolarización, seguida de una fase de meseta y la subsiguiente repolarización. Los potenciales de acción son generados por la conductancia iónica a través de la apertura y el cierre de los canales iónicos [1].
+
+### ELECTROCARDIOGRAMA
+El electrocardiograma, abreviado como  EKG o ECG fue inventado por primera vez en 1902 por Willem Einthoven “padre de la electrocardiografía”. Poco tiempo después de su invención, el ECG fue reconocido como una sólida herramienta de detección y diagnóstico clínico.
+Actualmente, el ECG es una modalidad de diagnóstico no invasivo que tiene un impacto clínico en la investigación de la gravedad de las enfermedades cardiovasculares [1].  El ECG mide la actividad eléctrica del corazón, esta actividad controla el latido del corazón y son las células marcapasos las que liberan ráfagas de energía eléctrica que viajan a través del músculo cardiaco y hacen que este se contraiga, esta contracción genera el bombeo de la sangre a través del corazón [2].
+
+Asimismo, la velocidad con la que se mueve el electrocardiógrafo es de 25mm/seg. En la gráfica, el tiempo se representa en el eje x y el voltaje en el eje y. Respecto al eje X, 1 segundo se divide en cinco cuadrados grandes, cada uno de los cuales representa 0,2 segundos [1]. 
+
+### SEÑAL DEL ELECTROCARDIOGRAMA
+La señal del ECG tiene como objetivo reflejar la actividad eléctrica del corazón observada desde puntos estratégicos del cuerpo humano. Esta señal se caracteriza por cinco picos conocidos como puntos de referencia, que se representan con las letras P,Q,R, S y T [3].
+
+La onda P es el resultado de la despolarización de la aurícula y el ventrículo provoca el resto de picos.
+Intervalo PR representa el tiempo desde el comienzo de la despolarización auricular hasta el comienzo de la despolarización ventricular e incluye el retraso en el nodo AV
+El complejo QRS es la despolarización de ambos ventrículos cardiacos, utilizado como punto de referencia para el análisis de señales.
+El intervalo QT es un indicador de la repolarizacíón ventricular
+El segmento ST representa el final de la despolarización ventricular y el comienzo de la repolarización ventricular
+La onda Q representa la despolarización del tabique interventricular.
+La onda R representa el estímulo eléctrico a medida que pasa por los ventrículos durante la despolarización.
+La onda S representa la despolarización final de las fibras de Purkinje.
+La onda T representa la repolarización ventricular [1][3].
+
+
+
 
 ## Colocación de los electrodos
 ---
@@ -123,6 +149,15 @@ plt.show()
 
 ## Referencias
 ---
-[1]
+[1] Y. Sattar and L. Chhabra, “Electrocardiogram,” Nih.gov, Jan. 28, 2023. https://www.ncbi.nlm.nih.gov/books/NBK549803/ ‌
+
+[2] “ECG,” Utoronto.ca, 2015. http://pie.med.utoronto.ca/heart_physiology/module/ecg.html 
+‌
+[3]  J. Aspuru et al., “Segmentation of the ECG Signal by Means of a Linear Regression Algorithm,” Sensors, vol. 19, no. 4, p. 775, Feb. 2019, doi: https://doi.org/10.3390/s19040775.
+‌
+[4]“Improving ECG Quality Application Note.” Available: https://philipsproductcontent.blob.core.windows.net/assets/20170523/f2fc03ac224d4d5bb6aaa77c0151ac70.pdf
+
+[5] E. Secretario, “ESCUELA TÉCNICA SUPERIOR DE INGENIERÍA Y SISTEMAS DE TELECOMUNICACIÓN PROYECTO FIN DE GRADO.” Available: https://oa.upm.es/67385/1/TFG_JAVIER_CENDEJAS_LOPEZ.pdf
+‌
 
 
