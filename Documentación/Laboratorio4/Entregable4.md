@@ -10,13 +10,14 @@
 ---
 | Conexión  | Imagen |
 |:-------------: |:---------------:|
-| BITalino-cables         | ![Bitalino](../Laboratorio3/Archivos/ConexionesBiTalino.png)|
-| Electrodos-Cuerpo       | ![Conexiones brazo](/Documentación/Laboratorio3/Archivos/ConexionesBrazo.png)|
+| BITalino-cables         | ![Bitalino](/Documentación/Laboratorio4/Archivos/conexiones%20bitalino.jpg)|
+| Electrodos-Cuerpo clavículas       | ![Conexiones clavicula](/Documentación/Laboratorio4/Archivos/conexiones%20clavicula.jpg)|
+| Electrodos-Cuerpo muñecas      | ![Conexiones muñecas](/Documentación/Laboratorio3/Archivos/ConexionesBrazo.png)|
 
 ## Video de la señal EMG adquirida
 ---
 <p align="center"> 
-<img align="center" width="900" height="450" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/EMG.GIF">
+<img align="center" width="900" height="450" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/video%201%20claviculas.gif">
 </p>
 
 ## Ploteo de la señal en OpenSignals
@@ -37,6 +38,13 @@
 ## Archivos de los datos de la señal ploteada
 ---
 .....
+
+## Colocación de los electrodos
+---
+En el primer ensayo, la colocación de los electrodos positivo y negativo fue debajo de las clavículas izquierda y derecha respectivamente. El electrodo de referencia se colocó en la cresta ilíaca [a]. Esta ubicación se debe a que en estos puntos se proporciona una vista óptima del corazón. Además, en esta posición se evita la interferencia generada por otros músculos del pecho que se movilizan durante la respiración [b].
+
+Sin embargo, en el segundo ensayo, se colocaron los electrodos positivo y negativo en las muñecas izquierda y derecha respectivamente. En la gráfica se puede observar que posee más ruido debido a que los músculos del brazo generan interferencia en la señal [a].
+
 ## Ploteo de la señal en Python
 ---
 
@@ -113,6 +121,8 @@ plt.xticks(np.arange(0,200,10))
 plt.show()
 ```
 
-
+## Referencias
+---
+[1]
 
 
