@@ -16,10 +16,10 @@ El proyecto abordará los temas de adquisición y procesamiento de señales méd
  - Ariana Milagros Figueroa Chavez (colaborador) - ariana.figueroa@upch.pe
 
 # Tabla de contenidos
-1. [¿Qué es una Bioseñal?](/Contenido/¿Qué es una bioseñal?.md)
-2. [Materiales](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Contenido/Materiales.md)
-3. [Metodología](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Contenido/Metodolog%C3%ADa.md)
-4. [Temática del proyecto](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Contenido/Tem%C3%A1tica%20del%20proyecto.md)
-5. [Contenido del curso](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Contenido/Contenido%20del%20curso.md) 
-6. [Participantes](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Contenido/Participantes.md)
-7. [Docentes del curso](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Contenido/Docentes%20del%20curso.md)
+1. [¿Qué es una Bioseñal?](/Contenido/Qu%C3%A9%20es%20una%20biose%C3%B1al.md)
+2. [Materiales](/Contenido/Materiales.md)
+3. [Metodología](/Contenido/Metodolog%C3%ADa.md)
+4. [Temática del proyecto](/Contenido/Tem%C3%A1tica%20del%20proyecto.md)
+5. [Contenido del curso](/Contenido/Contenido%20del%20curso.md) 
+6. [Participantes](/Contenido/Participantes.md)
+7. [Docentes del curso](/Contenido/Docentes%20del%20curso.md)
