@@ -119,24 +119,11 @@ Imagenes
 | Electrodos-Cuerpo clavículas       | ![Conexiones clavicula](/Documentación/Laboratorio4/Archivos/conexiones%20clavicula.jpg)|
 | Electrodos-Cuerpo muñecas      | ![Conexiones muñecas](/Documentación/Laboratorio3/Archivos/ConexionesBrazo.png)|
 
-## Video de la señal EMG adquirida
+## Video de la señal ECG adquirida
 ---
 <p align="center"> 
 <img align="center" width="900" height="450" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/video%201%20claviculas.gif">
 </p>
-
-## Ploteo de la señal en OpenSignals
----
-<p align="center"> 
-<img src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/EjemploEMG.png" align="center">
-</p>
-
-
-| <!-- -->      | <!-- -->        |
-|:-------------: |:---------------:|
-|![o](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/Onda1.png)   | .   |
-|![o](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/Onda2.png)   | .        |
-|![o](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/Onda3.png)   | .|        
 
 
 
