@@ -95,6 +95,7 @@ src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3
 <img align="center" width="900" height="450" 
 src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/Estado%20basal%20p2.gif">
 </p>
+
 ### Señal ECG durante inhalación Profunda 
 
 #### Paciente 1
@@ -118,6 +119,7 @@ src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3
 <p align="center"> 
 <img align="center" width="900" height="450" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/Ejercicio%20mun%CC%83eca.gif">
 </p>
+
 ***
 
 ## Ploteo de las señales en OpenSignals
