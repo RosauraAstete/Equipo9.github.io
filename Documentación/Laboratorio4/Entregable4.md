@@ -49,7 +49,8 @@ La señal del ECG tiene como objetivo reflejar la actividad eléctrica del coraz
 <p align="center"> 
 Morfología de la señal ECG [3]
 </p>
-***
+
+---
 
 ## Materiales y Equipos
 
