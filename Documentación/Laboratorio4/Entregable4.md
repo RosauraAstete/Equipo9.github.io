@@ -100,13 +100,9 @@ Imagenes
 ## Referencias
 ---
 [1] Y. Sattar and L. Chhabra, “Electrocardiogram,” Nih.gov, Jan. 28, 2023. https://www.ncbi.nlm.nih.gov/books/NBK549803/ ‌
-
-[2] “ECG,” Utoronto.ca, 2015. http://pie.med.utoronto.ca/heart_physiology/module/ecg.html  
-‌
+[2] “ECG,” Utoronto.ca, 2015. http://pie.med.utoronto.ca/heart_physiology/module/ecg.html 
 [3]  J. Aspuru et al., “Segmentation of the ECG Signal by Means of a Linear Regression Algorithm,” Sensors, vol. 19, no. 4, p. 775, Feb. 2019, doi: https://doi.org/10.3390/s19040775. 
-‌
 [4]“Improving ECG Quality Application Note.” Available: https://philipsproductcontent.blob.core.windows.net/assets/20170523/f2fc03ac224d4d5bb6aaa77c0151ac70.pdf
-
 [5] E. Secretario, “ESCUELA TÉCNICA SUPERIOR DE INGENIERÍA Y SISTEMAS DE TELECOMUNICACIÓN PROYECTO FIN DE GRADO.” Available: https://oa.upm.es/67385/1/TFG_JAVIER_CENDEJAS_LOPEZ.pdf
 ‌
 ***
