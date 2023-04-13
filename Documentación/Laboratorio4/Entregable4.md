@@ -80,7 +80,27 @@ Sin embargo, para la segunda paciente, se colocaron los electrodos positivo y ne
 
 ***
 
-## Video de la Señal en Estado Basal
+## Videos de la Señales Obtenidas
+
+### Señal ECG en Estado Basal 
+
+<p align="center"> 
+<img align="center" width="900" height="450" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/video%201%20claviculas.gif">
+</p>
+
+### Señal ECG durante inhalación Profunda 
+
+<p align="center"> 
+<img align="center" width="900" height="450" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/video%201%20claviculas.gif">
+</p>
+
+### Señal ECG durante resposo post inhalación 
+
+<p align="center"> 
+<img align="center" width="900" height="450" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/video%201%20claviculas.gif">
+</p>
+
+### Señal ECG luego del ejercicio
 
 <p align="center"> 
 <img align="center" width="900" height="450" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/video%201%20claviculas.gif">
@@ -94,14 +114,14 @@ Sin embargo, para la segunda paciente, se colocaron los electrodos positivo y ne
 | Señal  | Imagen  | Señal | Imagen |
 |:-------------: |:---------------:| :-------------:|:-------------:|
 | Señal ECG en Estado Basal         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/Estado%20basal%20clavicula.png)        | Señal ECG durante inhalación Profunda        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/Inhalacio%CC%81n%20profunda%20clavicula.png)        |
-| Señal ECG durante resposo         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/SECG3.png)        | Señal ECG luego del ejercicio        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/SECG4.png)        |
+| Señal ECG durante resposo post inhalación         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/SECG3.png)        | Señal ECG luego del ejercicio        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/SECG4.png)        |
 
 ### Paciente 2
 
 | Señal  | Imagen  | Señal | Imagen |
 |:-------------: |:---------------:| :-------------:|:-------------:|
 | Señal ECG en Estado Basal         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/VECG1.png)        | Señal ECG durante inhalación Profunda        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/VECG2.png)        |
-| Señal ECG durante resposo         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/VECG3.png)        | Señal ECG luego del ejercicio        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/VECG4.png)        |
+| Señal ECG durante resposo post inhalación         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/VECG3.png)        | Señal ECG luego del ejercicio        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/VECG4.png)        |
 
 ***
 ## Resumen y explicaciòn de las señales ploteadas
@@ -128,19 +148,22 @@ En el siguiente link, encontrará el código utilizado para el ploteo de las se�
 | Señal  | Imagen  | Señal | Imagen |
 |:-------------: |:---------------:| :-------------:|:-------------:|
 | Señal ECG en Estado Basal         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/SECG1.png)        | Señal ECG durante inhalación Profunda        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/SECG2.png)        |
-| Señal ECG durante resposo         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/SECG3.png)        | Señal ECG luego del ejercicio        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/SECG4.png)        |
+| Señal ECG durante resposo post inhalación          | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/SECG3.png)        | Señal ECG luego del ejercicio        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/SECG4.png)        |
 
 ### Paciente 2
 
 | Señal  | Imagen  | Señal | Imagen |
 |:-------------: |:---------------:| :-------------:|:-------------:|
 | Señal ECG en Estado Basal         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/VECG1.png)        | Señal ECG durante inhalación Profunda        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/VECG2.png)        |
-| Señal ECG durante resposo         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/VECG3.png)        | Señal ECG luego del ejercicio        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/VECG4.png)        |
+| Señal ECG durante resposo post inhalación          | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/VECG3.png)        | Señal ECG luego del ejercicio        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/VECG4.png)        |
 
 ***
 
 ## Comparación de las Señales obtenidas del paciente y las obtenidas mediante el ProSim 4 Vital Signs Patient Simulator
 
+<p align="center"> 
+<img align="center" width="900" height="450" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/video%201%20claviculas.gif">
+</p>
 
 ***
 
