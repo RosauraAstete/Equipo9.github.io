@@ -59,7 +59,7 @@ La señal del ECG tiene como objetivo reflejar la actividad eléctrica del coraz
 ### BiTalino - Cables
 
 <p align="center"> 
-<img align="center" src="/Documentación/Laboratorio4/Archivos/conexiones%20bitalino.jpg" width="400" height="300">
+<img align="center" src="/Documentación/Laboratorio4/Archivos/conexiones%20bitalino.jpg" width="500" height="400">
 </p>
 
 ### Electrodos - Cuerpo
@@ -67,7 +67,7 @@ Justificar por que hicimos esas dos colocaciones
 Imagenes
 
 <p align="center"> 
-<img align="center" src="/Documentación/Laboratorio4/Archivos/conexiones%20bitalino.jpg" width="400" height="300">
+<img align="center" src="/Documentación/Laboratorio4/Archivos/conexiones%20bitalino.jpg" width="500" height="400">
 </p>
 
 ***
