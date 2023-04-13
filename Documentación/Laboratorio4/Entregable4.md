@@ -95,6 +95,18 @@ Sin embargo, para la segunda paciente, se colocaron los electrodos positivo y ne
 
 ## Ploteo de las señales en Python
 
+### Paciente 1
+| Señal  | Imagen  | Señal | Imagen |
+|:-------------: |:---------------:| :-------------:|:-------------:|
+| Señal ECG en Estado Basal         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/se%C3%B1alEMG.png)        | Señal ECG durante inhalación Profunda        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/FFT.png)        |
+| Señal ECG durante resposo         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/FFTdB.png)        | Señal ECG luego del ejercicio        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/FFTdB.png)        |
+
+### Paciente 2
+
+| Señal  | Imagen  | Señal | Imagen |
+|:-------------: |:---------------:| :-------------:|:-------------:|
+| Señal ECG en Estado Basal         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/se%C3%B1alEMG.png)        | Señal ECG durante inhalación Profunda        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/FFT.png)        |
+| Señal ECG durante resposo         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/FFTdB.png)        | Señal ECG luego del ejercicio        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/FFTdB.png)        |
 
 ***
 
