@@ -85,7 +85,8 @@ Sin embargo, para la segunda paciente, se colocaron los electrodos positivo y ne
 ### Señal ECG en Estado Basal 
 
 <p align="center"> 
-<img align="center" width="900" height="450" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/Estado%20basal%20clavicula.gif">
+<img align="center" width="900" height="450" 
+     src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/video%201%20claviculas.gif"src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/Estado%20basal%20clavicula.gif">
 </p>
 
 ### Señal ECG durante inhalación Profunda 
