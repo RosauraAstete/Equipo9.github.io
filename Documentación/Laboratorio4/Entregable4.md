@@ -111,6 +111,10 @@ Sin embargo, para la segunda paciente, se colocaron los electrodos positivo y ne
 
 ## Ploteo de las señales en Python
 
+### Links to GoogleColab
+En el siguiente link, encontrará el código utilizado para el ploteo de las señales con python. 
+`<link>` : https://colab.research.google.com/drive/1BnGfimvitJarySgA-P7BAQgUf0tI0zEb?usp=sharing
+
 ### Paciente 1
 | Señal  | Imagen  | Señal | Imagen |
 |:-------------: |:---------------:| :-------------:|:-------------:|
