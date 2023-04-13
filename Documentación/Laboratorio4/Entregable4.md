@@ -48,7 +48,9 @@ La señal del ECG tiene como objetivo reflejar la actividad eléctrica del coraz
 
 ## Materiales y Equipos
 
-
+| Material   | Imagen Referencial  |
+|:-------------: |:---------------:| 
+| BITalino es un kit de herramientas de prototipado rápido para proyectos de salud y bienestar personal. Incluye sensores inalámbricos y una plataforma de software para adquirir, procesar y visualizar datos biomédicos         | ![lot](https://camo.githubusercontent.com/d4a44aa322d672288a9f7497916a86b024eaa53d3fa5c9b670ee08258c660f22/68747470733a2f2f63646e2e737061726b66756e2e636f6d2f2f6173736574732f70617274732f312f312f382f322f382f31343032322d3031612e6a7067)       |
 
 ***
 ## Fotos de Conexión Usada
