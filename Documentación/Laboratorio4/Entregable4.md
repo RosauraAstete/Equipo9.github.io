@@ -47,6 +47,11 @@ Imagenes
 
 ***
 
+## Comparación de las Señales obtenidas del paciente y las obtenidas mediante el ProSim 4 Vital Signs Patient Simulator
+
+
+***
+
 ## Conclusiones
 
 
