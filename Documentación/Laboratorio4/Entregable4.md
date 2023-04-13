@@ -91,10 +91,6 @@ src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3
 </p>
 
 #### Paciente 2
-<p align="center"> 
-<img align="center" width="900" height="450" 
-src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/Estado%20basal%20p2.gif">
-</p>
 
 ### Señal ECG durante inhalación Profunda 
 
@@ -104,9 +100,6 @@ src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3
 </p>
 
 #### Paciente 2
-<p align="center"> 
-<img align="center" width="900" height="450" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/Inhalacio%CC%81n%20profunda%20mun%CC%83eca.gif">
-</p>
 
 ### Señal ECG luego del ejercicio
 
@@ -116,9 +109,7 @@ src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3
 </p>
 
 #### Paciente 2
-<p align="center"> 
-<img align="center" width="900" height="450" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/Ejercicio%20mun%CC%83eca.gif">
-</p>
+
 ***
 
 ## Ploteo de las señales en OpenSignals
@@ -157,17 +148,17 @@ En el segundo paciente, vemos un caso similar. En la inhalación profunda encont
 ## Archivos
 
 ### Paciente 1
-- [Estado Basal](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/1)%20estadobasal.txt)
-- [Inhalación Profunda](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/2)%20Inhalacio%CC%81n%20profunda.txt)
-- [Reposo Post Inhalación](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/3)%20reposo%20nuevamente.txt)
-- [Después del ejercicio](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/4)%20despues%20de%20correr.txt)
+- [Estado Basal](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/estadobasal.txt)
+- [Inhalación Profunda](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/Inhalacio%CC%81n%20profunda.txt)
+- [Reposo Post Inhalación](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/reposo%20nuevamente.txt)
+- [Después del ejercicio](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/despues%20de%20correr.txt)
 
 ### Paciente 2
 
-- [Estado Basal](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/1)ESTADO%20BASAL%20VALERIA.txt)
-- [Inhalación Profunda](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/2)inhalacion%20profunda%20valeria.txt)
-- [Reposo Post Inhalación](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/3)reposo%202%20valeria.txt)
-- [Después del ejercicio](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/4)valeria%20despues%20de%20correr.txt)
+- [Estado Basal](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/ESTADO%20BASAL%20VALERIA.txt)
+- [Inhalación Profunda](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/inhalacion%20profunda%20valeria.txt)
+- [Reposo Post Inhalación](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/reposo%202%20valeria.txt)
+- [Después del ejercicio](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/valeria%20despues%20de%20correr.txt)
 
 ***
 
