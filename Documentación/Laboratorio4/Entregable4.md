@@ -66,9 +66,11 @@ La señal del ECG tiene como objetivo reflejar la actividad eléctrica del coraz
 Justificar por que hicimos esas dos colocaciones
 Imagenes
 
-<p align="center"> 
-<img align="center" src="/Documentación/Laboratorio4/Archivos/conexiones%20bitalino.jpg" width="500" height="400">
-</p>
+| Paciente 1  | Paciente 2  |
+|:-------------: |:---------------:|
+| Row 1         | Cell 2          | 
+| Row 2         | Cell 5          |
+
 
 ***
 
