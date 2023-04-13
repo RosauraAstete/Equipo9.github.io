@@ -23,6 +23,8 @@ Actualmente, el ECG es una modalidad de diagnóstico no invasivo que tiene un im
 
 <p align="center"> 
 <img align="center" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/ecg.gif">
+</p>
+<p align="center"> 
 Señal ECG [2]
 </p>
 
