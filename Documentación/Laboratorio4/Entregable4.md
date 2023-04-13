@@ -177,6 +177,7 @@ En el siguiente link, encontrará el código utilizado para el ploteo de las se�
 ***
 
 ## Comparación de las Señales obtenidas del paciente y las obtenidas mediante el ProSim 4 Vital Signs Patient Simulator
+Al realizar una comparación visual de los gráficos obtenidos del paciente con los obtenidos con el ProSim4, se aprecia que el ruido es notablemente menor en las señales del ProSim4 que en las señales del paciente. También, se aprecia que la ondas de la señal del ProSim4 son iguales en todo su dominio. En el caso de la señal del paciente, las ondas varian tanto en forma como en amplitud. Esto puede deberse que el dispositivo ProSim4 realiza una conección directa con los electrodos, mientras que, en el caso de paciente, los electrodos son colocados sobre la piel. 
 
 <p align="center"> 
 <img align="center" width="900" height="450" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/Simulacio%CC%81n.gif">
