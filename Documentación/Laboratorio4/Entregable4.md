@@ -76,6 +76,9 @@ Sin embargo, para la segunda paciente, se colocaron los electrodos positivo y ne
 
 ## Video de la Señal en Estado Basal
 
+<p align="center"> 
+<img align="center" width="900" height="450" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/video%201%20claviculas.gif">
+</p>
 
 ***
 
@@ -130,14 +133,7 @@ Sin embargo, para la segunda paciente, se colocaron los electrodos positivo y ne
 [5] E. Secretario, “ESCUELA TÉCNICA SUPERIOR DE INGENIERÍA Y SISTEMAS DE TELECOMUNICACIÓN PROYECTO FIN DE GRADO.” Available: https://oa.upm.es/67385/1/TFG_JAVIER_CENDEJAS_LOPEZ.pdf
 ‌
 ***
- 
-## Conexión Empleada
----
-| Conexión  | Imagen |
-|:-------------: |:---------------:|
-| BITalino-cables         | ![Bitalino](/Documentación/Laboratorio4/Archivos/conexiones%20bitalino.jpg)|
-| Electrodos-Cuerpo clavículas       | ![Conexiones clavicula](/Documentación/Laboratorio4/Archivos/conexiones%20clavicula.jpg)|
-| Electrodos-Cuerpo muñecas      | ![Conexiones muñecas](/Documentación/Laboratorio3/Archivos/ConexionesBrazo.png)|
+
 
 ## Video de la señal ECG adquirida
 ---
