@@ -148,17 +148,17 @@ En el segundo paciente, vemos un caso similar. En la inhalación profunda encont
 ## Archivos
 
 ### Paciente 1
-- [Estado Basal]()
-- [Inhalación Profunda]()
-- [Reposo Post Inhalación]()
-- [Después del ejercicio]()
+- [Estado Basal](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/1)%20estadobasal.txt)
+- [Inhalación Profunda](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/2)%20Inhalacio%CC%81n%20profunda.txt)
+- [Reposo Post Inhalación](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/3)%20reposo%20nuevamente.txt)
+- [Después del ejercicio](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/4)%20despues%20de%20correr.txt)
 
 ### Paciente 2
 
-- [Estado Basal]()
-- [Inhalación Profunda]()
-- [Reposo Post Inhalación]()
-- [Después del ejercicio]()
+- [Estado Basal](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/1)ESTADO%20BASAL%20VALERIA.txt)
+- [Inhalación Profunda](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/2)inhalacion%20profunda%20valeria.txt)
+- [Reposo Post Inhalación](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/3)reposo%202%20valeria.txt)
+- [Después del ejercicio](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/4)valeria%20despues%20de%20correr.txt)
 
 ***
 
