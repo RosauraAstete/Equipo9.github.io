@@ -6,6 +6,67 @@
 - Hacer una correcta configuración de BiTalino. 
 - Extraer la información de la señal ECG del software OpenSignals (r)evolution
 
+***
+## Materiales y Equipos
+
+
+
+***
+## Fotos de Conexión Usada
+
+### BiTalino - Cables
+
+
+### Electrodos - Cuerpo
+Justificar por que hicimos esas dos colocaciones
+Imagenes
+
+***
+
+## Video de la Señal en Estado Basal
+
+
+***
+
+## Ploteo de las señales en OpenSignals
+
+***
+## Resumen y explicaciòn de las señales ploteadas
+
+
+***
+
+## Archivos
+
+
+***
+
+
+## Ploteo de las señales en Python
+
+
+***
+
+## Conclusiones
+
+
+***
+
+
+## Referencias
+---
+[1] Y. Sattar and L. Chhabra, “Electrocardiogram,” Nih.gov, Jan. 28, 2023. https://www.ncbi.nlm.nih.gov/books/NBK549803/ ‌
+
+[2] “ECG,” Utoronto.ca, 2015. http://pie.med.utoronto.ca/heart_physiology/module/ecg.html 
+‌
+[3]  J. Aspuru et al., “Segmentation of the ECG Signal by Means of a Linear Regression Algorithm,” Sensors, vol. 19, no. 4, p. 775, Feb. 2019, doi: https://doi.org/10.3390/s19040775.
+‌
+[4]“Improving ECG Quality Application Note.” Available: https://philipsproductcontent.blob.core.windows.net/assets/20170523/f2fc03ac224d4d5bb6aaa77c0151ac70.pdf
+
+[5] E. Secretario, “ESCUELA TÉCNICA SUPERIOR DE INGENIERÍA Y SISTEMAS DE TELECOMUNICACIÓN PROYECTO FIN DE GRADO.” Available: https://oa.upm.es/67385/1/TFG_JAVIER_CENDEJAS_LOPEZ.pdf
+‌
+***
+
 ## Conexión Empleada
 ---
 | Conexión  | Imagen |
@@ -54,6 +115,7 @@ Actualmente, el ECG es una modalidad de diagnóstico no invasivo que tiene un im
 Asimismo, la velocidad con la que se mueve el electrocardiógrafo es de 25mm/seg. En la gráfica, el tiempo se representa en el eje x y el voltaje en el eje y. Respecto al eje X, 1 segundo se divide en cinco cuadrados grandes, cada uno de los cuales representa 0,2 segundos [1]. 
 
 ### SEÑAL DEL ELECTROCARDIOGRAMA
+
 La señal del ECG tiene como objetivo reflejar la actividad eléctrica del corazón observada desde puntos estratégicos del cuerpo humano. Esta señal se caracteriza por cinco picos conocidos como puntos de referencia, que se representan con las letras P,Q,R, S y T [3].
 
 - La onda P es el resultado de la despolarización de la aurícula y el ventrículo provoca el resto de picos.
@@ -84,93 +146,5 @@ Sin embargo, en el segundo ensayo, se colocaron los electrodos positivo y negati
 </p>
 
 
-## Ploteo de la señal en Python
----
-
-| Señal  | Imagen  | Señal | Imagen |
-|:-------------: |:---------------:| :-------------:|:-------------:|
-| Señal EMG         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/se%C3%B1alEMG.png)        | FFT        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/FFT.png)        |
-| FFT en decibelios (dB)         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/FFTdB.png)        | Archivo .ipynb         | [EMG.ipynb](https://colab.research.google.com/drive/12pRxEPb44RMLwJIfce5WDyqkPjPfjwqx?usp=sharing)        |
-
-
-### Python code
-```python
-import numpy as np
-import matplotlib.pyplot as plt
-import pandas as pd
-import seaborn as sns
-import re
-
-## Pasando a dataframe
-
-array1 = np.genfromtxt("Video3Modificado.txt",   skip_header=1, delimiter="\t")
-array1
-
-plt.plot(array1[:,-2])
-plt.xlabel("Número de muestras")
-plt.title("Señal EMG")
-
-###Señal EMG en función del tiempo
-
-## Sabemos que la frecuencia de muestrero fue de 1000 Hz
-Fs = 1000
-Ts = 1/Fs
-n = len(array1[:,-2])
-t = np.arange(0,25800,1)*Ts
-plt.plot(t, array1[:,-2])
-plt.xlabel("Tiempo [segundos]")
-plt.title("Señal EMG")
-
-###FFT en frecuencia normalizada en radianes
-
-signal1 = array1[:,-2]
-S = np.fft.fftshift(np.fft.fft(signal1))
-k = np.arange(-12900,12900,1)
-w = (3.1416/12900)*k
-plt.plot(w,abs(S))
-
-plt.xlabel("Frecuencias normalizada en radianes")
-plt.title("FFT")
-
-### FFT en decibeles dB
-
-N = 2**10                                     # 10 bits, 0-1023
-
-signal1 = array1[:,-2]
-
-signal_fft = np.fft.fft(signal1, N)   
-signal_fft = np.fft.fft(signal1, N)           # fft magtinud
-signal_fft = np.round(np.abs(signal_fft),3)[0:N//2] # nos quedamos con los componente de la derecha de la FFT
-signal_aux = signal_fft/signal_fft.max()     # hallamos el maximo para pasar la magnitud a escala db
-
-with np.errstate(divide='ignore'):
-    signal_fft_db = 10*np.log10(signal_aux)  # , out=signal_aux, where=signal_aux >= 0 para evitar division por zero
-
-F_list = np.linspace(0,Fs/2, N//2)
-F = np.round(F_list[np.argmax(signal_fft_db)], 1)   # argmax, encuentra el argumento max en un array
-
-plt.plot(F_list, signal_fft_db)  #10 * np.log10(P / Pref) , decibelios
-plt.text(F,0, f"{F}Hz")
-plt.grid(linestyle=":")
-plt.ylabel("Magnitud (db)")
-plt.xlabel("Frecuencias (Hz)")
-plt.title("FFT en el decibelios")
-plt.xlim([0,200])
-plt.xticks(np.arange(0,200,10))
-plt.show()
-```
-
-## Referencias
----
-[1] Y. Sattar and L. Chhabra, “Electrocardiogram,” Nih.gov, Jan. 28, 2023. https://www.ncbi.nlm.nih.gov/books/NBK549803/ ‌
-
-[2] “ECG,” Utoronto.ca, 2015. http://pie.med.utoronto.ca/heart_physiology/module/ecg.html 
-‌
-[3]  J. Aspuru et al., “Segmentation of the ECG Signal by Means of a Linear Regression Algorithm,” Sensors, vol. 19, no. 4, p. 775, Feb. 2019, doi: https://doi.org/10.3390/s19040775.
-‌
-[4]“Improving ECG Quality Application Note.” Available: https://philipsproductcontent.blob.core.windows.net/assets/20170523/f2fc03ac224d4d5bb6aaa77c0151ac70.pdf
-
-[5] E. Secretario, “ESCUELA TÉCNICA SUPERIOR DE INGENIERÍA Y SISTEMAS DE TELECOMUNICACIÓN PROYECTO FIN DE GRADO.” Available: https://oa.upm.es/67385/1/TFG_JAVIER_CENDEJAS_LOPEZ.pdf
-‌
 
 
