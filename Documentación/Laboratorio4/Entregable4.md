@@ -106,6 +106,9 @@ Sin embargo, para la segunda paciente, se colocaron los electrodos positivo y ne
 ***
 ## Resumen y explicaciòn de las señales ploteadas
 
+En el ploteo de las señales en Python para el primer paciente, podemos ver que no tiene tanto ruido como en el paciente 2. Esto se debe a la posición de los electrodos, en el caso de las clavículas, hay menos ruido ya que los músculos de la clavícula tiene menos movimiento que en las muñecas.<br>
+Si analizamos las 4 gráficas del primer paciente, tenemos que en la inhalación profunda, el ruido aumenta que se debe al movimiento al realizar la respiración. Este mismo caso vemos luego del ejercicio, además ver de los picos desordenados que encontramos gracias a la interferencia que se genera entre el electrodo y la piel por la agitación del paciente.<br>
+En el segundo paciente, vemos un caso similar. En la inhalación profunda encontramos más ruido que luego del ejercicio debido al movimiento de los hombros al inspirar.<br>
 
 ***
 
