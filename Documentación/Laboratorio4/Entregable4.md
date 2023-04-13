@@ -166,7 +166,7 @@ En el siguiente link, encontrará el código utilizado para el ploteo de las se�
 ## Comparación de las Señales obtenidas del paciente y las obtenidas mediante el ProSim 4 Vital Signs Patient Simulator
 
 <p align="center"> 
-<img align="center" width="900" height="450" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/video%201%20claviculas.gif">
+<img align="center" width="900" height="450" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/Simulacio%CC%81n.gif">
 </p>
 
 ***
