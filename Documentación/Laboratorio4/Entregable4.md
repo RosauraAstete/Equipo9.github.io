@@ -84,23 +84,31 @@ Sin embargo, para la segunda paciente, se colocaron los electrodos positivo y ne
 
 ### Señal ECG en Estado Basal 
 
+#### Paciente 1
 <p align="center"> 
 <img align="center" width="900" height="450" 
-     src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/video%201%20claviculas.gif"src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/Estado%20basal%20clavicula.gif">
+src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/video%201%20claviculas.gif">
 </p>
+
+#### Paciente 2
 
 ### Señal ECG durante inhalación Profunda 
 
+#### Paciente 1
 <p align="center"> 
 <img align="center" width="900" height="450" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/Inhalacio%CC%81n%20profunda%20clavicula.gif">
 </p>
 
+#### Paciente 2
 
 ### Señal ECG luego del ejercicio
 
+#### Paciente 1
 <p align="center"> 
 <img align="center" width="900" height="450" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/Ejercicio%20clavicula.gif">
 </p>
+
+#### Paciente 2
 
 ***
 
