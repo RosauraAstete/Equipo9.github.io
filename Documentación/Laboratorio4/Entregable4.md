@@ -121,18 +121,18 @@ Sin embargo, para la segunda paciente, se colocaron los electrodos positivo y ne
 ***
 ## Resumen y explicación de las señales ploteadas
 
-En el ploteo de las señales en Python para el primer paciente, podemos ver que no tiene tanto ruido como en el paciente 2. Esto se debe a la posición de los electrodos, en el caso de las clavículas, hay menos ruido ya que los músculos de la clavícula tiene menos movimiento que en las muñecas.<br>
+En el ploteo de las señales para el primer paciente, podemos ver que no tiene tanto ruido como en el paciente 2. Esto se debe a la posición de los electrodos, en el caso de las clavículas, hay menos ruido ya que los músculos de la clavícula tiene menos movimiento que en las muñecas.<br>
 Si analizamos las 4 gráficas del primer paciente, tenemos que en la inhalación profunda, el ruido aumenta que se debe al movimiento al realizar la respiración. Este mismo caso vemos luego del ejercicio, además ver de los picos desordenados que encontramos gracias a la interferencia que se genera entre el electrodo y la piel por la agitación del paciente.<br>
 En el segundo paciente, vemos un caso similar. En la inhalación profunda encontramos más ruido que luego del ejercicio debido al movimiento de los hombros al inspirar.<br>
 
 ### Comportamiento de la señal ECG:
 **Estado inicial de reposo:** Cuando un paciente está en reposo, la señal de ECG describe una frecuencia cardíaca regular y constante, con una duración de ciclo cardíaco (intervalo entre dos ondas R consecutivas) que se encuentra dentro de los valores normales. En este estado, las ondas P, QRS y T en la señal de ECG deberían ser simétricas, tener una forma y amplitud adecuada y estar bien definidas.
 
-**Después de aguantar la respiración por 10 segundos:** Cuando el paciente aguanta la respiración, la señal de ECG muestra una ligera disminución en la frecuencia cardíaca, ya que el corazón recibe menos oxígeno. Durante este periodo, la señal muestra una disminución en el número de ondas R debido a la disminución del flujo sanguíneo y la hipoxemia temporal que se produce.
+**Después de inhalación profunda y aguantar la respiración:** Cuando el paciente aguanta la respiración, la señal de ECG muestra una ligera disminución en la frecuencia cardíaca y de la amplitud, ya que el corazón recibe menos oxígeno. Durante este periodo, la señal muestra una disminución en el número de ondas R debido a la disminución del flujo sanguíneo y la hipoxemia temporal que se produce.
 
-**De nuevo en reposo:** Después de que el paciente deja de aguantar la respiración, la señal de ECG debería volver a su estado inicial de reposo, con un ritmo cardíaco regular y estable.
+**Reposo post inhalación:** Después de que el paciente deja de aguantar la respiración, la señal de ECG debería volver a su estado inicial de reposo, con un ritmo cardíaco regular y estable.
 
-**Después de realizar actividad física por 5 minutos:** La actividad física aumenta la demanda de oxígeno en el cuerpo y por lo tanto en el corazón, lo que puede resultar en un aumento en la frecuencia cardíaca. La señal de ECG durante la actividad física denota un aumento en la amplitud de las ondas P, QRS y T y una disminución en el intervalo entre ellas, lo que indica una mayor actividad eléctrica en el corazón. Después de la actividad física, la señal de ECG debería volver gradualmente a su estado de reposo normal.
+**Después de realizar actividad física por 10 minutos:** La actividad física aumenta la demanda de oxígeno en el cuerpo y por lo tanto en el corazón, lo que puede resultar en un aumento en la frecuencia cardíaca. La señal de ECG durante la actividad física denota un aumento en la amplitud de las ondas P, QRS y T y una disminución en el intervalo entre ellas, lo que indica una mayor actividad eléctrica en el corazón. Después de la actividad física, la señal de ECG debería volver gradualmente a su estado de reposo normal.
 
 ***
 
