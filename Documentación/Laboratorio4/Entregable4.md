@@ -46,7 +46,9 @@ La señal del ECG tiene como objetivo reflejar la actividad eléctrica del coraz
 <p align="center"> 
 <img align="center" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/ecg2.jpg">
 </p>
-
+<p align="center"> 
+Morfología de la señal ECG [3]
+</p>
 ***
 
 ## Materiales y Equipos
