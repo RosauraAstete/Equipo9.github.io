@@ -136,7 +136,7 @@ En el primer ensayo, la colocación de los electrodos positivo y negativo fue de
 
 Sin embargo, en el segundo ensayo, se colocaron los electrodos positivo y negativo en las muñecas izquierda y derecha respectivamente. En la gráfica se puede observar que posee más ruido debido a que los músculos del brazo generan interferencia en la señal [5].
 <p align="center"> 
-<img align="center" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/conexiones%20mu%C3%B1eca.jpg">
+<img align="center" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/conexiones%20mu%C3%B1eca.jpeg">
 </p>
 
 
