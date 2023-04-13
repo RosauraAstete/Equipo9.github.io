@@ -23,6 +23,7 @@ Actualmente, el ECG es una modalidad de diagnóstico no invasivo que tiene un im
 
 <p align="center"> 
 <img align="center" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/ecg.gif">
+Señal ECG [2]
 </p>
 
 Asimismo, la velocidad con la que se mueve el electrocardiógrafo es de 25mm/seg. En la gráfica, el tiempo se representa en el eje x y el voltaje en el eje y. Respecto al eje X, 1 segundo se divide en cinco cuadrados grandes, cada uno de los cuales representa 0,2 segundos [1]. 
