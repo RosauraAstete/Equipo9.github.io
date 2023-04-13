@@ -135,13 +135,6 @@ Sin embargo, para la segunda paciente, se colocaron los electrodos positivo y ne
 ***
 
 
-## Video de la señal ECG adquirida
----
-<p align="center"> 
-<img align="center" width="900" height="450" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/video%201%20claviculas.gif">
-</p>
-
-
 
 
 
