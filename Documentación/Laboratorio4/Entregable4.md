@@ -7,6 +7,45 @@
 - Extraer la información de la señal ECG del software OpenSignals (r)evolution
 
 ***
+## Introducción
+
+### ANATOMÍA Y FISIOLOGÍA DEL CORAZÓN
+El corazón es un órgano muscular compuesto por cuatro cámaras con dos aurículas que desembocan en los ventrículos derecho e izquierdo a través de las válvulas tricúspide y mitral, respectivamente. 
+La ramificación de las fibras del músculo cardíaco y su conexión de extremo a extremo entre sí a través de discos intercalados hacen que se contraigan en forma de onda. Asimismo, el trabajo mecánico de bombear sangre a todo el cuerpo ocurre de manera sincronizada y está bajo el control del sistema de conducción cardíaco. Del mismo modo, se compone de dos tipos de células, células marcapasos y células no marcapasos [1]. 
+
+Las células de marcapasos se encuentran principalmente en los nódulos SA y AV, y es el nódulo SA el que impulsa la frecuencia y el ritmo del corazón. El nodo AV queda suprimido por el ritmo más rápido del nodo SA, la función especial de este tipo de células es su despolarización espontánea sin un verdadero potencial de reposo, cuando esta despolarización espontánea alcanza el voltaje umbral, desencadena una despolarización rápida seguida de una repolarización [1]. 
+
+Las células no marcapasos comprenden principalmente las células del músculo cardíaco auricular y ventricular y las fibras de Purkinje del sistema de conducción. Consisten en un verdadero potencial de membrana en reposo y, al iniciarse un potencial de acción, se desencadena una rápida despolarización, seguida de una fase de meseta y la subsiguiente repolarización. Los potenciales de acción son generados por la conductancia iónica a través de la apertura y el cierre de los canales iónicos [1].
+
+### ELECTROCARDIOGRAMA
+El electrocardiograma, abreviado como  EKG o ECG fue inventado por primera vez en 1902 por Willem Einthoven “padre de la electrocardiografía”. Poco tiempo después de su invención, el ECG fue reconocido como una sólida herramienta de detección y diagnóstico clínico.
+Actualmente, el ECG es una modalidad de diagnóstico no invasivo que tiene un impacto clínico en la investigación de la gravedad de las enfermedades cardiovasculares [1].  El ECG mide la actividad eléctrica del corazón, esta actividad controla el latido del corazón y son las células marcapasos las que liberan ráfagas de energía eléctrica que viajan a través del músculo cardiaco y hacen que este se contraiga, esta contracción genera el bombeo de la sangre a través del corazón [2].
+
+<p align="center"> 
+<img align="center" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/ecg.gif">
+</p>
+
+Asimismo, la velocidad con la que se mueve el electrocardiógrafo es de 25mm/seg. En la gráfica, el tiempo se representa en el eje x y el voltaje en el eje y. Respecto al eje X, 1 segundo se divide en cinco cuadrados grandes, cada uno de los cuales representa 0,2 segundos [1]. 
+
+### SEÑAL DEL ELECTROCARDIOGRAMA
+
+La señal del ECG tiene como objetivo reflejar la actividad eléctrica del corazón observada desde puntos estratégicos del cuerpo humano. Esta señal se caracteriza por cinco picos conocidos como puntos de referencia, que se representan con las letras P,Q,R, S y T [3].
+
+- La onda P es el resultado de la despolarización de la aurícula y el ventrículo provoca el resto de picos.
+- Intervalo PR representa el tiempo desde el comienzo de la despolarización auricular hasta el comienzo de la despolarización ventricular e incluye el retraso en el nodo AV
+- El complejo QRS es la despolarización de ambos ventrículos cardiacos, utilizado como punto de referencia para el análisis de señales.
+- El intervalo QT es un indicador de la repolarizacíón ventricular
+- El segmento ST representa el final de la despolarización ventricular y el comienzo de la repolarización ventricular
+- La onda Q representa la despolarización del tabique interventricular.
+- La onda R representa el estímulo eléctrico a medida que pasa por los ventrículos durante la despolarización.
+- La onda S representa la despolarización final de las fibras de Purkinje.
+- La onda T representa la repolarización ventricular [1][3].
+<p align="center"> 
+<img align="center" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/ecg2.jpg">
+</p>
+
+***
+
 ## Materiales y Equipos
 
 
@@ -99,42 +138,6 @@ Imagenes
 |![o](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/Onda2.png)   | .        |
 |![o](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/Onda3.png)   | .|        
 
-## Archivos de los datos de la señal ploteada
----
-### ANATOMÍA Y FISIOLOGÍA DEL CORAZÓN
-El corazón es un órgano muscular compuesto por cuatro cámaras con dos aurículas que desembocan en los ventrículos derecho e izquierdo a través de las válvulas tricúspide y mitral, respectivamente. 
-La ramificación de las fibras del músculo cardíaco y su conexión de extremo a extremo entre sí a través de discos intercalados hacen que se contraigan en forma de onda. Asimismo, el trabajo mecánico de bombear sangre a todo el cuerpo ocurre de manera sincronizada y está bajo el control del sistema de conducción cardíaco. Del mismo modo, se compone de dos tipos de células, células marcapasos y células no marcapasos [1]. 
-
-Las células de marcapasos se encuentran principalmente en los nódulos SA y AV, y es el nódulo SA el que impulsa la frecuencia y el ritmo del corazón. El nodo AV queda suprimido por el ritmo más rápido del nodo SA, la función especial de este tipo de células es su despolarización espontánea sin un verdadero potencial de reposo, cuando esta despolarización espontánea alcanza el voltaje umbral, desencadena una despolarización rápida seguida de una repolarización [1]. 
-
-Las células no marcapasos comprenden principalmente las células del músculo cardíaco auricular y ventricular y las fibras de Purkinje del sistema de conducción. Consisten en un verdadero potencial de membrana en reposo y, al iniciarse un potencial de acción, se desencadena una rápida despolarización, seguida de una fase de meseta y la subsiguiente repolarización. Los potenciales de acción son generados por la conductancia iónica a través de la apertura y el cierre de los canales iónicos [1].
-
-### ELECTROCARDIOGRAMA
-El electrocardiograma, abreviado como  EKG o ECG fue inventado por primera vez en 1902 por Willem Einthoven “padre de la electrocardiografía”. Poco tiempo después de su invención, el ECG fue reconocido como una sólida herramienta de detección y diagnóstico clínico.
-Actualmente, el ECG es una modalidad de diagnóstico no invasivo que tiene un impacto clínico en la investigación de la gravedad de las enfermedades cardiovasculares [1].  El ECG mide la actividad eléctrica del corazón, esta actividad controla el latido del corazón y son las células marcapasos las que liberan ráfagas de energía eléctrica que viajan a través del músculo cardiaco y hacen que este se contraiga, esta contracción genera el bombeo de la sangre a través del corazón [2].
-
-<p align="center"> 
-<img align="center" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/ecg.gif">
-</p>
-
-Asimismo, la velocidad con la que se mueve el electrocardiógrafo es de 25mm/seg. En la gráfica, el tiempo se representa en el eje x y el voltaje en el eje y. Respecto al eje X, 1 segundo se divide en cinco cuadrados grandes, cada uno de los cuales representa 0,2 segundos [1]. 
-
-### SEÑAL DEL ELECTROCARDIOGRAMA
-
-La señal del ECG tiene como objetivo reflejar la actividad eléctrica del corazón observada desde puntos estratégicos del cuerpo humano. Esta señal se caracteriza por cinco picos conocidos como puntos de referencia, que se representan con las letras P,Q,R, S y T [3].
-
-- La onda P es el resultado de la despolarización de la aurícula y el ventrículo provoca el resto de picos.
-- Intervalo PR representa el tiempo desde el comienzo de la despolarización auricular hasta el comienzo de la despolarización ventricular e incluye el retraso en el nodo AV
-- El complejo QRS es la despolarización de ambos ventrículos cardiacos, utilizado como punto de referencia para el análisis de señales.
-- El intervalo QT es un indicador de la repolarizacíón ventricular
-- El segmento ST representa el final de la despolarización ventricular y el comienzo de la repolarización ventricular
-- La onda Q representa la despolarización del tabique interventricular.
-- La onda R representa el estímulo eléctrico a medida que pasa por los ventrículos durante la despolarización.
-- La onda S representa la despolarización final de las fibras de Purkinje.
-- La onda T representa la repolarización ventricular [1][3].
-<p align="center"> 
-<img align="center" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/ecg2.jpg">
-</p>
 
 
 
