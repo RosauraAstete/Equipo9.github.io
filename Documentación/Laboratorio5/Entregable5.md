@@ -5,26 +5,60 @@
 - Adquirir señal biomédica de EEG. 
 - Hacer una correcta configuración de BiTalino. 
 - Extraer la información de la señal EEG del software OpenSignals (r)evolution
+- Analizar la señal EEG obtenida con el OpenBCI
 
-***
 ## Introducción
+---
 
 ### ANATOMÍA Y FISIOLOGÍA DEL CEREBRO
+El sistema nervioso está compuesto por una red de estructuras especializadas que regulan el funcionamiento de los órganos y sistemas y la relación del organismo con el medio externo. Este sistema está organizado para generar respuestas a los cambios internos o externos al organismo evaluando la información que recibe. [1]
+
+El cerebro está compuesto por varias capas, la capa exterior se llama corteza cerebral. Aquí se ejecutan muchas de las funciones clave del sistema nervioso. La corteza se divide en cuatro partes llamadas lóbulos que tienen funciones cerebrales específicas. Estos son el lóbulo frontal, parietal, temporal y occipital. Cada región ha sido subdividida y está asociada a funciones cerebrales específicas. [2]
+
+<p align="center"> 
+<img align="center" width="900" height="350" 
+src="https://cms.bitbrain.com/assets/f9d3603d-8903-42a1-8957-95ec3062dcb1?width=1000&height=659">
+Regiones de la corteza cerebral asociadas con las funciones cerebrales. [en línea] Disponible en: https://human-memory.net/sensory-cortex/   
+
 
 ### ENCEFALOGRAMA
+El pionero en el EEG en humanos fue un psiquiatra alemán llamado Hans Berger en el año 1924 []. 
+
+El EEG  es una técnica electrofisiológica para el registro de la actividad eléctrica que surge del cerebro humano, esta técnica es útil para evaluar pacientes con sospechas de convulsiones, epilepsias y episodios inusuales []. 
+
+Para esta técnica indolora se colocan pequeños sensores en el cuero cabelludo para captar las señales eléctricas producidas, estas señales son registradas por una máquina, son amplificadas y aparecer como un gráfico en la pantalla de una computadora o como un registros que se puede imprimir en papel la cual luego será leída por un especialista altamente capacitado [].
+
+Estas señales se cree que son generadas principalmente por neuronas piramidales corticales en la corteza cerebral que están orientadas perpendicularmente a la superficie del cerebro. La actividad neuronal detectable por el EEG es la suma de los potenciales postsinápticos excitadores e inhibidores de grupos relativamente grandes de neuronas que se activan sincrónicamente []. 
+
+Algo importante a considerar es que los artefactos eléctricos biológicos y ambientales con frecuencia interfieren con la capacidad del intérprete para identificar con precisión tanto los ritmos normales como los patrones patológicos.
+
 
 ### SEÑAL DEL ELECTROCARDIOGRAMA
+En una imagen de electroencefalograma los nombres de los sitios de los electrodos utilizan abreviaturas alfabéticas que identifican el lóbulo o el área del cerebro de la que cada electrodo registra:
+
+- F = frontal
+- Fp = frontopolar
+- T = temporal
+- C = centro
+- P = parietales
+- O = occipital
+- A = auricular (electrodo de oído)
+
+Las ondas del EEG generalmente se clasifican según su frecuencia, amplitud, forma y posición de los electrodos.
+
+- La frecuencia en Hertz es utilizada para determinar los ritmos normales y anormales.
+- La forma de las ondas como alfa, beta, theta, delta y gamma se basa en la frecuencia de la señal, algunas ondas se reconocen en función de su forma, distribución de la cabeza y propiedad de simetría. Asimismo, la forma de la onda es normal a una edad específica, estado de alerta y sueño. Del mismo modo la frecuencia de las ondas cerebrales difiere y corresponde a diferentes comportamientos y estados mentales del cerebro.
+
 
 ## Materiales y Equipos
 
 | Material   | Imagen Referencial  |
 |:-------------: |:---------------:| 
 | **BITalino** es un kit de herramientas de prototipado rápido para proyectos de salud y bienestar personal. Incluye sensores inalámbricos y una plataforma de software para adquirir, procesar y visualizar datos biomédicos         | ![lot](https://camo.githubusercontent.com/d4a44aa322d672288a9f7497916a86b024eaa53d3fa5c9b670ee08258c660f22/68747470733a2f2f63646e2e737061726b66756e2e636f6d2f2f6173736574732f70617274732f312f312f382f322f382f31343032322d3031612e6a7067)       |
-| **Fluke ProSim 4 Vital Signs Patient Simulator** es un simulador de paciente que imita los signos vitales del paciente, como la presión arterial, la frecuencia cardiaca y la respiración, para ayudar en el entrenamiento y prueba de equipos médicos          | ![m](https://www.flukebiomedical.com/sites/default/files/styles/slideshow_image/public/prosim4front_0.png)          |
+| **OpenBCI** crea herramientas de código abierto para biodetección y neurociencia. https://openbci.com/about          | ![m](https://openbci.com/community/wp-content/uploads/2019/02/Screen-Shot-2019-02-06-at-3.07.15-PM.png)          |
 | **OpenSignals Software**: Se puede conectar mediante Bluetooth a la placa BITalino y permite adquirir y visualizar bioseñales          | ![bi](https://cdn.shopify.com/s/files/1/0595/1068/5887/t/6/assets/opensignalshorizontallogocoloralpha-1-1649366393124.png?v=1649366394)      |
 ***
 ## Fotos de Conexión Usada
-
 ### BiTalino - Cables
 
 <p align="center"> 
