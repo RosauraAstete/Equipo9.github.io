@@ -16,8 +16,9 @@ El sistema nervioso está compuesto por una red de estructuras especializadas qu
 El cerebro está compuesto por varias capas, la capa exterior se llama corteza cerebral. Aquí se ejecutan muchas de las funciones clave del sistema nervioso. La corteza se divide en cuatro partes llamadas lóbulos que tienen funciones cerebrales específicas. Estos son el lóbulo frontal, parietal, temporal y occipital. Cada región ha sido subdividida y está asociada a funciones cerebrales específicas. [2]
 
 <p align="center"> 
-<img align="center" width="900" height="350" 
+<img align="center" width="900" height="450" 
 src="https://cms.bitbrain.com/assets/f9d3603d-8903-42a1-8957-95ec3062dcb1?width=1000&height=659">
+
 Regiones de la corteza cerebral asociadas con las funciones cerebrales. [en línea] Disponible en: https://human-memory.net/sensory-cortex/   
 
 
@@ -67,6 +68,9 @@ Las ondas del EEG generalmente se clasifican según su frecuencia, amplitud, for
 
 ### Electrodos - Cuerpo
 Para el primer paciente, la colocación de los electrodos positivo y negativo fue debajo de las clavículas izquierda y derecha respectivamente. El electrodo de referencia se colocó en la cresta ilíaca [5].
+
+### Limitaciones
+Para una mejor adquisición de las señales tanto con el bitalino como con el OpenBCI el ambiente debe ser el adecuado. En nuestro caso esto no fue posible ya que nos encontrábamos en el laboratorio donde había mucho ruido lo que llevaba a distracciones de la persona a la que se le estaba haciendo la medición. Esto hizo que en ocasiones el sujeto se comenzara a reír y apretara la mandíbula. Estos movimientos especialmente en la región de la cara tienen un mayor efecto en la señal obtenida.
 
 ## Videos de la Señales Obtenidas
 
