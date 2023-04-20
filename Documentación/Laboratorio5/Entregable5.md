@@ -171,7 +171,7 @@ Entre los artefactos fisiológicos que alteraron las gráficas podemos mencionar
 
 **Fase de Referencia Inicial**  
 
-Se observa que la señal ploteada es la de menor amplitud con respecto al resto de casos, pues el paciente no realiza ningún esfuerzo que incremente la señal. Asimismo, la señal típicamente muestra patrones de actividad eléctrica cerebral característicos de un cerebro en reposo. En este estado, la señal de EEG se caracteriza por presentar una actividad cerebral de baja frecuencia y amplitud en las ondas alfa (8-13 Hz) y beta (13-30 Hz) [11] .
+Se observa que la señal ploteada es la de menor amplitud con respecto al resto de casos, pues el paciente no realiza ningún esfuerzo que incremente la señal. Asimismo, la señal típicamente muestra patrones de actividad eléctrica cerebral característicos de un cerebro en reposo. En este estado, la señal de EEG se caracteriza por presentar una actividad cerebral de baja frecuencia y amplitud en las ondas alfa (8-13 Hz) y beta (13-30 Hz).
 
 **Ciclo de Ojos Abiertos y Cerrados**  
 
@@ -181,6 +181,7 @@ Se observa que la señal ploteada incrementa de amplitud cuando la persona abre 
 
 Se observa un notable decremento de la amplitud de la señal ploteada, pero no al nivel de la fase de referencia incial. Esto debido a que hubo una mayor exposición al ruido. Durante la exposición al ruido, se observa un aumento en la actividad de ondas beta (12-30 Hz) en el EEG, lo que indica una mayor actividad cerebral asociada con la atención y la alerta. Además, es posible que se observen cambios en las ondas alfa (8-12 Hz), que pueden disminuir durante la exposición al ruido debido a la interrupción de la meditación.
 
+Cuando la persona vuelve a un estado de reposo, es probable que se observe una disminución en la actividad de ondas beta y un aumento en la actividad de ondas alfa, lo que indica un estado de relajación.
 
 **Ejercicios Matemáticos**  
 
@@ -224,11 +225,12 @@ En el siguiente link, encontrará el código utilizado para el ploteo de las se�
 ### OpenBCI
 #### Links to GoogleColab
 En el siguiente link, encontrará el código utilizado para el ploteo de las señales con python.
+`<link>` : https://colab.research.google.com/drive/1vQyoLgNWikoyaLRZOppep34Pg_TXNV3A#scrollTo=jz4e1dXchMz_
 
 | Señal  | Imagen  | Señal | Imagen |
 |:-------------: |:---------------:| :-------------:|:-------------:|
-| Señal EEG Fase de Referencia         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/Estado%20basal%20p1.png)        | Señal EEG Ciclo de ojos abiertos y cerrados        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/Inhalacio%CC%81n%20profunda%20p1.png)        |
-| Señal EEG Fase de Referencia Post Ciclo         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/reposo%20p1.png)        | Señal EEG durante Ejercicios Matematicos       | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/ejercicio%20p1.png)        |
+| Canal 1         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C1.png)        | Canal 2        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C2.png)        |
+| Canal 3         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C3.png)        | Canal 4      | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C4.png)        |
 
 ***
 
