@@ -60,6 +60,17 @@ Las ondas del EEG generalmente se clasifican según su frecuencia, amplitud, for
 - La frecuencia en Hertz es utilizada para determinar los ritmos normales y anormales.
 - La forma de las ondas como alfa, beta, theta, delta y gamma se basa en la frecuencia de la señal, algunas ondas se reconocen en función de su forma, distribución de la cabeza y propiedad de simetría. Asimismo, la forma de la onda es normal a una edad específica, estado de alerta y sueño. Del mismo modo la frecuencia de las ondas cerebrales difiere y corresponde a diferentes comportamientos y estados mentales del cerebro. [6]
 
+<p align="center"> 
+<img align="center" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/tabla.jpg" width="600" height="400">
+</p>
+
+Tipos de ondas de un EEG [6]
+
+<p align="center"> 
+<img align="center" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/tabla2.jpg" width="600" height="400">
+</p>
+
+Tipos de ondas de un EEG [7]
 
 ## Materiales y Equipos
 
@@ -79,13 +90,25 @@ Las ondas del EEG generalmente se clasifican según su frecuencia, amplitud, for
 <img align="center" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/bitalino.jpg" width="600" height="400">
 </p>
 
-### Electrodos - Frente
-Para el primer paciente, la colocación de los electrodos positivo y negativo fue debajo de las clavículas izquierda y derecha respectivamente. El electrodo de referencia se colocó en la cresta ilíaca [5].
+### Colocación de electrodos
+La ubicación de los electrodos en la cabeza es importante para analizar las diferencias entre las señales obtenidas. Existe una convención de posicionamiento de electrodos llamada 10-20 que propone tomar cuatro puntos de referencia craneales universales (nasion, inion y ambos puntos pre-auricular), y distribuye proporcionalmente los electrodos del EEG sobre la superficie de la cabeza. El layout 10-20 tiene una distribución de distancias del 10% y 20% de las curvas de referencia central sagital y coronal. Si este porcentaje disminuye, aumenta la cantidad de electrodos [9].
 
-### Electrodos - Ultracortex - Cabeza
-Para el primer paciente, la colocación de los electrodos positivo y negativo fue debajo de las clavículas izquierda y derecha respectivamente. El electrodo de referencia se colocó en la cresta ilíaca [5].
+<p align="center"> 
+<img align="center" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/cabeza.png" width="250" height="600">
+</p>
+
+A-C: Colocacion electrodos EEG estándar del sistema 10-20. Modificado de: Seeck, M., Koessler, L., Bast, T., Leijten, F., Michel, C., Baumgartner, C., ... & Beniczky, S. (2017). La serie de electrodos estandarizados del EEG del IFCN. Neurofisiología clínica, 128(10), 2070-2077
+
+### Electrodos - Frente
+
 <p align="center"> 
 <img align="center" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/electrodos.png" width="400" height="600">
+</p>
+
+### Electrodos - Ultracortex - Cabeza
+
+<p align="center"> 
+<img align="center" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/juan3.jpg" width="400" height="600">
 </p>
 
 ### Limitaciones y Consideraciones
@@ -198,6 +221,7 @@ En el siguiente link, encontrará el código utilizado para el ploteo de las se�
 [6]J. S. Kumara, Analysis of Electroencephalography (EEG) Signals and Its Categorization–A Study https://www.sciencedirect.com/science/article/pii/S1877705812022114 (accessed Apr. 20, 2023).<br>
 [7]Priyanka A. Abhang, ”Chapter 2 - Technological Basics of EEG Recording and Operation of Apparatus”, https://www.sciencedirect.com/science/article/abs/pii/B9780128044902000026 (accessed Apr. 20, 2023).<br>
 [8] “BITalino (r)evolution Lab Guide.” Available: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf<br>
-
+[9] El, “Localización de electrodos del EEG: Layout Fijo vs. Variable | Bitbrain,” Bitbrain, Apr. 30, 2020. https://www.bitbrain.com/es/blog/colocacion-electrodos-eeg (accessed Apr. 20, 2023).
+‌
 
 ***
