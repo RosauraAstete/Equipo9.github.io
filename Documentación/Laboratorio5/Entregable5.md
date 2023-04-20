@@ -238,7 +238,7 @@ En el siguiente link, encontrará el código utilizado para el ploteo de las se�
 [7]J. S. Kumara, Analysis of Electroencephalography (EEG) Signals and Its Categorization–A Study https://www.sciencedirect.com/science/article/pii/S1877705812022114 (accessed Apr. 20, 2023).<br>
 [8]Priyanka A. Abhang, ”Chapter 2 - Technological Basics of EEG Recording and Operation of Apparatus”, https://www.sciencedirect.com/science/article/abs/pii/B9780128044902000026 (accessed Apr. 20, 2023).<br>
 [9] “BITalino (r)evolution Lab Guide.” Available: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf<br>
-[10] El, “Localización de electrodos del EEG: Layout Fijo vs. Variable | Bitbrain,” Bitbrain, Apr. 30, 2020. https://www.bitbrain.com/es/blog/colocacion-electrodos-eeg (accessed Apr. 20, 2023).
+[10] El, “Localización de electrodos del EEG: Layout Fijo vs. Variable | Bitbrain,” Bitbrain, Apr. 30, 2020. https://www.bitbrain.com/es/blog/colocacion-electrodos-eeg (accessed Apr. 20, 2023). <br>
 ‌‌[11] “Electroencefalograma (EEG) | Cigna,” Cigna.com, 2022. https://www.cigna.com/es-us/knowledge-center/hw/pruebas-mdicas/electroencefalograma-aa22249#:~:text=Normal%3A,en%20el%20trazado%20del%20EEG. (accessed Apr. 20, 2023). <br>
 [12] “ANÁLISIS CON ELECTROENCEFALOGRAFÍA (EEG) DE LA ESCUCHA DE MÚSICA PARA EL ESTUDIO DE ESTRÉS ACADÉMICO.” Available: https://inaoe.repositorioinstitucional.mx/jspui/bitstream/1009/2048/1/Rogelio%20Sotero%20Reyes%20Galaviz-Tesis%20corregida.pdf <br>
 
