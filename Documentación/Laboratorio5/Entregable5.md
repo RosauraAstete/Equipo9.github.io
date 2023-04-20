@@ -163,9 +163,9 @@ src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3
 ***
 ## Resumen y explicación de las señales ploteadas
 
-En el ploteo de las señales para el primer paciente, podemos ver que no tiene tanto ruido como en el paciente 2. Esto se debe a la posición de los electrodos, en el caso de las clavículas, hay menos ruido ya que los músculos de la clavícula tiene menos movimiento que en las muñecas.<br>
-Si analizamos las 4 gráficas del primer paciente, tenemos que en la inhalación profunda, el ruido aumenta que se debe al movimiento al realizar la respiración. Este mismo caso vemos luego del ejercicio, además ver de los picos desordenados que encontramos gracias a la interferencia que se genera entre el electrodo y la piel por la agitación del paciente.<br>
-En el segundo paciente, vemos un caso similar. En la inhalación profunda encontramos más ruido que luego del ejercicio debido al movimiento de los hombros al inspirar.<br>
+Las señales ploteadas se encuentran en constante variación y muestran que el EEG del paciente no tiene un patrón definido para ninguno de los 4 casos. Asimismo, tanto para las señales ploteadas en OpenBCI como en Open Signals, se puede observar la presencia de artefactos. Estas son señales intrusas de otras fuentes que a menudo también ingresan en la grabación, oscureciendo la señal EEG de nuestro interés. <br>
+
+Entre los artefactos fisiológicos que alteraron las gráficas podemos mencionar al parpadeo involuntario, la activación muscular durante el apretamiento de los dientes, la tensión del hombre y cuello, sudoración de la piel [3]. Por otro lado, los artefactos técnicos que pudimos notar son el movimiento de los cables. La impedancia de los electrodos (Ω) constituyen una pared de resistencia eléctrica que causa que no se propague bien la actividad eléctrica. No se pudo evitar esta impedancia, pues no se contó con alcohol o gel o pasta conductora para los electrodos del BiTalino y del Ultracortex. <br>
 
 ### Comportamiento de la señal EEG:
 
