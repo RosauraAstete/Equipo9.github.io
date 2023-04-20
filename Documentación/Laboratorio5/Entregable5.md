@@ -169,13 +169,20 @@ Si analizamos las 4 gráficas del primer paciente, tenemos que en la inhalación
 En el segundo paciente, vemos un caso similar. En la inhalación profunda encontramos más ruido que luego del ejercicio debido al movimiento de los hombros al inspirar.<br>
 
 ### Comportamiento de la señal EEG:
-**Estado inicial de reposo:** Cuando un paciente está en reposo, la señal de ECG describe una frecuencia cardíaca regular y constante, con una duración de ciclo cardíaco (intervalo entre dos ondas R consecutivas) que se encuentra dentro de los valores normales. En este estado, las ondas P, QRS y T en la señal de ECG deberían ser simétricas, tener una forma y amplitud adecuada y estar bien definidas.
 
-**Después de inhalación profunda y aguantar la respiración:** Cuando el paciente aguanta la respiración, la señal de ECG muestra una ligera disminución en la frecuencia cardíaca y de la amplitud, ya que el corazón recibe menos oxígeno. Durante este periodo, la señal muestra una disminución en el número de ondas R debido a la disminución del flujo sanguíneo y la hipoxemia temporal que se produce.
+**Fase de Referencia Inicial**
+En una persona en estado de reposo, la señal de EEG (electroencefalograma) típicamente mostrará patrones de actividad eléctrica cerebral característicos de un cerebro en reposo. En este estado, la señal de EEG se caracteriza por presentar una actividad cerebral de baja frecuencia y amplitud en las ondas alfa (8-13 Hz) y beta (13-30 Hz).
 
-**Reposo post inhalación:** Después de que el paciente deja de aguantar la respiración, la señal de ECG debería volver a su estado inicial de reposo, con un ritmo cardíaco regular y estable.
+Las ondas alfa son comúnmente asociadas con la relajación mental, mientras que las ondas beta se relacionan con la atención y concentración. También pueden estar presentes las ondas theta (4-7 Hz), que se asocian con un estado de somnolencia o meditación profunda, y las ondas delta (0.5-4 Hz), que están asociadas con el sueño profundo [11].
 
-**Después de realizar actividad física por 10 minutos:** La actividad física aumenta la demanda de oxígeno en el cuerpo y por lo tanto en el corazón, lo que puede resultar en un aumento en la frecuencia cardíaca. La señal de ECG durante la actividad física denota un aumento en la amplitud de las ondas P, QRS y T y una disminución en el intervalo entre ellas, lo que indica una mayor actividad eléctrica en el corazón. Después de la actividad física, la señal de ECG debería volver gradualmente a su estado de reposo normal.
+**Ciclo de Ojos Abiertos y Cerrados**
+Los datos muestran que el poder de las ondas cerebrales de la banda alfa occipital puede incrementarse mediante procesos visuales sensibles al movimiento que persisten cuando los ojos están cerrados. En consecuencia, sugerimos que el poder de estas ondas cerebrales es, al menos en parte, un índice del grado en que la actividad cerebral visual está siendo inhibida. Esto aumenta cuando las personas cierran los ojos, pero puede aumentar aún más mediante la adaptación previa al movimiento radial.
+
+**Fase de Referencia Post Ciclo**
+
+**Ejercicios mentales**
+Cuando una persona realiza ejercicios matemáticos, la actividad cerebral se incrementa, lo que puede ser captado por la señal de EEG. En este caso, la actividad cerebral predominante es la de ondas beta, que están relacionadas con la atención y concentración mental, por lo que dichas ondas pueden presentar una mayor amplitud y frecuencia [12]. 
+
 
 ***
 
