@@ -185,13 +185,13 @@ En el siguiente link, encontrará el código utilizado para el ploteo de las se�
 ## Referencias
 
 ‌[1] “Sistema nervioso.” Available: https://www.infermeravirtual.com/files/media/file/99/Sistema%20nervioso.pdf?1358605492 <br>
-[2] El, “Localización de electrodos del EEG: Layout Fijo vs. Variable | Bitbrain,” Bitbrain, Apr. 30, 2020. https://www.bitbrain.com/es/blog/colocacion-electrodos-eeg (accessed Apr. 20, 2023).
-[3] E. K. St et al., “Introduction,” Nih.gov, 2016. https://www.ncbi.nlm.nih.gov/books/NBK390346/ (accessed Apr. 20, 2023).
-[4] NHS Choices, “Electroencephalogram (EEG),” 2023. https://www.nhs.uk/conditions/electroencephalogram/ (accessed Apr. 19, 2023).
-‌[5] “How to Read an EEG,” Epilepsy Foundation, 2013. https://www.epilepsy.com/diagnosis/eeg/how-read (accessed Apr. 20, 2023).
-[6]J. S. Kumara, Analysis of Electroencephalography (EEG) Signals and Its Categorization–A Study https://www.sciencedirect.com/science/article/pii/S1877705812022114 (accessed Apr. 20, 2023).
-[7]Priyanka A. Abhang, ”Chapter 2 - Technological Basics of EEG Recording and Operation of Apparatus”, https://www.sciencedirect.com/science/article/abs/pii/B9780128044902000026 (accessed Apr. 20, 2023).
-[8] “BITalino (r)evolution Lab Guide.” Available: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf
+[2] El, “Localización de electrodos del EEG: Layout Fijo vs. Variable | Bitbrain,” Bitbrain, Apr. 30, 2020. https://www.bitbrain.com/es/blog/colocacion-electrodos-eeg (accessed Apr. 20, 2023).<br>
+[3] E. K. St et al., “Introduction,” Nih.gov, 2016. https://www.ncbi.nlm.nih.gov/books/NBK390346/ (accessed Apr. 20, 2023).<br>
+[4] NHS Choices, “Electroencephalogram (EEG),” 2023. https://www.nhs.uk/conditions/electroencephalogram/ (accessed Apr. 19, 2023).<br>
+‌[5] “How to Read an EEG,” Epilepsy Foundation, 2013. https://www.epilepsy.com/diagnosis/eeg/how-read (accessed Apr. 20, 2023).<br>
+[6]J. S. Kumara, Analysis of Electroencephalography (EEG) Signals and Its Categorization–A Study https://www.sciencedirect.com/science/article/pii/S1877705812022114 (accessed Apr. 20, 2023).<br>
+[7]Priyanka A. Abhang, ”Chapter 2 - Technological Basics of EEG Recording and Operation of Apparatus”, https://www.sciencedirect.com/science/article/abs/pii/B9780128044902000026 (accessed Apr. 20, 2023).<br>
+[8] “BITalino (r)evolution Lab Guide.” Available: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf<br>
 
 
 ***
