@@ -74,19 +74,13 @@ Para una mejor adquisición de las señales tanto con el bitalino como con el Op
 
 ## Videos de la Señales Obtenidas
 
-### Señal ECG en Estado Basal 
+### Señal EEG Fase de Referencia 
 
-#### Paciente 1
 <p align="center"> 
 <img align="center" width="900" height="450" 
 src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/video%201%20claviculas.gif">
 </p>
 
-#### Paciente 2
-<p align="center"> 
-<img align="center" width="900" height="450" 
-src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/Estado%20basal%20p2.gif">
-</p>
 
 ## Ploteo de las señales en OpenSignals
 
@@ -116,7 +110,6 @@ En el segundo paciente, vemos un caso similar. En la inhalación profunda encont
 
 ## Archivos
 
-### Paciente 1
 - [Estado Basal](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/estadobasal.txt)
 - [Inhalación Profunda](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/Inhalacio%CC%81n%20profunda.txt)
 - [Reposo Post Inhalación](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/reposo%20nuevamente.txt)
