@@ -66,7 +66,7 @@ Las ondas del EEG generalmente se clasifican según su frecuencia, amplitud, for
 | Material   | Imagen Referencial  |
 |:-------------: |:---------------:| 
 | **BITalino** es un kit de herramientas de prototipado rápido para proyectos de salud y bienestar personal. Incluye sensores inalámbricos y una plataforma de software para adquirir, procesar y visualizar datos biomédicos         | ![lot](https://camo.githubusercontent.com/d4a44aa322d672288a9f7497916a86b024eaa53d3fa5c9b670ee08258c660f22/68747470733a2f2f63646e2e737061726b66756e2e636f6d2f2f6173736574732f70617274732f312f312f382f322f382f31343032322d3031612e6a7067)       |
-| **OpenBCI** crea herramientas de código abierto para biodetección y neurociencia. https://openbci.com/about          | ![m](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/BCI.jpg)          |
+| **OpenBCI** es un software crea herramientas de código abierto para biodetección y neurociencia.         | ![m](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/BCI.jpg)          |
 | **OpenSignals Software**: Se puede conectar mediante Bluetooth a la placa BITalino y permite adquirir y visualizar bioseñales          | ![bi](https://cdn.shopify.com/s/files/1/0595/1068/5887/t/6/assets/opensignalshorizontallogocoloralpha-1-1649366393124.png?v=1649366394)      |
 ***
 ## Fotos de Conexión Usada
