@@ -125,10 +125,10 @@ En el segundo paciente, vemos un caso similar. En la inhalación profunda encont
 
 ## Archivos
 
-- [Estado Basal](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/estadobasal.txt)
-- [Inhalación Profunda](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/Inhalacio%CC%81n%20profunda.txt)
-- [Reposo Post Inhalación](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/reposo%20nuevamente.txt)
-- [Después del ejercicio](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/despues%20de%20correr.txt)
+- [Fase de Referencia inicial]()
+- [Ciclo de ojos abiertos y cerrados]()
+- [Fase de Referencia post ciclo]()
+- [Ejercicios Matematicos]()
 
 
 ## Ploteo de las señales en Python
@@ -137,12 +137,6 @@ En el segundo paciente, vemos un caso similar. En la inhalación profunda encont
 En el siguiente link, encontrará el código utilizado para el ploteo de las señales con python. 
 `<link>` : https://colab.research.google.com/drive/1BnGfimvitJarySgA-P7BAQgUf0tI0zEb?usp=sharing
 
-## Comparación de las Señales obtenidas del paciente y las obtenidas mediante el ProSim 4 Vital Signs Patient Simulator
-Al realizar una comparación visual de los gráficos obtenidos del paciente con los obtenidos con el ProSim4, se aprecia que el ruido es notablemente menor en las señales del ProSim4 que en las señales del paciente. También, se aprecia que la ondas de la señal del ProSim4 son iguales en todo su dominio. En el caso de la señal del paciente, las ondas varian tanto en forma como en amplitud. Esto puede deberse que el dispositivo ProSim4 realiza una conección directa con los electrodos, mientras que, en el caso de paciente, los electrodos son colocados sobre la piel. 
-
-<p align="center"> 
-<img align="center" width="900" height="450" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/Simulacio%CC%81n.gif">
-</p>
 
 ***
 
