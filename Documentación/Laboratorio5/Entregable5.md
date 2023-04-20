@@ -185,7 +185,7 @@ Se observa una notable disminución de la amplitud de la señal, pero no tan red
 
 **Ejercicios Matemáticos**  
 
-Se observa que la señal presenta picos de mayor amplitud con respecto a los 4 casos, pues, cuando una persona realiza ejercicios matemáticos, la actividad cerebral se incrementa, lo que puede ser captado por la señal de EEG. En este caso, la actividad cerebral predominante es la de ondas beta, que están relacionadas con la atención y concentración mental, por lo que dichas ondas pueden presentar una mayor amplitud y frecuencia [12]. 
+Se observa que la señal presenta picos de mayor amplitud con respecto a los 4 casos, pues, cuando una persona realiza ejercicios matemáticos, la actividad cerebral se incrementa, lo que puede ser captado por la señal de EEG. En este caso, la actividad cerebral predominante es la de ondas beta, que están relacionadas con la atención y concentración mental, por lo que dichas ondas pueden presentar una mayor amplitud y frecuencia según el esfuerzo que el paciente realice para llegar a la respuesta correcta [12]. 
 
 
 ***
