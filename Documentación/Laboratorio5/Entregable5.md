@@ -74,7 +74,7 @@ Las ondas del EEG generalmente se clasifican según su frecuencia, amplitud, for
 ### BiTalino - Cables
 
 <p align="center"> 
-<img align="center" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/bitalino.jpg" width="500" height="400">
+<img align="center" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/bitalino.jpg" width="600" height="400">
 </p>
 
 ### Electrodos - Cuerpo
