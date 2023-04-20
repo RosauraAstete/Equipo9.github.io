@@ -193,10 +193,10 @@ Cuando una persona realiza ejercicios matemáticos, la actividad cerebral se inc
 
 ### OpenBCI GUI
 
-- [Fase de Referencia inicial]()
-- [Ciclo de ojos abiertos y cerrados]()
-- [Fase de Referencia post ciclo]()
-- [Ejercicios Matematicos]()
+- [Fase de Referencia inicial](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/Linea%20basal%202.txt)
+- [Ciclo de ojos abiertos y cerrados](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/ojos%20abierto%2Bluz.txt)
+- [Fase de Referencia post ciclo](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/reposo%20de%20referencia%202.txt)
+- [Ejercicios Matematicos](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/preguntas%20de%20mate.txt)
 
 ### OpenSignals
 
@@ -216,7 +216,7 @@ En el siguiente link, encontrará el código utilizado para el ploteo de las se�
 | Señal  | Imagen  | Señal | Imagen |
 |:-------------: |:---------------:| :-------------:|:-------------:|
 |:-------------: |:---------------:| :-------------:|:-------------:|
-| Señal EEG Fase de Referencia         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/estadobasal1.png)        | Señal EEG Ciclo de ojos abiertos        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/luzconojosabiertos.png)        |
+| Señal EEG Fase de Referencia         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/estadobasal1.png)        | Señal EEG Ciclo de ojos abiertos        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/ojosA1.png)        |
 | Señal EEG Fase de Referencia Post Ciclo         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/reposo2.png)        | Señal EEG durante Ejercicios Matematicos       | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/preguntasmate.png)        | 
 
 
