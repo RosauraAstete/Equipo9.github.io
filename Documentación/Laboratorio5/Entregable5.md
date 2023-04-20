@@ -1,14 +1,13 @@
 # **LABORATORIO 5: Procedimiento de registro EEG**
 
 ## Objetivos
----
+
 - Adquirir señal biomédica de EEG. 
 - Hacer una correcta configuración de BiTalino. 
 - Extraer la información de la señal EEG del software OpenSignals (r)evolution
 - Analizar la señal EEG obtenida con el OpenBCI
 
 ## Introducción
----
 
 ### ANATOMÍA Y FISIOLOGÍA DEL CEREBRO
 El sistema nervioso está compuesto por una red de estructuras especializadas que regulan el funcionamiento de los órganos y sistemas y la relación del organismo con el medio externo. Este sistema está organizado para generar respuestas a los cambios internos o externos al organismo evaluando la información que recibe. [1]
@@ -76,7 +75,7 @@ Tipos de ondas de un EEG [6]
 Tipos de ondas de un EEG [7]
 </p>
 
-
+***
 ## Materiales y Equipos
 
 | Material   | Imagen Referencial  |
@@ -85,10 +84,11 @@ Tipos de ondas de un EEG [7]
 | **OpenBCI GUI** es un software crea herramientas de código abierto para biodetección y neurociencia.         | ![m](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/BCI.jpg)          |
 | **OpenSignals Software**: Se puede conectar mediante Bluetooth a la placa BITalino y permite adquirir y visualizar bioseñales          | ![bi](https://cdn.shopify.com/s/files/1/0595/1068/5887/t/6/assets/opensignalshorizontallogocoloralpha-1-1649366393124.png?v=1649366394)      |
 | **Ultracortex "Mark IV" EEG Headset** permite adquirir hasta 16 canales de datos de EEG y puede combinarse con la placa OpenBCI Ganglion, Cyton o CytonDaisy.          | ![bi](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/ultra.jpg)      |
+
 ***
 
 ## Fotos de Conexión Usada
----
+
 ### BiTalino - Cables
 
 <p align="center"> 
@@ -117,8 +117,10 @@ Para una mejor adquisición de las señales tanto con el bitalino como con el Op
 <img align="center" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/juan2.jpg" width="400" height="600">
 </p>
 
+***
+
 ## Videos de la Señales Obtenidas
----
+
 
 ### Señal EEG Fase de Referencia 
 
@@ -141,9 +143,10 @@ src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3
 src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/video%201%20claviculas.gif">
 </p>
 
+***
 
 ## Ploteo de las señales en OpenBCI GUI
----
+
 
 | Señal  | Imagen  | Señal | Imagen |
 |:-------------: |:---------------:| :-------------:|:-------------:|
@@ -157,8 +160,9 @@ src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3
 | Señal EEG Fase de Referencia         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/Estado%20basal%20p1.png)        | Señal EEG Ciclo de ojos abiertos y cerrados        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/Inhalacio%CC%81n%20profunda%20p1.png)        |
 | Señal EEG Fase de Referencia Post Ciclo         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/reposo%20p1.png)        | Señal EEG durante Ejercicios Matematicos       | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/ejercicio%20p1.png)        |
 
+***
 ## Resumen y explicación de las señales ploteadas
----
+
 
 En el ploteo de las señales para el primer paciente, podemos ver que no tiene tanto ruido como en el paciente 2. Esto se debe a la posición de los electrodos, en el caso de las clavículas, hay menos ruido ya que los músculos de la clavícula tiene menos movimiento que en las muñecas.<br>
 Si analizamos las 4 gráficas del primer paciente, tenemos que en la inhalación profunda, el ruido aumenta que se debe al movimiento al realizar la respiración. Este mismo caso vemos luego del ejercicio, además ver de los picos desordenados que encontramos gracias a la interferencia que se genera entre el electrodo y la piel por la agitación del paciente.<br>
@@ -190,6 +194,8 @@ En el segundo paciente, vemos un caso similar. En la inhalación profunda encont
 - [Ciclo de ojos abiertos y cerrados]()
 - [Fase de Referencia post ciclo]()
 - [Ejercicios Matematicos]()
+
+***
 
 ## Ploteo de las señales en Python
 
