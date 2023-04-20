@@ -181,6 +181,9 @@ Los datos muestran que el poder de las ondas cerebrales de la banda alfa occipit
 
 **Fase de Referencia Post Ciclo**  
 
+Durante la exposición al ruido, se observa un aumento en la actividad de ondas beta (12-30 Hz) en el EEG, lo que indica una mayor actividad cerebral asociada con la atención y la alerta. Además, es posible que se observen cambios en las ondas alfa (8-12 Hz), que pueden disminuir durante la exposición al ruido debido a la interrupción de la meditación.
+
+Cuando la persona vuelve a un estado de reposo, es probable que se observe una disminución en la actividad de ondas beta y un aumento en la actividad de ondas alfa, lo que indica un estado de relajación.
 
 **Ejercicios Matemáticos**  
 
