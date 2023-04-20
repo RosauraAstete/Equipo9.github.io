@@ -33,15 +33,15 @@ El cerebro y sus lóbulos superficiales con sus respectivas funciones (marcados 
 
 
 ### ENCEFALOGRAMA
-El pionero en el EEG en humanos fue un psiquiatra alemán llamado Hans Berger en el año 1924 []. 
+El pionero en el EEG en humanos fue un psiquiatra alemán llamado Hans Berger en el año 1924 [3]. 
 
-El EEG  es una técnica electrofisiológica para el registro de la actividad eléctrica que surge del cerebro humano, esta técnica es útil para evaluar pacientes con sospechas de convulsiones, epilepsias y episodios inusuales []. 
+El EEG  es una técnica electrofisiológica para el registro de la actividad eléctrica que surge del cerebro humano, esta técnica es útil para evaluar pacientes con sospechas de convulsiones, epilepsias y episodios inusuales [3]. 
 
-Para esta técnica indolora se colocan pequeños sensores en el cuero cabelludo para captar las señales eléctricas producidas, estas señales son registradas por una máquina, son amplificadas y aparecer como un gráfico en la pantalla de una computadora o como un registros que se puede imprimir en papel la cual luego será leída por un especialista altamente capacitado [].
+Para esta técnica indolora se colocan pequeños sensores en el cuero cabelludo para captar las señales eléctricas producidas, estas señales son registradas por una máquina, son amplificadas y aparecer como un gráfico en la pantalla de una computadora o como un registros que se puede imprimir en papel la cual luego será leída por un especialista altamente capacitado [4].
 
-Estas señales se cree que son generadas principalmente por neuronas piramidales corticales en la corteza cerebral que están orientadas perpendicularmente a la superficie del cerebro. La actividad neuronal detectable por el EEG es la suma de los potenciales postsinápticos excitadores e inhibidores de grupos relativamente grandes de neuronas que se activan sincrónicamente []. 
+Estas señales se cree que son generadas principalmente por neuronas piramidales corticales en la corteza cerebral que están orientadas perpendicularmente a la superficie del cerebro. La actividad neuronal detectable por el EEG es la suma de los potenciales postsinápticos excitadores e inhibidores de grupos relativamente grandes de neuronas que se activan sincrónicamente [3]. 
 
-Algo importante a considerar es que los artefactos eléctricos biológicos y ambientales con frecuencia interfieren con la capacidad del intérprete para identificar con precisión tanto los ritmos normales como los patrones patológicos.
+Algo importante a considerar es que los artefactos eléctricos biológicos y ambientales con frecuencia interfieren con la capacidad del intérprete para identificar con precisión tanto los ritmos normales como los patrones patológicos [3].
 
 
 ### SEÑAL DEL ELECTROENCEFALOGRAMA
@@ -53,12 +53,12 @@ En una imagen de electroencefalograma los nombres de los sitios de los electrodo
 - C = centro
 - P = parietales
 - O = occipital
-- A = auricular (electrodo de oído)
+- A = auricular (electrodo de oído) [5]
 
 Las ondas del EEG generalmente se clasifican según su frecuencia, amplitud, forma y posición de los electrodos.
 
 - La frecuencia en Hertz es utilizada para determinar los ritmos normales y anormales.
-- La forma de las ondas como alfa, beta, theta, delta y gamma se basa en la frecuencia de la señal, algunas ondas se reconocen en función de su forma, distribución de la cabeza y propiedad de simetría. Asimismo, la forma de la onda es normal a una edad específica, estado de alerta y sueño. Del mismo modo la frecuencia de las ondas cerebrales difiere y corresponde a diferentes comportamientos y estados mentales del cerebro.
+- La forma de las ondas como alfa, beta, theta, delta y gamma se basa en la frecuencia de la señal, algunas ondas se reconocen en función de su forma, distribución de la cabeza y propiedad de simetría. Asimismo, la forma de la onda es normal a una edad específica, estado de alerta y sueño. Del mismo modo la frecuencia de las ondas cerebrales difiere y corresponde a diferentes comportamientos y estados mentales del cerebro. [6]
 
 
 ## Materiales y Equipos
@@ -70,7 +70,9 @@ Las ondas del EEG generalmente se clasifican según su frecuencia, amplitud, for
 | **OpenSignals Software**: Se puede conectar mediante Bluetooth a la placa BITalino y permite adquirir y visualizar bioseñales          | ![bi](https://cdn.shopify.com/s/files/1/0595/1068/5887/t/6/assets/opensignalshorizontallogocoloralpha-1-1649366393124.png?v=1649366394)      |
 | **Ultracortex "Mark IV" EEG Headset** permite adquirir hasta 16 canales de datos de EEG y puede combinarse con la placa OpenBCI Ganglion, Cyton o CytonDaisy.          | ![bi](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/ultra.jpg)      |
 ***
+
 ## Fotos de Conexión Usada
+---
 ### BiTalino - Cables
 
 <p align="center"> 
@@ -84,9 +86,10 @@ Para el primer paciente, la colocación de los electrodos positivo y negativo fu
 Para el primer paciente, la colocación de los electrodos positivo y negativo fue debajo de las clavículas izquierda y derecha respectivamente. El electrodo de referencia se colocó en la cresta ilíaca [5].
 
 ### Limitaciones y Consideraciones
-Para una mejor adquisición de las señales tanto con el bitalino como con el OpenBCI el ambiente debe ser el adecuado. En nuestro caso esto no fue posible ya que nos encontrábamos en el laboratorio donde había mucho ruido lo que llevaba a distracciones de la persona a la que se le estaba haciendo la medición. Esto hizo que en ocasiones el sujeto comenzara a apretar su mandíbula y esforzarse más para no perder la concentración. Estos movimientos especialmente en la región de la cara tienen un mayor efecto en la señal obtenida. Asimismo, para poder obtener la señal en la fase de referencia, se consideró tapar los ojos del paciente para evitar breves ráfagas de energía y respuestas a estímulos, como destellos de luz.
+Para una mejor adquisición de las señales tanto con el bitalino como con el OpenBCI el ambiente debe ser el adecuado. En nuestro caso esto no fue posible ya que nos encontrábamos en el laboratorio donde había mucho ruido lo que llevaba a distracciones de la persona a la que se le estaba haciendo la medición. Esto hizo que en ocasiones el sujeto comenzara a apretar su mandíbula y esforzarse más para no perder la concentración. Estos movimientos especialmente en la región de la cara tienen un mayor efecto en la señal obtenida. Asimismo, para poder obtener la señal en la fase de referencia, se consideró tapar los ojos del paciente para evitar breves ráfagas de energía y respuestas a estímulos, como destellos de luz [8].
 
 ## Videos de la Señales Obtenidas
+---
 
 ### Señal EEG Fase de Referencia 
 
@@ -109,8 +112,9 @@ src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3
 src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/video%201%20claviculas.gif">
 </p>
 
-***
+
 ## Ploteo de las señales en OpenBCI GUI
+---
 
 | Señal  | Imagen  | Señal | Imagen |
 |:-------------: |:---------------:| :-------------:|:-------------:|
@@ -124,14 +128,14 @@ src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3
 | Señal EEG Fase de Referencia         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/Estado%20basal%20p1.png)        | Señal EEG Ciclo de ojos abiertos y cerrados        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/Inhalacio%CC%81n%20profunda%20p1.png)        |
 | Señal EEG Fase de Referencia Post Ciclo         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/reposo%20p1.png)        | Señal EEG durante Ejercicios Matematicos       | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/ejercicio%20p1.png)        |
 
-***
 ## Resumen y explicación de las señales ploteadas
+---
 
 En el ploteo de las señales para el primer paciente, podemos ver que no tiene tanto ruido como en el paciente 2. Esto se debe a la posición de los electrodos, en el caso de las clavículas, hay menos ruido ya que los músculos de la clavícula tiene menos movimiento que en las muñecas.<br>
 Si analizamos las 4 gráficas del primer paciente, tenemos que en la inhalación profunda, el ruido aumenta que se debe al movimiento al realizar la respiración. Este mismo caso vemos luego del ejercicio, además ver de los picos desordenados que encontramos gracias a la interferencia que se genera entre el electrodo y la piel por la agitación del paciente.<br>
 En el segundo paciente, vemos un caso similar. En la inhalación profunda encontramos más ruido que luego del ejercicio debido al movimiento de los hombros al inspirar.<br>
 
-### Comportamiento de la señal ECG:
+### Comportamiento de la señal EEG:
 **Estado inicial de reposo:** Cuando un paciente está en reposo, la señal de ECG describe una frecuencia cardíaca regular y constante, con una duración de ciclo cardíaco (intervalo entre dos ondas R consecutivas) que se encuentra dentro de los valores normales. En este estado, las ondas P, QRS y T en la señal de ECG deberían ser simétricas, tener una forma y amplitud adecuada y estar bien definidas.
 
 **Después de inhalación profunda y aguantar la respiración:** Cuando el paciente aguanta la respiración, la señal de ECG muestra una ligera disminución en la frecuencia cardíaca y de la amplitud, ya que el corazón recibe menos oxígeno. Durante este periodo, la señal muestra una disminución en el número de ondas R debido a la disminución del flujo sanguíneo y la hipoxemia temporal que se produce.
@@ -173,18 +177,26 @@ En el siguiente link, encontrará el código utilizado para el ploteo de las se�
 
 ## Conclusiones
 
-- El ECG es una herramienta esencial para la detección y el diagnóstico clínico de enfermedades cardíacas.
-- La ubicación de los electrodos es importante para obtener una buena señal, ya que si ubicamos los electrodos en las muñecas se observan más ruido debido a que los músculos de brazo generan interferencia en la señal.
+- 
 
 ***
 
 
 ## Referencias
 
-[1] Y. Sattar and L. Chhabra, “Electrocardiogram,” Nih.gov, Jan. 28, 2023. https://www.ncbi.nlm.nih.gov/books/NBK549803/<br>
-[2] “ECG,” Utoronto.ca, 2015. http://pie.med.utoronto.ca/heart_physiology/module/ecg.html<br> 
-[3] J. Aspuru et al., “Segmentation of the ECG Signal by Means of a Linear Regression Algorithm,” Sensors, vol. 19, no. 4, p. 775, Feb. 2019, doi: https://doi.org/10.3390/s19040775<br>
-[4] “Improving ECG Quality Application Note.” Available: https://philipsproductcontent.blob.core.windows.net/assets/20170523/f2fc03ac224d4d5bb6aaa77c0151ac70.pdf<br>
-[5] E. Secretario, “ESCUELA TÉCNICA SUPERIOR DE INGENIERÍA Y SISTEMAS DE TELECOMUNICACIÓN PROYECTO FIN DE GRADO.” Available: https://oa.upm.es/67385/1/TFG_JAVIER_CENDEJAS_LOPEZ.pdf
+‌[1]
+“Sistema nervioso.” Available: https://www.infermeravirtual.com/files/media/file/99/Sistema%20nervioso.pdf?1358605492
 ‌
+[2] El, “Localización de electrodos del EEG: Layout Fijo vs. Variable | Bitbrain,” Bitbrain, Apr. 30, 2020. https://www.bitbrain.com/es/blog/colocacion-electrodos-eeg (accessed Apr. 20, 2023).
+[3]
+E. K. St et al., “Introduction,” Nih.gov, 2016. https://www.ncbi.nlm.nih.gov/books/NBK390346/ (accessed Apr. 20, 2023).
+[4] NHS Choices, “Electroencephalogram (EEG),” 2023. https://www.nhs.uk/conditions/electroencephalogram/ (accessed Apr. 19, 2023).
+
+‌[5] “How to Read an EEG,” Epilepsy Foundation, 2013. https://www.epilepsy.com/diagnosis/eeg/how-read (accessed Apr. 20, 2023).
+[6]J. S. Kumara, Analysis of Electroencephalography (EEG) Signals and Its Categorization–A Study
+ https://www.sciencedirect.com/science/article/pii/S1877705812022114 (accessed Apr. 20, 2023).
+[7]Priyanka A. Abhang, ”Chapter 2 - Technological Basics of EEG Recording and Operation of Apparatus”, https://www.sciencedirect.com/science/article/abs/pii/B9780128044902000026 (accessed Apr. 20, 2023).
+[8] “BITalino (r)evolution Lab Guide.” Available: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf
+
+
 ***
