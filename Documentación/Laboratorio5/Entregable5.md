@@ -94,7 +94,7 @@ Tipos de ondas de un EEG [7]
 La ubicación de los electrodos en la cabeza es importante para analizar las diferencias entre las señales obtenidas. Existe una convención de posicionamiento de electrodos llamada 10-20 que propone tomar cuatro puntos de referencia craneales universales (nasion, inion y ambos puntos pre-auricular), y distribuye proporcionalmente los electrodos del EEG sobre la superficie de la cabeza. El layout 10-20 tiene una distribución de distancias del 10% y 20% de las curvas de referencia central sagital y coronal. Si este porcentaje disminuye, aumenta la cantidad de electrodos [9].
 
 <p align="center"> 
-<img align="center" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/cabeza.png" width="250" height="600">
+<img align="center" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/cabeza.png" width="600" height="250">
 </p>
 
 A-C: Colocacion electrodos EEG estándar del sistema 10-20. Modificado de: Seeck, M., Koessler, L., Bast, T., Leijten, F., Michel, C., Baumgartner, C., ... & Beniczky, S. (2017). La serie de electrodos estandarizados del EEG del IFCN. Neurofisiología clínica, 128(10), 2070-2077
