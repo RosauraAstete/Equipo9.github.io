@@ -44,7 +44,7 @@ Estas señales se cree que son generadas principalmente por neuronas piramidales
 Algo importante a considerar es que los artefactos eléctricos biológicos y ambientales con frecuencia interfieren con la capacidad del intérprete para identificar con precisión tanto los ritmos normales como los patrones patológicos.
 
 
-### SEÑAL DEL ELECTROCARDIOGRAMA
+### SEÑAL DEL ELECTROENCEFALOGRAMA
 En una imagen de electroencefalograma los nombres de los sitios de los electrodos utilizan abreviaturas alfabéticas que identifican el lóbulo o el área del cerebro de la que cada electrodo registra:
 
 - F = frontal
