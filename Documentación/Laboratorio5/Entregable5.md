@@ -216,8 +216,8 @@ En el siguiente link, encontrará el código utilizado para el ploteo de las se�
 | Señal  | Imagen  | Señal | Imagen |
 |:-------------: |:---------------:| :-------------:|:-------------:|
 |:-------------: |:---------------:| :-------------:|:-------------:|
-| Señal EEG Fase de Referencia         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/estadobasal.png)        | Señal EEG Ciclo de ojos abiertos        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/luzconojosabiertos.png)        |
-| Señal EEG Fase de Referencia Post Ciclo         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/reposopost.png)        | Señal EEG durante Ejercicios Matematicos       | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/preguntasmate.png)        | Señal EEG Exitación musical       | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/exitacionconmusica.png)        |
+| Señal EEG Fase de Referencia         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/estadobasal1.png)        | Señal EEG Ciclo de ojos abiertos        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/luzconojosabiertos.png)        |
+| Señal EEG Fase de Referencia Post Ciclo         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/reposo2.png)        | Señal EEG durante Ejercicios Matematicos       | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/preguntasmate.png)        | 
 
 
 
@@ -234,10 +234,7 @@ En el siguiente link, encontrará el código utilizado para el ploteo de las se�
 
 ## Conclusiones
 
- - El electroencefalograma es una técnica muy útil para evaluar pacientes con sospechas de alguna enfermedad relacionada con el cerebro.
- - Algo a resaltar cuando se obtuvieron las señales ploteadas y con la revisión bibliográfica es que los ruidos ambientales, la luz y distintos factores que nos rodean con frecuencia interfieren con la capacidad del intérprete para identificar con precisión tanto los ritmos normales como los patrones patológicos.
- - La interpretación de las señales obtenidas puede ser un poco complicada de entender; sin embargo, con la bibliografía referencial pudimos identificar que cuando una persona se encuentra en reposo la señal EEG comúnmente mostrará actividad cerebral con frecuencias bajas y amplitud en las ondas alfa. Por otro lado, si se pudo identificar que cuando nuestro compañero fue sometido a un cuestionario matemático la actividad cerebral incrementó en esta señal predominaron las ondas beta.
-
+- 
 
 ***
 
