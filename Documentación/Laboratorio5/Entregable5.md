@@ -181,7 +181,6 @@ Se observa que la señal ploteada incrementa de amplitud cuando la persona abre 
 
 Se observa un notable decremento de la amplitud de la señal ploteada, pero no al nivel de la fase de referencia incial. Esto debido a que hubo una mayor exposición al ruido. Durante la exposición al ruido, se observa un aumento en la actividad de ondas beta (12-30 Hz) en el EEG, lo que indica una mayor actividad cerebral asociada con la atención y la alerta. Además, es posible que se observen cambios en las ondas alfa (8-12 Hz), que pueden disminuir durante la exposición al ruido debido a la interrupción de la meditación.
 
-Cuando la persona vuelve a un estado de reposo, es probable que se observe una disminución en la actividad de ondas beta y un aumento en la actividad de ondas alfa, lo que indica un estado de relajación.
 
 **Ejercicios Matemáticos**  
 
