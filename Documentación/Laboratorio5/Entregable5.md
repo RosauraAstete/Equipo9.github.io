@@ -81,7 +81,7 @@ Las ondas del EEG generalmente se clasifican según su frecuencia, amplitud, for
 Para el primer paciente, la colocación de los electrodos positivo y negativo fue debajo de las clavículas izquierda y derecha respectivamente. El electrodo de referencia se colocó en la cresta ilíaca [5].
 
 ### Limitaciones
-Para una mejor adquisición de las señales tanto con el bitalino como con el OpenBCI el ambiente debe ser el adecuado. En nuestro caso esto no fue posible ya que nos encontrábamos en el laboratorio donde había mucho ruido lo que llevaba a distracciones de la persona a la que se le estaba haciendo la medición. Esto hizo que en ocasiones el sujeto se comenzara a reír y apretara la mandíbula. Estos movimientos especialmente en la región de la cara tienen un mayor efecto en la señal obtenida.
+Para una mejor adquisición de las señales tanto con el bitalino como con el OpenBCI el ambiente debe ser el adecuado. En nuestro caso esto no fue posible ya que nos encontrábamos en el laboratorio donde había mucho ruido lo que llevaba a distracciones de la persona a la que se le estaba haciendo la medición. Esto hizo que en ocasiones el sujeto comenzara a apretar su mandíbula y esforzarse más para no perder la concentración. Estos movimientos especialmente en la región de la cara tienen un mayor efecto en la señal obtenida.
 
 ## Videos de la Señales Obtenidas
 
