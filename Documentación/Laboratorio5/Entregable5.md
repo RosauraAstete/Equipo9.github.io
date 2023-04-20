@@ -157,6 +157,7 @@ src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3
 |:-------------: |:---------------:| :-------------:|:-------------:|
 | Señal EEG Fase de Referencia         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/Reposo.png)        | Señal EEG Ciclo de ojos abiertos y cerrados        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/ojo%20abierto%20y%20cerrado.png)        |
 | Señal EEG Fase de Referencia Post Ciclo         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/reposo%202.png)        | Señal EEG durante Ejercicios Matematicos       | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/preguntas%20de%20mate.png)        |
+| Señal EEG Fase de Referencia Post Ciclo         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/reposo%202.png)        | Señal EEG durante Ejercicios Matematicos       | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/preguntas%20de%20mate.png)        |
 
 ## Ploteo de las señales en OpenSignals
 
@@ -176,7 +177,7 @@ Entre los artefactos fisiológicos que alteraron las gráficas podemos mencionar
 
 **Fase de Referencia Inicial**  
 
-Se observa que la señal ploteada es la de menor amplitud con respecto al resto de casos, pues el paciente no realiza ningún esfuerzo que incremente la señal. Asimismo, la señal típicamente muestra patrones de actividad eléctrica cerebral característicos de un cerebro en reposo. En este estado, la señal de EEG se caracteriza por presentar una actividad cerebral de baja frecuencia y amplitud en las ondas alfa (8-13 Hz) y beta (13-30 Hz).
+Se observa que la señal ploteada es la de menor amplitud con respecto al resto de casos, pues el paciente no realiza ningún esfuerzo que incremente la señal. Asimismo, la señal típicamente muestra patrones de actividad eléctrica cerebral característicos de un cerebro en reposo. En este estado, la señal de EEG se caracteriza por presentar una actividad cerebral de baja frecuencia y amplitud en las ondas alfa (8-13 Hz) y beta (13-30 Hz) [11].
 
 **Ciclo de Ojos Abiertos y Cerrados**  
 
@@ -186,7 +187,6 @@ Se observa que la señal ploteada incrementa de amplitud cuando la persona abre 
 
 Se observa un notable decremento de la amplitud de la señal ploteada, pero no al nivel de la fase de referencia incial. Esto debido a que hubo una mayor exposición al ruido. Durante la exposición al ruido, se observa un aumento en la actividad de ondas beta (12-30 Hz) en el EEG, lo que indica una mayor actividad cerebral asociada con la atención y la alerta. Además, es posible que se observen cambios en las ondas alfa (8-12 Hz), que pueden disminuir durante la exposición al ruido debido a la interrupción de la meditación.
 
-Cuando la persona vuelve a un estado de reposo, es probable que se observe una disminución en la actividad de ondas beta y un aumento en la actividad de ondas alfa, lo que indica un estado de relajación.
 
 **Ejercicios Matemáticos**  
 
@@ -235,6 +235,22 @@ En el siguiente link, encontrará el código utilizado para el ploteo de las se�
 | Señal  | Imagen  | Señal | Imagen |
 |:-------------: |:---------------:| :-------------:|:-------------:|
 | Canal 1         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C1.png)        | Canal 2        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C2.png)        |
+| Canal 3         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C3.png)        | Canal 4      | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C4.png)        |
+| Canal 3         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C3.png)        | Canal 4      | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C4.png)        |
+| Canal 3         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C3.png)        | Canal 4      | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C4.png)        |
+
+| Señal  | Imagen  | Señal | Imagen |
+|:-------------: |:---------------:| :-------------:|:-------------:|
+| Canal 1         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C1.png)        | Canal 2        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C2.png)        |
+| Canal 3         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C3.png)        | Canal 4      | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C4.png)        |
+| Canal 3         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C3.png)        | Canal 4      | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C4.png)        |
+| Canal 3         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C3.png)        | Canal 4      | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C4.png)        |
+
+| Señal  | Imagen  | Señal | Imagen |
+|:-------------: |:---------------:| :-------------:|:-------------:|
+| Canal 1         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C1.png)        | Canal 2        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C2.png)        |
+| Canal 3         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C3.png)        | Canal 4      | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C4.png)        |
+| Canal 3         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C3.png)        | Canal 4      | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C4.png)        |
 | Canal 3         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C3.png)        | Canal 4      | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C4.png)        |
 
 ***
