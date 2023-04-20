@@ -234,7 +234,10 @@ En el siguiente link, encontrará el código utilizado para el ploteo de las se�
 
 ## Conclusiones
 
-- 
+ - El electroencefalograma es una técnica muy útil para evaluar pacientes con sospechas de alguna enfermedad relacionada con el cerebro.
+ - Algo a resaltar cuando se obtuvieron las señales ploteadas y con la revisión bibliográfica es que los ruidos ambientales, la luz y distintos factores que nos rodean con frecuencia interfieren con la capacidad del intérprete para identificar con precisión tanto los ritmos normales como los patrones patológicos.
+ - La interpretación de las señales obtenidas puede ser un poco complicada de entender; sin embargo, con la bibliografía referencial pudimos identificar que cuando una persona se encuentra en reposo la señal EEG comúnmente mostrará actividad cerebral con frecuencias bajas y amplitud en las ondas alfa. Por otro lado, si se pudo identificar que cuando nuestro compañero fue sometido a un cuestionario matemático la actividad cerebral incrementó en esta señal predominaron las ondas beta.
+
 
 ***
 
