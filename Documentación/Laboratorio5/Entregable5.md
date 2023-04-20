@@ -144,11 +144,19 @@ En el segundo paciente, vemos un caso similar. En la inhalación profunda encont
 
 ## Archivos
 
+### OpenBCI GUI
+
 - [Fase de Referencia inicial]()
 - [Ciclo de ojos abiertos y cerrados]()
 - [Fase de Referencia post ciclo]()
 - [Ejercicios Matematicos]()
 
+### OpenSignals
+
+- [Fase de Referencia inicial]()
+- [Ciclo de ojos abiertos y cerrados]()
+- [Fase de Referencia post ciclo]()
+- [Ejercicios Matematicos]()
 
 ## Ploteo de las señales en Python
 
