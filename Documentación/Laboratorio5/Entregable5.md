@@ -181,7 +181,7 @@ Se observa que la señal ploteada es la de menor amplitud con respecto al resto 
 
 **Ciclo de Ojos Abiertos y Cerrados**  
 
-Se observa que la señal ploteada incrementa de amplitud cuando la persona abre los ojos, esto debido a los destello de luz del ambiente [9]. Asimismo, la señal decrece su amplitud cuando la persona cierra los ojos. Los datos muestran que el poder de las ondas cerebrales de la banda alfa occipital puede incrementarse mediante procesos visuales sensibles al movimiento que persisten cuando los ojos están cerrados. En consecuencia, sugerimos que el poder de estas ondas cerebrales es, al menos en parte, un índice del grado en que la actividad cerebral visual está siendo inhibida. Esto aumenta cuando las personas cierran los ojos, pero puede aumentar aún más mediante la adaptación previa al movimiento radial.
+Se observa que la señal ploteada incrementa de amplitud cuando la persona abre los ojos, esto debido a los destello de luz del ambiente. Asimismo, la señal decrece su amplitud cuando la persona cierra los ojos. Los datos muestran que el poder de las ondas cerebrales de la banda alfa occipital puede incrementarse mediante procesos visuales sensibles al movimiento que persisten cuando los ojos están cerrados. En consecuencia, sugerimos que el poder de estas ondas cerebrales es, al menos en parte, un índice del grado en que la actividad cerebral visual está siendo inhibida. Esto aumenta cuando las personas cierran los ojos, pero puede aumentar aún más mediante la adaptación previa al movimiento radial.
 
 **Fase de Referencia Post Ciclo**  
 
@@ -245,28 +245,28 @@ En el siguiente link, encontrará el código utilizado para el ploteo de las se�
 
 | Señal  | Imagen  | Señal | Imagen |
 |:-------------: |:---------------:| :-------------:|:-------------:|
-| Canal 1         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C1.png)        | Canal 2        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C2.png)        |
-| Canal 3         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C3.png)        | Canal 4      | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C4.png)        |
-| Canal 5         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C3.png)        | Canal 6      | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C4.png)        |
-| Canal 7         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C3.png)        | Canal 8      | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C4.png)        |
+| Canal 1         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/2c1.png)        | Canal 2        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/2c2.png)        |
+| Canal 3         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/2c3.png)        | Canal 4      | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/2c4.png)        |
+| Canal 5         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/2c5.png)        | Canal 6      | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/2c6.png)        |
+| Canal 7         | ![sinu](hthttps://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/2c7.png)        | Canal 8      | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/2c8.png)        |
   
 #### Señal durante Fase de Referencia Post Ciclo  
 
 | Señal  | Imagen  | Señal | Imagen |
 |:-------------: |:---------------:| :-------------:|:-------------:|
-| Canal 1         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C1.png)        | Canal 2        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C2.png)        |
-| Canal 3         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C3.png)        | Canal 4      | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C4.png)        |
-| Canal 5         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C3.png)        | Canal 6      | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C4.png)        |
-| Canal 7         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C3.png)        | Canal 8      | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C4.png)        |
+| Canal 1         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/3c1.png)        | Canal 2        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/3c2.png)        |
+| Canal 3         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/3c3.png)        | Canal 4      | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/3c4.png)        |
+| Canal 5         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/3c5.png)        | Canal 6      | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/3c6.png)        |
+| Canal 7         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/3c7.png)        | Canal 8      | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/3c8.png)        |
   
 #### Señal durante Ejercicios Matemáticos
   
 | Señal  | Imagen  | Señal | Imagen |
 |:-------------: |:---------------:| :-------------:|:-------------:|
-| Canal 1         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C1.png)        | Canal 2        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C2.png)        |
-| Canal 3         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C3.png)        | Canal 4      | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C4.png)        |
-| Canal 5         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C3.png)        | Canal 6      | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C4.png)        |
-| Canal 7         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C3.png)        | Canal 8      | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/C4.png)        |
+| Canal 1         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/4c1.png)        | Canal 2        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/4c2.png)        |
+| Canal 3         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/4c3.png)        | Canal 4      | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/4c4.png)        |
+| Canal 5         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/4c5.png)        | Canal 6      | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/4c6.png)        |
+| Canal 7         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/4c7.png)        | Canal 8      | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/4c8.png)        |
 
 
 
