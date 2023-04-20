@@ -126,7 +126,12 @@ Para una mejor adquisición de las señales tanto con el bitalino como con el Op
 
 <p align="center"> 
 <img align="center" width="900" height="450" 
-src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/video%201%20claviculas.gif">
+src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/sentado.gif">
+</p>
+
+<p align="center"> 
+<img align="center" width="900" height="450" 
+src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/basal.gif">
 </p>
 
 ### Señal EEG durante Ciclo de Ojos abiertos y cerrados 
