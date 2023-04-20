@@ -171,9 +171,9 @@ Entre los artefactos fisiológicos que alteraron las gráficas podemos mencionar
 
 **Fase de Referencia Inicial**  
 
-En una persona en estado de reposo, la señal de EEG (electroencefalograma) típicamente mostrará patrones de actividad eléctrica cerebral característicos de un cerebro en reposo. En este estado, la señal de EEG se caracteriza por presentar una actividad cerebral de baja frecuencia y amplitud en las ondas alfa (8-13 Hz) y beta (13-30 Hz).
+Se observa que la señal ploteada es la de menor amplitud con respecto al resto de casos, pues el paciente no realizar ningún esfuerzo que incremente la señal. Aismismo, la señal típicamente muestra patrones de actividad eléctrica cerebral característicos de un cerebro en reposo. En este estado, la señal de EEG se caracteriza por presentar una actividad cerebral de baja frecuencia y amplitud en las ondas alfa (8-13 Hz) y beta (13-30 Hz).
 
-Las ondas alfa son comúnmente asociadas con la relajación mental, mientras que las ondas beta se relacionan con la atención y concentración. También pueden estar presentes las ondas theta (4-7 Hz), que se asocian con un estado de somnolencia o meditación profunda, y las ondas delta (0.5-4 Hz), que están asociadas con el sueño profundo [11].
+Las ondas alfa son están asociadas con la relajación mental, mientras que las ondas beta se relacionan con la atención y concentración. También pueden estar presentes las ondas theta (4-7 Hz), que se asocian con un estado de somnolencia o meditación profunda[11].
 
 **Ciclo de Ojos Abiertos y Cerrados**  
 
