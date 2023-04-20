@@ -103,7 +103,7 @@ La ubicación de los electrodos en la cabeza es importante para analizar las dif
 </p>
 
 <p align="center"> 
-A-C: Colocacion electrodos EEG estándar del sistema 10-20. Modificado de: Seeck, M., Koessler, L., Bast, T., Leijten, F., Michel, C., Baumgartner, C., ... & Beniczky, S. (2017). La serie de electrodos estandarizados del EEG del IFCN. Neurofisiología clínica, 128(10), 2070-2077
+A-C: Colocacion electrodos EEG estándar del sistema 10-20 [13].
 </p>
 
 | **Electrodos - Frente**  | **Electrodos - Ultracortex - Cabeza**  |
@@ -256,6 +256,6 @@ En el siguiente link, encontrará el código utilizado para el ploteo de las se�
 [10] El, “Localización de electrodos del EEG: Layout Fijo vs. Variable | Bitbrain,” Bitbrain, Apr. 30, 2020. https://www.bitbrain.com/es/blog/colocacion-electrodos-eeg (accessed Apr. 20, 2023). <br>
 ‌‌[11] “Electroencefalograma (EEG) | Cigna,” Cigna.com, 2022. https://www.cigna.com/es-us/knowledge-center/hw/pruebas-mdicas/electroencefalograma-aa22249#:~:text=Normal%3A,en%20el%20trazado%20del%20EEG. (accessed Apr. 20, 2023). <br>
 [12] “ANÁLISIS CON ELECTROENCEFALOGRAFÍA (EEG) DE LA ESCUCHA DE MÚSICA PARA EL ESTUDIO DE ESTRÉS ACADÉMICO.” Available: https://inaoe.repositorioinstitucional.mx/jspui/bitstream/1009/2048/1/Rogelio%20Sotero%20Reyes%20Galaviz-Tesis%20corregida.pdf <br>
-
+[13] Seeck, M., Koessler, L., Bast, T., Leijten, F., Michel, C., Baumgartner, C., ... & Beniczky, S. (2017). La serie de electrodos estandarizados del EEG del IFCN. Neurofisiología clínica, 128(10), 2070-2077 <br>
 
 ***
