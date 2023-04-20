@@ -86,14 +86,30 @@ Para el primer paciente, la colocación de los electrodos positivo y negativo fu
 ### Limitaciones y Consideraciones
 Para una mejor adquisición de las señales tanto con el bitalino como con el OpenBCI el ambiente debe ser el adecuado. En nuestro caso esto no fue posible ya que nos encontrábamos en el laboratorio donde había mucho ruido lo que llevaba a distracciones de la persona a la que se le estaba haciendo la medición. Esto hizo que en ocasiones el sujeto comenzara a apretar su mandíbula y esforzarse más para no perder la concentración. Estos movimientos especialmente en la región de la cara tienen un mayor efecto en la señal obtenida. Asimismo, para poder obtener la señal en la fase de referencia, se consideró tapar los ojos del paciente para evitar breves ráfagas de energía y respuestas a estímulos, como destellos de luz.
 
+## Videos de la Señales Obtenidas
 
-## Señal EEG Fase de Referencia 
+### Señal EEG Fase de Referencia 
 
 <p align="center"> 
 <img align="center" width="900" height="450" 
 src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/video%201%20claviculas.gif">
 </p>
 
+### Señal EEG durante Ciclo de Ojos abiertos y cerrados 
+
+<p align="center"> 
+<img align="center" width="900" height="450" 
+src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/video%201%20claviculas.gif">
+</p>
+
+### Señal EEG durante Ejercicios Matematicos 
+
+<p align="center"> 
+<img align="center" width="900" height="450" 
+src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/video%201%20claviculas.gif">
+</p>
+
+***
 ## Ploteo de las señales en OpenBCI GUI
 
 | Señal  | Imagen  | Señal | Imagen |
