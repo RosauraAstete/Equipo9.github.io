@@ -27,7 +27,7 @@ El lóbulo frontal, en el cual nos enfocaremos en el presente laboratorio, es la
 <img align="center" width="600" height="300" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/cerebro3.jpg">
 </p>
 <p align="center"> 
-El cerebro y sus lóbulos superficiales con sus respectivas funciones (marcados en rojo) [3]
+El cerebro y sus lóbulos superficiales con sus respectivas funciones (marcados en rojo) [3][9]
 </p>
 
 
