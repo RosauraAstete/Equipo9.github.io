@@ -191,14 +191,14 @@ Cuando una persona realiza ejercicios matemáticos, la actividad cerebral se inc
 
 ## Archivos
 
-### OpenBCI GUI
+### Open Signals
 
 - [Fase de Referencia inicial](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/Linea%20basal%202.txt)
 - [Ciclo de ojos abiertos y cerrados](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/ojos%20abierto%2Bluz.txt)
 - [Fase de Referencia post ciclo](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/reposo%20de%20referencia%202.txt)
 - [Ejercicios Matematicos](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/preguntas%20de%20mate.txt)
 
-### OpenSignals
+### OpenBCI GUI
 
 - [Fase de Referencia inicial]()
 - [Ciclo de ojos abiertos y cerrados]()
