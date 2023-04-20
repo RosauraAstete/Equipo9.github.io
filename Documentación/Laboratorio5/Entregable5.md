@@ -169,17 +169,21 @@ En el segundo paciente, vemos un caso similar. En la inhalación profunda encont
 
 ### Comportamiento de la señal EEG:
 
-**Fase de Referencia Inicial**
+**Fase de Referencia Inicial**  
+
 En una persona en estado de reposo, la señal de EEG (electroencefalograma) típicamente mostrará patrones de actividad eléctrica cerebral característicos de un cerebro en reposo. En este estado, la señal de EEG se caracteriza por presentar una actividad cerebral de baja frecuencia y amplitud en las ondas alfa (8-13 Hz) y beta (13-30 Hz).
 
 Las ondas alfa son comúnmente asociadas con la relajación mental, mientras que las ondas beta se relacionan con la atención y concentración. También pueden estar presentes las ondas theta (4-7 Hz), que se asocian con un estado de somnolencia o meditación profunda, y las ondas delta (0.5-4 Hz), que están asociadas con el sueño profundo [11].
 
-**Ciclo de Ojos Abiertos y Cerrados**
+**Ciclo de Ojos Abiertos y Cerrados**  
+
 Los datos muestran que el poder de las ondas cerebrales de la banda alfa occipital puede incrementarse mediante procesos visuales sensibles al movimiento que persisten cuando los ojos están cerrados. En consecuencia, sugerimos que el poder de estas ondas cerebrales es, al menos en parte, un índice del grado en que la actividad cerebral visual está siendo inhibida. Esto aumenta cuando las personas cierran los ojos, pero puede aumentar aún más mediante la adaptación previa al movimiento radial.
 
-**Fase de Referencia Post Ciclo**
+**Fase de Referencia Post Ciclo**  
 
-**Ejercicios mentales**
+
+**Ejercicios mentales**  
+
 Cuando una persona realiza ejercicios matemáticos, la actividad cerebral se incrementa, lo que puede ser captado por la señal de EEG. En este caso, la actividad cerebral predominante es la de ondas beta, que están relacionadas con la atención y concentración mental, por lo que dichas ondas pueden presentar una mayor amplitud y frecuencia [12]. 
 
 
