@@ -108,7 +108,7 @@ A-C: Colocacion electrodos EEG estándar del sistema 10-20. Modificado de: Seeck
 
 | **Electrodos - Frente**  | **Electrodos - Ultracortex - Cabeza**  |
 |:-------------: |:---------------:|
-| ![j](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/electrodos.png)         | ![k](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/juan3.jpg)         | 
+| ![j](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/electrodos2.jpg)         | ![k](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/juan3.jpg)         | 
 
 
 ### Limitaciones y Consideraciones
