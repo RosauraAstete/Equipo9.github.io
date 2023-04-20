@@ -181,7 +181,7 @@ Se observa que la señal ploteada es la de menor amplitud con respecto al resto 
 
 **Ciclo de Ojos Abiertos y Cerrados**  
 
-Se observa que la señal ploteada incrementa de amplitud cuando la persona abre los ojos, esto debido a los destello de luz del ambiente. Asimismo, la señal decrece su amplitud cuando la persona cierra los ojos. Los datos muestran que el poder de las ondas cerebrales de la banda alfa occipital puede incrementarse mediante procesos visuales sensibles al movimiento que persisten cuando los ojos están cerrados. En consecuencia, sugerimos que el poder de estas ondas cerebrales es, al menos en parte, un índice del grado en que la actividad cerebral visual está siendo inhibida. Esto aumenta cuando las personas cierran los ojos, pero puede aumentar aún más mediante la adaptación previa al movimiento radial.
+Se observa que la señal ploteada incrementa de amplitud cuando la persona abre los ojos, esto debido a los destello de luz del ambiente [9]. Asimismo, la señal decrece su amplitud cuando la persona cierra los ojos. Los datos muestran que el poder de las ondas cerebrales de la banda alfa occipital puede incrementarse mediante procesos visuales sensibles al movimiento que persisten cuando los ojos están cerrados. En consecuencia, sugerimos que el poder de estas ondas cerebrales es, al menos en parte, un índice del grado en que la actividad cerebral visual está siendo inhibida. Esto aumenta cuando las personas cierran los ojos, pero puede aumentar aún más mediante la adaptación previa al movimiento radial.
 
 **Fase de Referencia Post Ciclo**  
 
