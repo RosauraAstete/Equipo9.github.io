@@ -96,10 +96,15 @@ Para una mejor adquisición de las señales tanto con el bitalino como con el Op
 src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/video%201%20claviculas.gif">
 </p>
 
+## Ploteo de las señales en OpenBCI
+
+| Señal  | Imagen  | Señal | Imagen |
+|:-------------: |:---------------:| :-------------:|:-------------:|
+| Señal ECG en Estado Basal         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/Estado%20basal%20p1.png)        | Señal ECG durante inhalación Profunda        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/Inhalacio%CC%81n%20profunda%20p1.png)        |
+| Señal ECG durante resposo post inhalación         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/reposo%20p1.png)        | Señal ECG luego del ejercicio        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/ejercicio%20p1.png)        |
 
 ## Ploteo de las señales en OpenSignals
 
-### Paciente 1
 | Señal  | Imagen  | Señal | Imagen |
 |:-------------: |:---------------:| :-------------:|:-------------:|
 | Señal ECG en Estado Basal         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/Estado%20basal%20p1.png)        | Señal ECG durante inhalación Profunda        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/Inhalacio%CC%81n%20profunda%20p1.png)        |
