@@ -126,7 +126,7 @@ Para una mejor adquisición de las señales tanto con el bitalino como con el Op
 
 <p align="center"> 
 <img align="center" width="900" height="450" 
-src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/sentado.gif">
+src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/video%201%20claviculas.gif">
 </p>
 
 ### Señal EEG durante Ciclo de Ojos abiertos y cerrados 
@@ -200,10 +200,10 @@ Cuando una persona realiza ejercicios matemáticos, la actividad cerebral se inc
 
 ### OpenBCI GUI
 
-- [Fase de Referencia inicial]()
-- [Ciclo de ojos abiertos y cerrados]()
-- [Fase de Referencia post ciclo]()
-- [Ejercicios Matematicos]()
+- [Fase de Referencia inicial](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/FaseDeReferencia1.xlsx)
+- [Ciclo de ojos abiertos y cerrados](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/OjosAbiertosCerrados.xlsx)
+- [Fase de Referencia post ciclo](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/FaseDeReferencia2.xlsx)
+- [Ejercicios Matematicos](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/EjerciciosMatematicos.xlsx)
 
 ***
 
