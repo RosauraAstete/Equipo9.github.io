@@ -209,20 +209,19 @@ Cuando una persona realiza ejercicios matemáticos, la actividad cerebral se inc
 
 ## Ploteo de las señales en Python
 
-### OpenBCI
+### OpenSignals
 #### Links to GoogleColab
 En el siguiente link, encontrará el código utilizado para el ploteo de las señales con python.
 `<link>` : <https://colab.research.google.com/drive/192QPU5XfvNb46xe_tIGbUfdiAgfqOkLe#scrollTo=C2blB8p4P3R->
 
 | Señal  | Imagen  | Señal | Imagen |
 |:-------------: |:---------------:| :-------------:|:-------------:|
-|:-------------: |:---------------:| :-------------:|:-------------:|
 | Señal EEG Fase de Referencia         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/estadobasal1.png)        | Señal EEG Ciclo de ojos abiertos        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/ojosA1.png)        |
 | Señal EEG Fase de Referencia Post Ciclo         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/reposo2.png)        | Señal EEG durante Ejercicios Matematicos       | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/preguntasmate.png)        | 
 
 
 
-### OpenSignals
+### OpenBCI
 #### Links to GoogleColab
 En el siguiente link, encontrará el código utilizado para el ploteo de las señales con python.
 
