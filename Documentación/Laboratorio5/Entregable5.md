@@ -17,7 +17,7 @@ El cerebro está compuesto por varias capas, la capa exterior se llama corteza c
 
 <p align="center"> 
 <img align="center" width="900" height="450" 
-src="https://cms.bitbrain.com/assets/f9d3603d-8903-42a1-8957-95ec3062dcb1?width=1000&height=659">
+src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/cerebro2.jpg">
 
 Regiones de la corteza cerebral asociadas con las funciones cerebrales. [en línea] Disponible en: https://human-memory.net/sensory-cortex/   
 
