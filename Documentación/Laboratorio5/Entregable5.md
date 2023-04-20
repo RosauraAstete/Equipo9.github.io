@@ -212,6 +212,7 @@ Cuando una persona realiza ejercicios matemáticos, la actividad cerebral se inc
 ### OpenBCI
 #### Links to GoogleColab
 En el siguiente link, encontrará el código utilizado para el ploteo de las señales con python.
+`<link>` : <https://colab.research.google.com/drive/192QPU5XfvNb46xe_tIGbUfdiAgfqOkLe#scrollTo=C2blB8p4P3R->
 
 | Señal  | Imagen  | Señal | Imagen |
 |:-------------: |:---------------:| :-------------:|:-------------:|
