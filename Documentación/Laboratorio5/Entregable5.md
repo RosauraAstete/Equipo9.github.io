@@ -18,7 +18,7 @@ El cerebro está compuesto por varias capas, la capa exterior se llama corteza c
 <img align="center" width="600" height="300" 
 src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/cerebro2.jpg">
 <p align="center"> 
-Regiones de la corteza cerebral asociadas con las funciones cerebrales. [en línea] Disponible en: https://human-memory.net/sensory-cortex/
+Regiones de la corteza cerebral asociadas con las funciones cerebrales [2].
 </p>
 
 El lóbulo frontal, en el cual nos enfocaremos en el presente laboratorio, es la región donde se toman la mayoría de sus pensamientos y decisiones conscientes. Asimismo, la corteza frontal contiene áreas motoras donde se controlan los movimientos voluntarios de todas nuestras extremidades y ojos.
@@ -27,20 +27,20 @@ El lóbulo frontal, en el cual nos enfocaremos en el presente laboratorio, es la
 <img align="center" width="600" height="300" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/cerebro3.jpg">
 </p>
 <p align="center"> 
-El cerebro y sus lóbulos superficiales con sus respectivas funciones (marcados en rojo)
+El cerebro y sus lóbulos superficiales con sus respectivas funciones (marcados en rojo) [3]
 </p>
 
 
 ### ENCEFALOGRAMA
-El pionero en el EEG en humanos fue un psiquiatra alemán llamado Hans Berger en el año 1924 [3]. 
+El pionero en el EEG en humanos fue un psiquiatra alemán llamado Hans Berger en el año 1924 [4]. 
 
-El EEG  es una técnica electrofisiológica para el registro de la actividad eléctrica que surge del cerebro humano, esta técnica es útil para evaluar pacientes con sospechas de convulsiones, epilepsias y episodios inusuales [3]. 
+El EEG  es una técnica electrofisiológica para el registro de la actividad eléctrica que surge del cerebro humano, esta técnica es útil para evaluar pacientes con sospechas de convulsiones, epilepsias y episodios inusuales [4]. 
 
-Para esta técnica indolora se colocan pequeños sensores en el cuero cabelludo para captar las señales eléctricas producidas, estas señales son registradas por una máquina, son amplificadas y aparecer como un gráfico en la pantalla de una computadora o como un registros que se puede imprimir en papel la cual luego será leída por un especialista altamente capacitado [4].
+Para esta técnica indolora se colocan pequeños sensores en el cuero cabelludo para captar las señales eléctricas producidas, estas señales son registradas por una máquina, son amplificadas y aparecer como un gráfico en la pantalla de una computadora o como un registros que se puede imprimir en papel la cual luego será leída por un especialista altamente capacitado [5].
 
-Estas señales se cree que son generadas principalmente por neuronas piramidales corticales en la corteza cerebral que están orientadas perpendicularmente a la superficie del cerebro. La actividad neuronal detectable por el EEG es la suma de los potenciales postsinápticos excitadores e inhibidores de grupos relativamente grandes de neuronas que se activan sincrónicamente [3]. 
+Estas señales se cree que son generadas principalmente por neuronas piramidales corticales en la corteza cerebral que están orientadas perpendicularmente a la superficie del cerebro. La actividad neuronal detectable por el EEG es la suma de los potenciales postsinápticos excitadores e inhibidores de grupos relativamente grandes de neuronas que se activan sincrónicamente [4]. 
 
-Algo importante a considerar es que los artefactos eléctricos biológicos y ambientales con frecuencia interfieren con la capacidad del intérprete para identificar con precisión tanto los ritmos normales como los patrones patológicos [3].
+Algo importante a considerar es que los artefactos eléctricos biológicos y ambientales con frecuencia interfieren con la capacidad del intérprete para identificar con precisión tanto los ritmos normales como los patrones patológicos [4].
 
 
 ### SEÑAL DEL ELECTROENCEFALOGRAMA
@@ -52,19 +52,19 @@ En una imagen de electroencefalograma los nombres de los sitios de los electrodo
 - C = centro
 - P = parietales
 - O = occipital
-- A = auricular (electrodo de oído) [5]
+- A = auricular (electrodo de oído) [6]
 
 Las ondas del EEG generalmente se clasifican según su frecuencia, amplitud, forma y posición de los electrodos.
 
 - La frecuencia en Hertz es utilizada para determinar los ritmos normales y anormales.
-- La forma de las ondas como alfa, beta, theta, delta y gamma se basa en la frecuencia de la señal, algunas ondas se reconocen en función de su forma, distribución de la cabeza y propiedad de simetría. Asimismo, la forma de la onda es normal a una edad específica, estado de alerta y sueño. Del mismo modo la frecuencia de las ondas cerebrales difiere y corresponde a diferentes comportamientos y estados mentales del cerebro. [6]
+- La forma de las ondas como alfa, beta, theta, delta y gamma se basa en la frecuencia de la señal, algunas ondas se reconocen en función de su forma, distribución de la cabeza y propiedad de simetría. Asimismo, la forma de la onda es normal a una edad específica, estado de alerta y sueño. Del mismo modo la frecuencia de las ondas cerebrales difiere y corresponde a diferentes comportamientos y estados mentales del cerebro. [7]
 
 <p align="center"> 
 <img align="center" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/tabla.jpg" width="600" height="400">
 </p>
 
 <p align="center"> 
-Tipos de ondas de un EEG [6]
+Tipos de ondas de un EEG [7]
 </p>
 
 <p align="center"> 
@@ -72,7 +72,7 @@ Tipos de ondas de un EEG [6]
 </p>
 
 <p align="center"> 
-Tipos de ondas de un EEG [7]
+Tipos de ondas de un EEG [8]
 </p>
 
 ***
@@ -96,7 +96,7 @@ Tipos de ondas de un EEG [7]
 </p>
 
 ### Colocación de electrodos
-La ubicación de los electrodos en la cabeza es importante para analizar las diferencias entre las señales obtenidas. Existe una convención de posicionamiento de electrodos llamada 10-20 que propone tomar cuatro puntos de referencia craneales universales (nasion, inion y ambos puntos pre-auricular), y distribuye proporcionalmente los electrodos del EEG sobre la superficie de la cabeza. El layout 10-20 tiene una distribución de distancias del 10% y 20% de las curvas de referencia central sagital y coronal. Si este porcentaje disminuye, aumenta la cantidad de electrodos [9].
+La ubicación de los electrodos en la cabeza es importante para analizar las diferencias entre las señales obtenidas. Existe una convención de posicionamiento de electrodos llamada 10-20 que propone tomar cuatro puntos de referencia craneales universales (nasion, inion y ambos puntos pre-auricular), y distribuye proporcionalmente los electrodos del EEG sobre la superficie de la cabeza. El layout 10-20 tiene una distribución de distancias del 10% y 20% de las curvas de referencia central sagital y coronal. Si este porcentaje disminuye, aumenta la cantidad de electrodos [10].
 
 <p align="center"> 
 <img align="center" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/cabeza2.jpg" width="650" height="250">
@@ -112,7 +112,7 @@ A-C: Colocacion electrodos EEG estándar del sistema 10-20. Modificado de: Seeck
 
 
 ### Limitaciones y Consideraciones
-Para una mejor adquisición de las señales tanto con el bitalino como con el OpenBCI el ambiente debe ser el adecuado. En nuestro caso esto no fue posible ya que nos encontrábamos en el laboratorio donde había mucho ruido lo que llevaba a distracciones de la persona a la que se le estaba haciendo la medición. Esto hizo que en ocasiones el sujeto comenzara a apretar su mandíbula y esforzarse más para no perder la concentración. Estos movimientos especialmente en la región de la cara tienen un mayor efecto en la señal obtenida. Asimismo, para poder obtener la señal en la fase de referencia, se consideró tapar los ojos del paciente para evitar breves ráfagas de energía y respuestas a estímulos, como destellos de luz [8].
+Para una mejor adquisición de las señales tanto con el bitalino como con el OpenBCI el ambiente debe ser el adecuado. En nuestro caso esto no fue posible ya que nos encontrábamos en el laboratorio donde había mucho ruido lo que llevaba a distracciones de la persona a la que se le estaba haciendo la medición. Esto hizo que en ocasiones el sujeto comenzara a apretar su mandíbula y esforzarse más para no perder la concentración. Estos movimientos especialmente en la región de la cara tienen un mayor efecto en la señal obtenida. Asimismo, para poder obtener la señal en la fase de referencia, se consideró tapar los ojos del paciente para evitar breves ráfagas de energía y respuestas a estímulos, como destellos de luz [9].
 <p align="center"> 
 <img align="center" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/juan2.jpg" width="400" height="600">
 </p>
@@ -221,13 +221,14 @@ En el siguiente link, encontrará el código utilizado para el ploteo de las se�
 
 ‌[1] “Sistema nervioso.” Available: https://www.infermeravirtual.com/files/media/file/99/Sistema%20nervioso.pdf?1358605492 <br>
 [2] El, “Localización de electrodos del EEG: Layout Fijo vs. Variable | Bitbrain,” Bitbrain, Apr. 30, 2020. https://www.bitbrain.com/es/blog/colocacion-electrodos-eeg (accessed Apr. 20, 2023).<br>
-[3] E. K. St et al., “Introduction,” Nih.gov, 2016. https://www.ncbi.nlm.nih.gov/books/NBK390346/ (accessed Apr. 20, 2023).<br>
-[4] NHS Choices, “Electroencephalogram (EEG),” 2023. https://www.nhs.uk/conditions/electroencephalogram/ (accessed Apr. 19, 2023).<br>
-‌[5] “How to Read an EEG,” Epilepsy Foundation, 2013. https://www.epilepsy.com/diagnosis/eeg/how-read (accessed Apr. 20, 2023).<br>
-[6]J. S. Kumara, Analysis of Electroencephalography (EEG) Signals and Its Categorization–A Study https://www.sciencedirect.com/science/article/pii/S1877705812022114 (accessed Apr. 20, 2023).<br>
-[7]Priyanka A. Abhang, ”Chapter 2 - Technological Basics of EEG Recording and Operation of Apparatus”, https://www.sciencedirect.com/science/article/abs/pii/B9780128044902000026 (accessed Apr. 20, 2023).<br>
-[8] “BITalino (r)evolution Lab Guide.” Available: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf<br>
-[9] El, “Localización de electrodos del EEG: Layout Fijo vs. Variable | Bitbrain,” Bitbrain, Apr. 30, 2020. https://www.bitbrain.com/es/blog/colocacion-electrodos-eeg (accessed Apr. 20, 2023).
+[3] "EEG (Electroencephalography): The Complete Pocket Guide - iMotions". iMotions. https://imotions.com/blog/learning/best-practice/eeg/ (accedido el 20 de abril de 2023). <br>
+[4] E. K. St et al., “Introduction,” Nih.gov, 2016. https://www.ncbi.nlm.nih.gov/books/NBK390346/ (accessed Apr. 20, 2023).<br>
+[5] NHS Choices, “Electroencephalogram (EEG),” 2023. https://www.nhs.uk/conditions/electroencephalogram/ (accessed Apr. 19, 2023).<br>
+‌[6] “How to Read an EEG,” Epilepsy Foundation, 2013. https://www.epilepsy.com/diagnosis/eeg/how-read (accessed Apr. 20, 2023).<br>
+[7]J. S. Kumara, Analysis of Electroencephalography (EEG) Signals and Its Categorization–A Study https://www.sciencedirect.com/science/article/pii/S1877705812022114 (accessed Apr. 20, 2023).<br>
+[8]Priyanka A. Abhang, ”Chapter 2 - Technological Basics of EEG Recording and Operation of Apparatus”, https://www.sciencedirect.com/science/article/abs/pii/B9780128044902000026 (accessed Apr. 20, 2023).<br>
+[9] “BITalino (r)evolution Lab Guide.” Available: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf<br>
+[10] El, “Localización de electrodos del EEG: Layout Fijo vs. Variable | Bitbrain,” Bitbrain, Apr. 30, 2020. https://www.bitbrain.com/es/blog/colocacion-electrodos-eeg (accessed Apr. 20, 2023).
 ‌
 
 ***
