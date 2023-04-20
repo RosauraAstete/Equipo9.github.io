@@ -171,21 +171,20 @@ Entre los artefactos fisiológicos que alteraron las gráficas podemos mencionar
 
 **Fase de Referencia Inicial**  
 
-Se observa que la señal ploteada es la de menor amplitud con respecto al resto de casos, pues el paciente no realiza ningún esfuerzo que incremente la señal. Aismismo, la señal típicamente muestra patrones de actividad eléctrica cerebral característicos de un cerebro en reposo. En este estado, la señal de EEG se caracteriza por presentar una actividad cerebral de baja frecuencia y amplitud en las ondas alfa (8-13 Hz) y beta (13-30 Hz).
+Se observa que la señal ploteada es la de menor amplitud con respecto al resto de casos, pues el paciente no realizar ningún esfuerzo que incremente la señal. Aismismo, la señal típicamente muestra patrones de actividad eléctrica cerebral característicos de un cerebro en reposo. En este estado, la señal de EEG se caracteriza por presentar una actividad cerebral de baja frecuencia y amplitud en las ondas alfa (8-13 Hz) y beta (13-30 Hz).
 
 Las ondas alfa son están asociadas con la relajación mental, mientras que las ondas beta se relacionan con la atención y concentración. También pueden estar presentes las ondas theta (4-7 Hz), que se asocian con un estado de somnolencia o meditación profunda[11].
 
 **Ciclo de Ojos Abiertos y Cerrados**  
 
-Se observa un gran incremento de la amplitud de la señal cuando la persona abre los ojos, esto debido a los destellos de luz. Cuando la persona cierra los ojos, se observa un decremento de la amplitud. Sin embargo, los datos muestran que el poder de las ondas cerebrales de la banda alfa occipital puede incrementarse mediante procesos visuales sensibles al movimiento que persisten cuando los ojos están cerrados. En consecuencia, sugerimos que el poder de estas ondas cerebrales es, al menos en parte, un índice del grado en que la actividad cerebral visual está siendo inhibida. Esto aumenta cuando las personas cierran los ojos, pero puede aumentar aún más mediante la adaptación previa al movimiento radial.
+Los datos muestran que el poder de las ondas cerebrales de la banda alfa occipital puede incrementarse mediante procesos visuales sensibles al movimiento que persisten cuando los ojos están cerrados. En consecuencia, sugerimos que el poder de estas ondas cerebrales es, al menos en parte, un índice del grado en que la actividad cerebral visual está siendo inhibida. Esto aumenta cuando las personas cierran los ojos, pero puede aumentar aún más mediante la adaptación previa al movimiento radial.
 
 **Fase de Referencia Post Ciclo**  
 
-Se observa una notable disminución de la amplitud de la señal, pero no tan reducida como durante la fase de referencia incial. Esto se debe a que hubo una mayor exposición al ruido, se observa un aumento en la actividad de ondas beta (12-30 Hz) en el EEG, lo que indica una mayor actividad cerebral asociada con la atención y la alerta. Además, es posible que se observen cambios en las ondas alfa (8-12 Hz), que pueden disminuir durante la exposición al ruido debido a la interrupción de la meditación.
 
 **Ejercicios Matemáticos**  
 
-Se observa que la señal presenta picos de mayor amplitud con respecto a los 4 casos, pues, cuando una persona realiza ejercicios matemáticos, la actividad cerebral se incrementa, lo que puede ser captado por la señal de EEG. En este caso, la actividad cerebral predominante es la de ondas beta, que están relacionadas con la atención y concentración mental, por lo que dichas ondas pueden presentar una mayor amplitud y frecuencia según el esfuerzo que el paciente realice para llegar a la respuesta correcta [12]. 
+Cuando una persona realiza ejercicios matemáticos, la actividad cerebral se incrementa, lo que puede ser captado por la señal de EEG. En este caso, la actividad cerebral predominante es la de ondas beta, que están relacionadas con la atención y concentración mental, por lo que dichas ondas pueden presentar una mayor amplitud y frecuencia [12]. 
 
 
 ***
@@ -195,7 +194,7 @@ Se observa que la señal presenta picos de mayor amplitud con respecto a los 4 c
 ### Open Signals
 
 - [Fase de Referencia inicial](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/Linea%20basal%202.txt)
-- [Ciclo de ojos abiertos y cerrados](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/ojos%20abierto%2Bluz.txt)
+- [Ciclo de ojos abiertos y cerrados](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/ojos%20abiertos%20intento%201.txt)
 - [Fase de Referencia post ciclo](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/reposo%20de%20referencia%202.txt)
 - [Ejercicios Matematicos](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/preguntas%20de%20mate.txt)
 
@@ -217,7 +216,7 @@ En el siguiente link, encontrará el código utilizado para el ploteo de las se�
 
 | Señal  | Imagen  | Señal | Imagen |
 |:-------------: |:---------------:| :-------------:|:-------------:|
-| Señal EEG Fase de Referencia         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/estadobasal1.png)        | Señal EEG Ciclo de ojos abiertos y cerrados       | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/ojosA1.png)        |
+| Señal EEG Fase de Referencia         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/estadobasal1.png)        | Señal EEG Ciclo de ojos abiertos y cerrados       | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/ojosAC.png)        |
 | Señal EEG Fase de Referencia Post Ciclo         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/reposo2.png)        | Señal EEG durante Ejercicios Matematicos       | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/preguntasmate.png)        | 
 
 
