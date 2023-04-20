@@ -182,7 +182,7 @@ Los datos muestran que el poder de las ondas cerebrales de la banda alfa occipit
 **Fase de Referencia Post Ciclo**  
 
 
-**Ejercicios mentales**  
+**Ejercicios Matemáticos**  
 
 Cuando una persona realiza ejercicios matemáticos, la actividad cerebral se incrementa, lo que puede ser captado por la señal de EEG. En este caso, la actividad cerebral predominante es la de ondas beta, que están relacionadas con la atención y concentración mental, por lo que dichas ondas pueden presentar una mayor amplitud y frecuencia [12]. 
 
