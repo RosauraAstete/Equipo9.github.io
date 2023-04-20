@@ -64,13 +64,18 @@ Las ondas del EEG generalmente se clasifican según su frecuencia, amplitud, for
 <img align="center" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/tabla.jpg" width="600" height="400">
 </p>
 
+<p align="center"> 
 Tipos de ondas de un EEG [6]
+</p>
 
 <p align="center"> 
 <img align="center" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/tabla2.jpg" width="600" height="400">
 </p>
 
+<p align="center"> 
 Tipos de ondas de un EEG [7]
+</p>
+
 
 ## Materiales y Equipos
 
@@ -94,7 +99,7 @@ Tipos de ondas de un EEG [7]
 La ubicación de los electrodos en la cabeza es importante para analizar las diferencias entre las señales obtenidas. Existe una convención de posicionamiento de electrodos llamada 10-20 que propone tomar cuatro puntos de referencia craneales universales (nasion, inion y ambos puntos pre-auricular), y distribuye proporcionalmente los electrodos del EEG sobre la superficie de la cabeza. El layout 10-20 tiene una distribución de distancias del 10% y 20% de las curvas de referencia central sagital y coronal. Si este porcentaje disminuye, aumenta la cantidad de electrodos [9].
 
 <p align="center"> 
-<img align="center" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/cabeza2.jpg" width="600" height="250">
+<img align="center" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/cabeza2.jpg" width="650" height="250">
 </p>
 
 <p align="center"> 
@@ -105,17 +110,6 @@ A-C: Colocacion electrodos EEG estándar del sistema 10-20. Modificado de: Seeck
 |:-------------: |:---------------:|
 | ![j](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/electrodos.png)         | ![k](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/juan3.jpg)         | 
 
-### Electrodos - Frente
-
-<p align="center"> 
-<img align="center" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/electrodos.png" width="400" height="600">
-</p>
-
-### Electrodos - Ultracortex - Cabeza
-
-<p align="center"> 
-<img align="center" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/juan3.jpg" width="400" height="600">
-</p>
 
 ### Limitaciones y Consideraciones
 Para una mejor adquisición de las señales tanto con el bitalino como con el OpenBCI el ambiente debe ser el adecuado. En nuestro caso esto no fue posible ya que nos encontrábamos en el laboratorio donde había mucho ruido lo que llevaba a distracciones de la persona a la que se le estaba haciendo la medición. Esto hizo que en ocasiones el sujeto comenzara a apretar su mandíbula y esforzarse más para no perder la concentración. Estos movimientos especialmente en la región de la cara tienen un mayor efecto en la señal obtenida. Asimismo, para poder obtener la señal en la fase de referencia, se consideró tapar los ojos del paciente para evitar breves ráfagas de energía y respuestas a estímulos, como destellos de luz [8].
