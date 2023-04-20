@@ -85,7 +85,7 @@ Para el primer paciente, la colocación de los electrodos positivo y negativo fu
 ### Electrodos - Ultracortex - Cabeza
 Para el primer paciente, la colocación de los electrodos positivo y negativo fue debajo de las clavículas izquierda y derecha respectivamente. El electrodo de referencia se colocó en la cresta ilíaca [5].
 <p align="center"> 
-<img align="center" src="https://github.com/RosauraAstete/Equipo9.github.io/commit/c701b64f3f40a4bb61a9db352e50776595b1abab" width="600" height="400">
+<img align="center" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/electrodos.png" width="600" height="400">
 </p>
 
 ### Limitaciones y Consideraciones
