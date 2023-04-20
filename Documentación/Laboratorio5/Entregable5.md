@@ -215,7 +215,7 @@ En el siguiente link, encontrará el código utilizado para el ploteo de las se�
 
 | Señal  | Imagen  | Señal | Imagen |
 |:-------------: |:---------------:| :-------------:|:-------------:|
-| Señal EEG Fase de Referencia         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/Linea%20basal.png)        | Señal EEG Ciclo de ojos abiertos y cerrados        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/Inhalacio%CC%81n%20profunda%20p1.png)        |
+| Señal EEG Fase de Referencia         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/estadobasal.png)        | Señal EEG Ciclo de ojos abiertos y cerrados        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/Inhalacio%CC%81n%20profunda%20p1.png)        |
 | Señal EEG Fase de Referencia Post Ciclo         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/reposo%20p1.png)        | Señal EEG durante Ejercicios Matematicos       | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/ejercicio%20p1.png)        |
 
 ### OpenSignals
