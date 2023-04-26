@@ -1,10 +1,83 @@
 # **LABORATORIO 4: Uso de BiTalino para ECG**
 
 ## Objetivos
+<<<<<<< HEAD
 ---
 - Adquirir señal biomédica de ECG. 
 - Hacer una correcta configuración de BiTalino. 
 - Extraer la información de la señal ECG del software OpenSignals (r)evolution
+=======
+
+- Procesar la señal
+
+## Introducción
+
+### Señal del electrocardiograma
+Para este laboratorio es importante recordar que este tipo de señal se caracteriza por cinco picos conocidos como puntos de referencia, que se representan con las letras P,Q,R, S y T [1]. 
+
+El cerebro está compuesto por varias capas, la capa exterior se llama corteza cerebral. Aquí se ejecutan muchas de las funciones clave del sistema nervioso. La corteza se divide en cuatro partes llamadas lóbulos que tienen funciones cerebrales específicas. Estos son el lóbulo frontal, parietal, temporal y occipital. Cada región ha sido subdividida y está asociada a funciones cerebrales específicas. [2]
+
+<p align="center"> 
+<img align="center" width="600" height="300" 
+src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/cerebro2.jpg">
+<p align="center"> 
+Regiones de la corteza cerebral asociadas con las funciones cerebrales [2].
+</p>
+
+El lóbulo frontal, en el cual nos enfocaremos en el presente laboratorio, es la región donde se toman la mayoría de sus pensamientos y decisiones conscientes. Asimismo, la corteza frontal contiene áreas motoras donde se controlan los movimientos voluntarios de todas nuestras extremidades y ojos.
+
+<p align="center"> 
+<img align="center" width="600" height="300" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/cerebro3.jpg">
+</p>
+<p align="center"> 
+El cerebro y sus lóbulos superficiales con sus respectivas funciones (marcados en rojo) [3][9]
+</p>
+
+
+### ENCEFALOGRAMA
+El pionero en el EEG en humanos fue un psiquiatra alemán llamado Hans Berger en el año 1924 [4]. 
+
+El EEG  es una técnica electrofisiológica para el registro de la actividad eléctrica que surge del cerebro humano, esta técnica es útil para evaluar pacientes con sospechas de convulsiones, epilepsias y episodios inusuales [4]. 
+
+Para esta técnica indolora se colocan pequeños sensores en el cuero cabelludo para captar las señales eléctricas producidas, estas señales son registradas por una máquina, son amplificadas y aparecer como un gráfico en la pantalla de una computadora o como un registros que se puede imprimir en papel la cual luego será leída por un especialista altamente capacitado [5].
+
+Estas señales se cree que son generadas principalmente por neuronas piramidales corticales en la corteza cerebral que están orientadas perpendicularmente a la superficie del cerebro. La actividad neuronal detectable por el EEG es la suma de los potenciales postsinápticos excitadores e inhibidores de grupos relativamente grandes de neuronas que se activan sincrónicamente [4]. 
+
+Algo importante a considerar es que los artefactos eléctricos biológicos y ambientales con frecuencia interfieren con la capacidad del intérprete para identificar con precisión tanto los ritmos normales como los patrones patológicos [4].
+
+
+### SEÑAL DEL ELECTROENCEFALOGRAMA
+En una imagen de electroencefalograma los nombres de los sitios de los electrodos utilizan abreviaturas alfabéticas que identifican el lóbulo o el área del cerebro de la que cada electrodo registra:
+
+- F = frontal
+- Fp = frontopolar
+- T = temporal
+- C = centro
+- P = parietales
+- O = occipital
+- A = auricular (electrodo de oído) [6]
+
+Las ondas del EEG generalmente se clasifican según su frecuencia, amplitud, forma y posición de los electrodos.
+
+- La frecuencia en Hertz es utilizada para determinar los ritmos normales y anormales.
+- La forma de las ondas como alfa, beta, theta, delta y gamma se basa en la frecuencia de la señal, algunas ondas se reconocen en función de su forma, distribución de la cabeza y propiedad de simetría. Asimismo, la forma de la onda es normal a una edad específica, estado de alerta y sueño. Del mismo modo la frecuencia de las ondas cerebrales difiere y corresponde a diferentes comportamientos y estados mentales del cerebro. [7]
+
+<p align="center"> 
+<img align="center" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/tabla.jpg" width="600" height="400">
+</p>
+
+<p align="center"> 
+Tipos de ondas de un EEG [7]
+</p>
+
+<p align="center"> 
+<img align="center" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio5/Archivos/tabla2.jpg" width="600" height="400">
+</p>
+
+<p align="center"> 
+Tipos de ondas de un EEG [8]
+</p>
+>>>>>>> aea255a5940642490be20c7abfcea865c5732829
 
 ***
 ## Introducción
