@@ -10,13 +10,13 @@
 
 | Conexión  | Imagen |
 |:-------------: |:---------------:|
-| BITalino-cables         | <img src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/ConexionesBiTalino.png"  width="400" height="300">|
-| Electrodos-Cuerpo       | <img src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/ConexionesBrazo.png"  width="400" height="300">|
+| BITalino-cables         | <img src="Archivos/ConexionesBiTalino.png"  width="400" height="300">|
+| Electrodos-Cuerpo       | <img src="Archivos/ConexionesBrazo.png"  width="400" height="300">|
 
 ## Video de la señal EMG adquirida
 
 <p align="center"> 
-<img align="center" width="900" height="450" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/EMG.GIF">
+<img align="center" width="900" height="450" src="Archivos/EMG.GIF">
 </p>
 
 ## Ploteo de la señal en OpenSignals
@@ -33,29 +33,29 @@ Para hablar de la relación señal-ruido debemos de tener en cuenta que el rango
 Para poder entender y explicar mejor las tres imágenes obtenidas en el laboratorio, se debe de tener en consideración la siguiente imagen, en la cual se observan los cambios de amplitud cuando el músculo se encuentra en reposo y cuando existe una contracción muscular.
 
 <p align="center"> 
-<img src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/EjemploEMG.png" align="center">
+<img src="Archivos/EjemploEMG.png" align="center">
 </p>
 
 
 | <!-- -->      | <!-- -->        |
 |:-------------: |:---------------:|
-|![o](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/Onda1.png)   | En esta primera imagen se puede observar la señal de EMG durante el silencio eléctrico o el reposo. La amplitud de la señal es muy pequeña y no varía mucho. La pequeña magnitud que se aprecia antes del cambio se debe al ruido explicado anteriormente y a los pequeños movimientos del brazo en reposo.    |
-|![o](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/Onda2.png)   | Se puede observar un incremento en la amplitud de la señal, esto se debe a que en ese momento se comenzó a contraer el músculo y generó la activación de más unidades motoras. Asimismo, la forma de onda es distinta en cada instante de la contacción, esto debido a que se usan diferentes unidades motoras.        |
-|![o](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/Onda3.png)   | En esta última imagen se puede observar cómo la amplitud de la señal decrece hasta ser muy pequeña y no variar mucho. Esto se debe a que el músculo pasa de estar contraído, a estar relajado. Se utiliza una menor cantidad de fibras musculares.|        
+|![o](Archivos/Onda1.png)   | En esta primera imagen se puede observar la señal de EMG durante el silencio eléctrico o el reposo. La amplitud de la señal es muy pequeña y no varía mucho. La pequeña magnitud que se aprecia antes del cambio se debe al ruido explicado anteriormente y a los pequeños movimientos del brazo en reposo.    |
+|![o](Archivos/Onda2.png)   | Se puede observar un incremento en la amplitud de la señal, esto se debe a que en ese momento se comenzó a contraer el músculo y generó la activación de más unidades motoras. Asimismo, la forma de onda es distinta en cada instante de la contacción, esto debido a que se usan diferentes unidades motoras.        |
+|![o](Archivos/Onda3.png)   | En esta última imagen se puede observar cómo la amplitud de la señal decrece hasta ser muy pequeña y no variar mucho. Esto se debe a que el músculo pasa de estar contraído, a estar relajado. Se utiliza una menor cantidad de fibras musculares.|        
 
 ## Archivos de los datos de la señal ploteada
 
 | <!-- -->      | <!-- -->        |
 |:-------------:|:---------------:|
-| [Video3](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/Video3.txt)         | [Video3Modificado](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/Video3Modificado.txt)       | 
+| [Video3](Archivos/Video3.txt)         | [Video3Modificado](Archivos/Video3Modificado.txt)       | 
 
 
 ## Ploteo de la señal en Python
 
 | Señal  | Imagen  | Señal | Imagen |
 |:-------------: |:---------------:| :-------------:|:-------------:|
-| Señal EMG         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/se%C3%B1alEMG.png)        | FFT        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/FFT.png)        |
-| FFT en decibelios (dB)         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio3/Archivos/FFTdB.png)        | Archivo .ipynb         | [EMG.ipynb](https://colab.research.google.com/drive/12pRxEPb44RMLwJIfce5WDyqkPjPfjwqx?usp=sharing)        |
+| Señal EMG         | ![sinu](Archivos/se%C3%B1alEMG.png)        | FFT        | ![sinu](Archivos/FFT.png)        |
+| FFT en decibelios (dB)         | ![sinu](Archivos/FFTdB.png)        | Archivo .ipynb         | [EMG.ipynb](https://colab.research.google.com/drive/12pRxEPb44RMLwJIfce5WDyqkPjPfjwqx?usp=sharing)        |
 
 
 ### Python code

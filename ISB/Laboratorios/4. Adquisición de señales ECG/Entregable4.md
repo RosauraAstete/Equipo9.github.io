@@ -22,7 +22,7 @@ El electrocardiograma, abreviado como  EKG o ECG fue inventado por primera vez e
 Actualmente, el ECG es una modalidad de diagnóstico no invasivo que tiene un impacto clínico en la investigación de la gravedad de las enfermedades cardiovasculares [1].  El ECG mide la actividad eléctrica del corazón, esta actividad controla el latido del corazón y son las células marcapasos las que liberan ráfagas de energía eléctrica que viajan a través del músculo cardiaco y hacen que este se contraiga, esta contracción genera el bombeo de la sangre a través del corazón [2].
 
 <p align="center"> 
-<img align="center" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/ecg.gif">
+<img align="center" src="Archivos/ecg.gif">
 </p>
 <p align="center"> 
 Señal ECG [2]
@@ -44,7 +44,7 @@ La señal del ECG tiene como objetivo reflejar la actividad eléctrica del coraz
 - La onda S representa la despolarización final de las fibras de Purkinje.
 - La onda T representa la repolarización ventricular [1][3].
 <p align="center"> 
-<img align="center" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/ecg2.jpg">
+<img align="center" src="Archivos/ecg2.jpg">
 </p>
 <p align="center"> 
 Morfología de la señal ECG [3]
@@ -65,7 +65,7 @@ Morfología de la señal ECG [3]
 ### BiTalino - Cables
 
 <p align="center"> 
-<img align="center" src="/Documentación/Laboratorio4/Archivos/conexiones%20bitalino.jpg" width="500" height="400">
+<img align="center" src="Archivos/conexiones%20bitalino.jpg" width="500" height="400">
 </p>
 
 ### Electrodos - Cuerpo
@@ -75,7 +75,7 @@ Sin embargo, para la segunda paciente, se colocaron los electrodos positivo y ne
 
 | Paciente 1  | Paciente 2  |
 |:-------------: |:---------------:|
-| ![j](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/CSeb.png)         | ![k](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/CVal.png)         | 
+| ![j](Archivos/CSeb.png)         | ![k](Archivos/CVal.png)         | 
 
 
 ***
@@ -87,37 +87,37 @@ Sin embargo, para la segunda paciente, se colocaron los electrodos positivo y ne
 #### Paciente 1
 <p align="center"> 
 <img align="center" width="900" height="450" 
-src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/video%201%20claviculas.gif">
+src="Archivos/video%201%20claviculas.gif">
 </p>
 
 #### Paciente 2
 <p align="center"> 
 <img align="center" width="900" height="450" 
-src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/Estado%20basal%20p2.gif">
+src="Archivos/Estado%20basal%20p2.gif">
 </p>
 
 ### Señal ECG durante inhalación Profunda 
 
 #### Paciente 1
 <p align="center"> 
-<img align="center" width="900" height="450" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/Inhalacio%CC%81n%20profunda%20clavicula.gif">
+<img align="center" width="900" height="450" src="Archivos/Inhalacio%CC%81n%20profunda%20clavicula.gif">
 </p>
 
 #### Paciente 2
 <p align="center"> 
-<img align="center" width="900" height="450" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/Inhalacio%CC%81n%20profunda%20mun%CC%83eca.gif">
+<img align="center" width="900" height="450" src="Archivos/Inhalacio%CC%81n%20profunda%20mun%CC%83eca.gif">
 </p>
 
 ### Señal ECG luego del ejercicio
 
 #### Paciente 1
 <p align="center"> 
-<img align="center" width="900" height="450" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/Ejercicio%20clavicula.gif">
+<img align="center" width="900" height="450" src="Archivos/Ejercicio%20clavicula.gif">
 </p>
 
 #### Paciente 2
 <p align="center"> 
-<img align="center" width="900" height="450" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/Ejercicio%20mun%CC%83eca.gif">
+<img align="center" width="900" height="450" src="Archivos/Ejercicio%20mun%CC%83eca.gif">
 </p>
 
 ***
@@ -127,15 +127,15 @@ src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3
 ### Paciente 1
 | Señal  | Imagen  | Señal | Imagen |
 |:-------------: |:---------------:| :-------------:|:-------------:|
-| Señal ECG en Estado Basal         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/Estado%20basal%20p1.png)        | Señal ECG durante inhalación Profunda        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/Inhalacio%CC%81n%20profunda%20p1.png)        |
-| Señal ECG durante resposo post inhalación         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/reposo%20p1.png)        | Señal ECG luego del ejercicio        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/ejercicio%20p1.png)        |
+| Señal ECG en Estado Basal         | ![sinu](Archivos/Estado%20basal%20p1.png)        | Señal ECG durante inhalación Profunda        | ![sinu](Archivos/Inhalacio%CC%81n%20profunda%20p1.png)        |
+| Señal ECG durante resposo post inhalación         | ![sinu](Archivos/reposo%20p1.png)        | Señal ECG luego del ejercicio        | ![sinu](Archivos/ejercicio%20p1.png)        |
 
 ### Paciente 2
 
 | Señal  | Imagen  | Señal | Imagen |
 |:-------------: |:---------------:| :-------------:|:-------------:|
-| Señal ECG en Estado Basal         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/Estado%20basal%20p2.png)        | Señal ECG durante inhalación Profunda        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/Inhalacio%CC%81n%20profunda%20p2.png)        |
-| Señal ECG durante resposo post inhalación         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/reposo%20p2.png)        | Señal ECG luego del ejercicio        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/ejercicio%20p2.png)        |
+| Señal ECG en Estado Basal         | ![sinu](Archivos/Estado%20basal%20p2.png)        | Señal ECG durante inhalación Profunda        | ![sinu](Archivos/Inhalacio%CC%81n%20profunda%20p2.png)        |
+| Señal ECG durante resposo post inhalación         | ![sinu](Archivos/reposo%20p2.png)        | Señal ECG luego del ejercicio        | ![sinu](Archivos/ejercicio%20p2.png)        |
 
 ***
 ## Resumen y explicación de las señales ploteadas
@@ -158,17 +158,17 @@ En el segundo paciente, vemos un caso similar. En la inhalación profunda encont
 ## Archivos
 
 ### Paciente 1
-- [Estado Basal](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/estadobasal.txt)
-- [Inhalación Profunda](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/Inhalacio%CC%81n%20profunda.txt)
-- [Reposo Post Inhalación](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/reposo%20nuevamente.txt)
-- [Después del ejercicio](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/despues%20de%20correr.txt)
+- [Estado Basal](Archivos/estadobasal.txt)
+- [Inhalación Profunda](Archivos/Inhalacio%CC%81n%20profunda.txt)
+- [Reposo Post Inhalación](Archivos/reposo%20nuevamente.txt)
+- [Después del ejercicio](Archivos/despues%20de%20correr.txt)
 
 ### Paciente 2
 
-- [Estado Basal](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/ESTADO%20BASAL%20VALERIA.txt)
-- [Inhalación Profunda](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/inhalacion%20profunda%20valeria.txt)
-- [Reposo Post Inhalación](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/reposo%202%20valeria.txt)
-- [Después del ejercicio](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/valeria%20despues%20de%20correr.txt)
+- [Estado Basal](Archivos/ESTADO%20BASAL%20VALERIA.txt)
+- [Inhalación Profunda](Archivos/inhalacion%20profunda%20valeria.txt)
+- [Reposo Post Inhalación](Archivos/reposo%202%20valeria.txt)
+- [Después del ejercicio](Archivos/valeria%20despues%20de%20correr.txt)
 
 ***
 
@@ -182,15 +182,15 @@ En el siguiente link, encontrará el código utilizado para el ploteo de las se�
 ### Paciente 1
 | Señal  | Imagen  | Señal | Imagen |
 |:-------------: |:---------------:| :-------------:|:-------------:|
-| Señal ECG en Estado Basal         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/SECG1.png)        | Señal ECG durante inhalación Profunda        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/SECG2.png)        |
-| Señal ECG durante resposo post inhalación          | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/SECG3.png)        | Señal ECG luego del ejercicio        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/SECG4.png)        |
+| Señal ECG en Estado Basal         | ![sinu](Archivos/SECG1.png)        | Señal ECG durante inhalación Profunda        | ![sinu](Archivos/SECG2.png)        |
+| Señal ECG durante resposo post inhalación          | ![sinu](Archivos/SECG3.png)        | Señal ECG luego del ejercicio        | ![sinu](Archivos/SECG4.png)        |
 
 ### Paciente 2
 
 | Señal  | Imagen  | Señal | Imagen |
 |:-------------: |:---------------:| :-------------:|:-------------:|
-| Señal ECG en Estado Basal         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/VECG1.png)        | Señal ECG durante inhalación Profunda        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/VECG2.png)        |
-| Señal ECG durante resposo post inhalación          | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/VECG3.png)        | Señal ECG luego del ejercicio        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/VECG4.png)        |
+| Señal ECG en Estado Basal         | ![sinu](Archivos/VECG1.png)        | Señal ECG durante inhalación Profunda        | ![sinu](Archivos/VECG2.png)        |
+| Señal ECG durante resposo post inhalación          | ![sinu](Archivos/VECG3.png)        | Señal ECG luego del ejercicio        | ![sinu](Archivos/VECG4.png)        |
 
 ***
 
@@ -198,7 +198,7 @@ En el siguiente link, encontrará el código utilizado para el ploteo de las se�
 Al realizar una comparación visual de los gráficos obtenidos del paciente con los obtenidos con el ProSim4, se aprecia que el ruido es notablemente menor en las señales del ProSim4 que en las señales del paciente. También, se aprecia que la ondas de la señal del ProSim4 son iguales en todo su dominio. En el caso de la señal del paciente, las ondas varian tanto en forma como en amplitud. Esto puede deberse que el dispositivo ProSim4 realiza una conección directa con los electrodos, mientras que, en el caso de paciente, los electrodos son colocados sobre la piel. 
 
 <p align="center"> 
-<img align="center" width="900" height="450" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/Documentaci%C3%B3n/Laboratorio4/Archivos/Simulacio%CC%81n.gif">
+<img align="center" width="1000" height="350" src="Archivos/Simulacio%CC%81n.gif">
 </p>
 
 ***
