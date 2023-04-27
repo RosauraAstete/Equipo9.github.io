@@ -41,7 +41,7 @@ Morfología de la señal ECG [1]
 
 | <!-- -->      | <!-- -->        |
 |:-------------:|:---------------:|
-| Señal Completa         | ![sinu](Archivos/basalc.JPG)        |
+| Señal Completa         | ![sinu](Archivos/basalc.jpg)        |
 | Señal durante los 20 segundos elegidos con menor ruido         | ![sinu](Archivos/SECG1.png)       |
 | Señal de una sola onda         | ![sinu](Archivos/SECG1.png)      |
 
