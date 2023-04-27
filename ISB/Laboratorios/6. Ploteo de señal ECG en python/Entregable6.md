@@ -67,9 +67,10 @@ Morfología de la señal ECG [1]
 
 | <!-- -->      | <!-- -->        |
 |:-------------:|:---------------:|
-| Señal Completa         | ![sinu](Archivos/SECG1.png)        |
-| Señal durante los 20 segundos elegidos con menor ruido         | ![sinu](Archivos/SECG1.png)       |
-| Señal de una sola onda         | ![sinu](Archivos/SECG1.png)      |
+| Señal Completa         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/6.%20Ploteo%20de%20se%C3%B1al%20ECG%20en%20python/Archivos/pec.jpg)        |
+| Señal durante los 20 segundos elegidos con menor ruido         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/6.%20Ploteo%20de%20se%C3%B1al%20ECG%20en%20python/Archivos/pe20.jpg)       |
+| Señal de una sola onda         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/6.%20Ploteo%20de%20se%C3%B1al%20ECG%20en%20python/Archivos/pe1.jpg)      |
+
 
 ***
 ## Ploteo de las señales en Python respecto al laboratorio 4
