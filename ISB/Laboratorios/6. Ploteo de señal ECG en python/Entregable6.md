@@ -63,7 +63,7 @@ Morfología de la señal ECG [1]
 | Señal de una sola onda         | ![sinu](Archivos/SECG1.png)      |
 
 
-### Señal ECG depués de hacer ejercicio
+### Señal ECG Post Ejercicio
 
 | <!-- -->      | <!-- -->        |
 |:-------------:|:---------------:|
