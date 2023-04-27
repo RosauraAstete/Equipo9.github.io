@@ -73,7 +73,7 @@ Morfología de la señal ECG [1]
 
 
 ***
-## Ploteo de las señales en Python respecto al laboratorio 4
+## Creación del Dataset en Python
 
 ### Link to GoogleColab
 En el siguiente link, encontrará el código utilizado para la elaboración del Dataset de las señales con python. 
