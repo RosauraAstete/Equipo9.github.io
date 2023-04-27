@@ -21,7 +21,7 @@ Para este laboratorio es importante recordar que este tipo de señal se caracter
 - La onda T representa la repolarización ventricular[1][2]
 
 <p align="center"> 
-<img align="center" src="Archivos/ecg2.jpg">
+<img align="center" width="300" height="600" src="Archivos/ecg2.jpg">
 </p>
 <p align="center"> 
 Morfología de la señal ECG [1]
@@ -47,7 +47,7 @@ Debido a que la señal completa en cada fase presenta bastante ruido y lo que se
 Para poder segmentar cada una de las señales, se consideró el tamaño de las señales en muestras y el tamaño de una sola onda en muestras. La cantidad de filas en la matriz será la división entre estos dos valores, respectivamente. Asimismo, la cantidad de columnas de la matriz es el tamaño de una sola onda en muestras.
 
 <p align="center"> 
-<img align="center" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/6.%20Ploteo%20de%20se%C3%B1al%20ECG%20en%20python/Archivos/matriz.jpg">
+<img align="center" width="600" height="300" src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/6.%20Ploteo%20de%20se%C3%B1al%20ECG%20en%20python/Archivos/matriz.jpg">
 </p>
 <p align="center"> 
 Método para segmentar la señal en forma de matriz. Elaboración propia.
