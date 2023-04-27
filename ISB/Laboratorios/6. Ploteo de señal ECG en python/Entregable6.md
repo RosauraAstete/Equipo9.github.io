@@ -76,8 +76,7 @@ Morfología de la señal ECG [1]
 
 ### Link to GoogleColab
 En el siguiente link, encontrará el código utilizado para la elaboración del Dataset de las señales con python. 
-`<link>` : https://colab.research.google.com/drive/1BnGfimvitJarySgA-P7BAQgUf0tI0zEb?usp=sharing
-
+`<link>` : https://colab.research.google.com/drive/1S2x6B_OGGop9mRUyJigUtoExle4sktkw?usp=sharing
 ### Python code
 ```python
 
