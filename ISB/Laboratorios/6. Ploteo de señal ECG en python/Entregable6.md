@@ -98,10 +98,6 @@ Método para segmentar la señal en forma de matriz. Elaboración propia.
 ### Link to GoogleColab
 En el siguiente link, encontrará el código utilizado para la elaboración del Dataset de las señales con python. 
 `<link>` : https://colab.research.google.com/drive/1S2x6B_OGGop9mRUyJigUtoExle4sktkw?usp=sharing
-### Python code
-```python
-
-```
 
 ***
 
