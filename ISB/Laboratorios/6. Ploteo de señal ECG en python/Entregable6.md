@@ -42,7 +42,7 @@ Morfología de la señal ECG [1]
 | <!-- -->      | <!-- -->        |
 |:-------------:|:---------------:|
 | Señal Completa         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/6.%20Ploteo%20de%20se%C3%B1al%20ECG%20en%20python/Archivos/basalc.jpg)        |
-| Señal durante los 20 segundos elegidos con menor ruido         | ![sinu]([Archivos/SECG1.png](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/6.%20Ploteo%20de%20se%C3%B1al%20ECG%20en%20python/Archivos/basal20.jpg))       |
+| Señal durante los 20 segundos elegidos con menor ruido         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/6.%20Ploteo%20de%20se%C3%B1al%20ECG%20en%20python/Archivos/basal20.jpg)       |
 | Señal de una sola onda         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/6.%20Ploteo%20de%20se%C3%B1al%20ECG%20en%20python/Archivos/basal1.jpg)      |
 
 ### Señal ECG durante Inhalación Profunda
