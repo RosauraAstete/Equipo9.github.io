@@ -114,11 +114,12 @@ En el siguiente link, encontrará el código utilizado para la elaboración del 
 ***
 
 ## Referencias
-[1]  J. Aspuru et al., “Segmentation of the ECG Signal by Means of a Linear Regression Algorithm,” Sensors, vol. 19, no. 4, p. 775, Feb. 2019, doi: https://doi.org/10.3390/s19040775.
+[1]  J. Aspuru et al., “Segmentation of the ECG Signal by Means of a Linear Regression Algorithm,” Sensors, vol. 19, no. 4, p. 775, Feb. 2019, doi: https://doi.org/10.3390/s19040775. <br>
 
-[2] Y. Sattar and L. Chhabra, “Electrocardiogram,” Nih.gov, Jan. 28, 2023. https://www.ncbi.nlm.nih.gov/books/NBK549803/ ‌
+[2] Y. Sattar and L. Chhabra, “Electrocardiogram,” Nih.gov, Jan. 28, 2023. https://www.ncbi.nlm.nih.gov/books/NBK549803/ ‌ <br>
 
-[3] Castañeda Cárdenas, José Ancízar, “Eliminación de perturbaciones en señales ECG utilizando filtrado de Kalman implementado en un DSP,” Uchile.cl, Dec. 2014, doi: https://doi.org/T621.3822%20C346;6310000099244%20F2938.
+[3] Castañeda Cárdenas, José Ancízar, “Eliminación de perturbaciones en señales ECG utilizando filtrado de Kalman implementado en un DSP,” Uchile.cl, Dec. 2014, doi: https://doi.org/T621.3822%20C346;6310000099244%20F2938. <br>
+
 ‌[4] “Atrial infarction, inferior myocardial infarction atrial arrhythmia a forgotten triad - Noticia del día | Cardiolatina - Comunidad Iberoamericana de Cardiología,” Cardiolatina.com, 2017. http://cardiolatina.com/noticias/artefactos-en-el-ecg/#:~:text=Los%20artefactos%20electrocardiogr%C3%A1ficos%20se%20definen,y%20las%20ondas%20se%20distorsionan. (accessed Apr. 27, 2023).
 ‌
 
