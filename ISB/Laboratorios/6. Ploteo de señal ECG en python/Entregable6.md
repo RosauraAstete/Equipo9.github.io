@@ -28,7 +28,11 @@ Morfología de la señal ECG [1]
 </p>
 
 ### Ruido de la señal ECG
+El ruido en una señal ECG se refiere a cualquier interferencia o señal no deseada que se mezcla con la señal de ECG original. Esto puede ser causado por varios factores, como la actividad eléctrica muscular, los movimientos del paciente, los electrodos mal colocados o el equipo defectuoso, provocando que la señal sea difícil de interpretar y la precisión del diagnóstico se vea afectada.[3]
 
+Por otro lado, los artefactos en una señal ECG son variaciones en la señal que no están relacionadas con la actividad eléctrica del corazón. Estos pueden ser causados por factores como la respiración del paciente, el contacto deficiente entre los electrodos y la piel, el movimiento del cable del electrodo y la interferencia electromagnética de otros equipos médicos cercanos. [4]
+
+En resumen, el ruido es una interferencia no deseada que afecta a toda la señal, mientras que los artefactos son variaciones no relacionadas con la actividad eléctrica del corazón y pueden aparecer en diferentes partes de la señal. 
 
 
 
@@ -109,10 +113,13 @@ En el siguiente link, encontrará el código utilizado para la elaboración del 
 ***
 
 ## Referencias
-
 [1]  J. Aspuru et al., “Segmentation of the ECG Signal by Means of a Linear Regression Algorithm,” Sensors, vol. 19, no. 4, p. 775, Feb. 2019, doi: https://doi.org/10.3390/s19040775.
 
 [2] Y. Sattar and L. Chhabra, “Electrocardiogram,” Nih.gov, Jan. 28, 2023. https://www.ncbi.nlm.nih.gov/books/NBK549803/ ‌
+
+[3] Castañeda Cárdenas, José Ancízar, “Eliminación de perturbaciones en señales ECG utilizando filtrado de Kalman implementado en un DSP,” Uchile.cl, Dec. 2014, doi: https://doi.org/T621.3822%20C346;6310000099244%20F2938.
+‌[4] “Atrial infarction, inferior myocardial infarction atrial arrhythmia a forgotten triad - Noticia del día | Cardiolatina - Comunidad Iberoamericana de Cardiología,” Cardiolatina.com, 2017. http://cardiolatina.com/noticias/artefactos-en-el-ecg/#:~:text=Los%20artefactos%20electrocardiogr%C3%A1ficos%20se%20definen,y%20las%20ondas%20se%20distorsionan. (accessed Apr. 27, 2023).
+‌
 
 ‌
 ***
