@@ -42,6 +42,11 @@ Morfología de la señal ECG [1]
 
 ## Ploteo de las 4 señales obtenidas
 
+Debido a que la señal completa en cada fase presenta bastante ruido y lo que se desea en el Dataset es tener información que sirva, se procedió a escoger aproximadamente los 20 segundos que tuvieran la menor cantidad de ruido de cada una de las señales. 
+
+Para poder segmentar cada una de las señales, se consideró el tamaño de las señales en muestras y el tamaño de una sola onda en muestras. La cantidad de filas en la matriz será la división entre estos dos valores, respectivamente. Asimismo, la cantidad de columnas de la matriz es el tamaño de una sola onda en muestras.
+
+
 ### Señal ECG en Estado Basal 
 
 | <!-- -->      | <!-- -->        |
