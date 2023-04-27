@@ -27,14 +27,19 @@ Para este laboratorio es importante recordar que este tipo de señal se caracter
 Morfología de la señal ECG [1]
 </p>
 
----
-### Fases consideradas para el ploteo de nuestra señal:
-- Estado basal (30 segundos)
+### Ruido de la señal ECG
+
+
+
+
+### Fases consideradas para la elaboración del Dataset:
+- Estado basal inicial
 - Inhalación profunda de 3 a 5 segundos hasta encontrar varianza
-- Reposo de 30 segundos
-- Ejercicio
+- Estado basal posterior a la inhalación profunda
+- Después de realizar ejercicio
 
 ***
+
 ## Ploteo de las 4 señales obtenidas
 
 ### Señal ECG en Estado Basal 
