@@ -21,7 +21,7 @@ Para este laboratorio es importante recordar que este tipo de señal se caracter
 - La onda T representa la repolarización ventricular[1][2]
 
 <p align="center"> 
-<img align="center" width="400" height="500" src="Archivos/ecg2.jpg">
+<img align="center" width="500" height="500" src="Archivos/ecg2.jpg">
 </p>
 <p align="center"> 
 Morfología de la señal ECG [1]
