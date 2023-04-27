@@ -107,8 +107,9 @@ En el siguiente link, encontrará el código utilizado para la elaboración del 
 
 ## Conclusiones
 
-- El ECG es una herramienta esencial para la detección y el diagnóstico clínico de enfermedades cardíacas.
-- La ubicación de los electrodos es importante para obtener una buena señal, ya que si ubicamos los electrodos en las muñecas se observan más ruido debido a que los músculos de brazo generan interferencia en la señal.
+- La duración de una onda varía dependiendo del estado del paciente al realizar la medición
+- Para un mejor análisis de la onda, se debe filtrar la señal 
+
 
 ***
 
