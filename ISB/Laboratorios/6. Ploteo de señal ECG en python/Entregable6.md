@@ -109,6 +109,10 @@ En el siguiente link, encontrará el código utilizado para la elaboración del 
 
 - La duración de una onda varía dependiendo del estado del paciente al realizar la medición
 - Para un mejor análisis de la onda, se debe filtrar la señal 
+- Una interferencia puede ser causada por varios factores físicos y ambientales lo que puede afectar en la interpretación de una señal ECG.
+- Para la interpretación correcta de una señal ECG es recomendable analizar secciones de señal en las cuales se puedan identificar los puntos de referencia de la morfología de una señal ECG.
+- Luego del seccionamiento de señales en las diferentes fases es más sencillo el reconocimiento del intervalo QRS.
+
 
 
 ***
