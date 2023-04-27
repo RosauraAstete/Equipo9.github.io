@@ -78,9 +78,9 @@ Método para segmentar la señal en forma de matriz. Elaboración propia.
 
 | <!-- -->      | <!-- -->        |
 |:-------------:|:---------------:|
-| Señal Completa         | ![sinu](Archivos/SECG1.png)        |
-| Señal durante los 20 segundos elegidos con menor ruido         | ![sinu](Archivos/SECG1.png)       |
-| Señal de una sola onda         | ![sinu](Archivos/SECG1.png)      |
+| Señal Completa         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/6.%20Ploteo%20de%20se%C3%B1al%20ECG%20en%20python/Archivos/pic.jpg)        |
+| Señal durante los 20 segundos elegidos con menor ruido         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/6.%20Ploteo%20de%20se%C3%B1al%20ECG%20en%20python/Archivos/pi20.jpg)       |
+| Señal de una sola onda         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/6.%20Ploteo%20de%20se%C3%B1al%20ECG%20en%20python/Archivos/pi1.jpg)      |
 
 
 ### Señal ECG Post Ejercicio
