@@ -3,7 +3,7 @@
 ## Objetivos
 ---
 - Escoger los segmentos de la señal obtenida que tengan menos ruido
-- Plotear la matriz de las señales obtenidas
+- Crear un dataset con toda la información de la señal de ECG adquirida
 ***
 ## Introducción
 
