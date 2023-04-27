@@ -70,7 +70,7 @@ Método para segmentar la señal en forma de matriz. Elaboración propia.
 | <!-- -->      | <!-- -->        |
 |:-------------:|:---------------:|
 | Señal Completa         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/6.%20Ploteo%20de%20se%C3%B1al%20ECG%20en%20python/Archivos/Inhalacio%CC%81n%20profunda%20completa.png)        |
-| Señal durante los 20 segundos elegidos con menor ruido         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/6.%20Ploteo%20de%20se%C3%B1al%20ECG%20en%20python/Archivos/Inhalacio%CC%81n%20profunda%2020%20s.png)       |
+| Señal durante los 20 segundos elegidos con menor ruido         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/6.%20Ploteo%20de%20se%C3%B1al%20ECG%20en%20python/Archivos/Inhalacio%CC%81n%20profunda%2020s.png)       |
 | Señal de una sola onda         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/6.%20Ploteo%20de%20se%C3%B1al%20ECG%20en%20python/Archivos/inhalacion%20profunda%20unica.png)      |
 
 
