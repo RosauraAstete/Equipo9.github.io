@@ -10,7 +10,15 @@
 ## **Introducción**
 
 ### ¿Qué son los filtros?
-info
+Un filtro es un sistema que realiza un proceso de discriminación de una señal de entrada obteniendo variaciones en su salida, esto depende de algunos parámetros.
+Los filtros digitales tienen como entrada una señal analógica o una señal digital y su salida es otra señal analógica o digital pero con variaciones como en su amplitud, frecuencia o fase dependiendo de las características del filtro [1]. Asimismo, el uso de filtros digitales es muy amplio hoy en día debido a la fácil disponibilidad de las computadoras.
+
+**Ventajas:**
+* Un filtro digital es altamente inmune al ruido debido a la forma en que se implementa.
+* La precisión depende únicamente del error de redondeo que está directamente determinado por el número de bits que el diseñador elige para representar las variables en el filtro.
+* Es fácil y económico cambiar las características operativas de un filtro.
+* El rendimiento no depende de factores como el envejecimiento de los componentes, la variación de temperatura y tensión de alimentación, esto es muy importante en aplicaciones médicas, ya que la mayoría de señales tienen frecuencias bajas que pueden distorsionarse [2].
+
 
 ### Filtros IIR
 info
