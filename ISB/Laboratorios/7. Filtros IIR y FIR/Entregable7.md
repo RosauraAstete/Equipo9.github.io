@@ -34,7 +34,7 @@ info
 | Basal post inhalación        | 1        |2        |3        |
 | Post ejercicio        | 1        |2        |3        |
 
-![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/6.%20Ploteo%20de%20se%C3%B1al%20ECG%20en%20python/Archivos/Inhalacio%CC%81n%20profunda%20completa.png)
+![sinu](/Archivos/Estado%20basal%20p1.png)
 
 ***
 ## **Creación del Dataset en Python**
