@@ -21,13 +21,25 @@ Los filtros digitales tienen como entrada una señal analógica o una señal dig
 
 
 ### Filtros IIR
+
+<p align="center"> 
+<img align="center" width="400" src="https://i.postimg.cc/gJ1jndvB/fir.png">
+<p align="center">   
+Fig x. Esquema de funcionamiento de un filtro IIR.
+</p>
+
 Es un tipo de filtro digital que establece que la respuesta a una entrada impulso (delta de Kronecker) existe indefinidamente con un número infinito de valores no nulos, por lo que nunca vuelve al reposo y se caracterizan por tener una retroalimentación de la señal de salida.[xx] Debido a su diseño de retroalimentación, los filtros IIR pueden ser más eficientes en términos de uso de recursos computacionales en comparación con los filtros FIR. Los filtros IIR se utilizan comúnmente en aplicaciones de procesamiento de señales, como la eliminación de ruido, la ecualización de audio y la implementación de efectos de audio.
 
 
 ### Filtros FIR
-info
 
-***
+<p align="center"> 
+<img align="center" width="400" src="https://i.postimg.cc/fLVkzk09/iir.png">
+<p align="center">   
+Fig x. Esquema de funcionamiento de un filtro IIR.
+</p>
+
+Un filtro de respuesta de impulso finito posee un número limitado de términos. Este tipo de filtro es causal, lo que significa que solo depende de entradas presentes y pasadas. Entre otras de sus propiedades tenemos que es lineal, es decir, tiene un retardo de tiempo puro como respuesta de fase, y que es estable, por lo que siempre que la entrada del filtro esté acotada, la salida de este también lo estará. Estas propiedades ayudan al diseño de filtros FIR para que cumplan con ciertas especificaciones necesarias.
 
 ## **Tabla resumen**
 ### Filtros IIR
