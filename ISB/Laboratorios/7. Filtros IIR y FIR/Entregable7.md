@@ -36,7 +36,7 @@ Es un tipo de filtro digital que establece que la respuesta a una entrada impuls
 <p align="center"> 
 <img align="center" width="400" src="https://i.postimg.cc/fLVkzk09/iir.png">
 <p align="center">   
-Fig x. Esquema de funcionamiento de un filtro IIR.
+Fig x. Esquema de funcionamiento de un filtro FIR.
 </p>
 
 Un filtro de respuesta de impulso finito posee un número limitado de términos. Este tipo de filtro es causal, lo que significa que solo depende de entradas presentes y pasadas. Entre otras de sus propiedades tenemos que es lineal, es decir, tiene un retardo de tiempo puro como respuesta de fase, y que es estable, por lo que siempre que la entrada del filtro esté acotada, la salida de este también lo estará. Estas propiedades ayudan al diseño de filtros FIR para que cumplan con ciertas especificaciones necesarias.
