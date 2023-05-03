@@ -21,7 +21,8 @@ Los filtros digitales tienen como entrada una señal analógica o una señal dig
 
 
 ### Filtros IIR
-info
+Es un tipo de filtro digital que establece que la respuesta a una entrada impulso (delta de Kronecker) existe indefinidamente con un número infinito de valores no nulos, por lo que nunca vuelve al reposo y se caracterizan por tener una retroalimentación de la señal de salida.[xx] Debido a su diseño de retroalimentación, los filtros IIR pueden ser más eficientes en términos de uso de recursos computacionales en comparación con los filtros FIR. Los filtros IIR se utilizan comúnmente en aplicaciones de procesamiento de señales, como la eliminación de ruido, la ecualización de audio y la implementación de efectos de audio.
+
 
 ### Filtros FIR
 info
