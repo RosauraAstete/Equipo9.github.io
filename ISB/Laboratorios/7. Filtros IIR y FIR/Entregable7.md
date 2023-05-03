@@ -4,6 +4,7 @@
 
 - Diseñar un IIR eligiendo si es Bessel, Butterworth, Chebyshev o Eliptico.
 - Elegir 2 métodos de ventana para diseñar un filtro FIR
+- Filtrar el Dataset de las señales ECG realizado en el laboratorio anterior.
 
 ***
 ## **Introducción**
