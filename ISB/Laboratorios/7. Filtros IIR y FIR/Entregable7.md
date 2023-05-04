@@ -81,14 +81,15 @@ info
 info
 
 ### Tabla
-| <!-- -->      | <!-- -->        |<!-- -->        |<!-- -->        |
-|:-------------:|:---------------:|:---------------:|:---------------:|
-| Basal        | 1        |2        |3        |
-| Inhalación profunda        | 1        |2        |3        |
-| Basal post inhalación        | 1        |2        |3        |
-| Post ejercicio        | 1        |2        |3        |
 
-![sinu](/Archivos/Estado%20basal%20p1.png)
+| Campo  | Señal Cruda  | Filtro IIR | Filtro FIR |
+|:-------------: |:---------------:| :-------------:| :-------------: |
+| Basal        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/6.%20Ploteo%20de%20se%C3%B1al%20ECG%20en%20python/Archivos/basalc.jpg)  | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/6.%20Ploteo%20de%20se%C3%B1al%20ECG%20en%20python/Archivos/basalc.jpg)       | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/6.%20Ploteo%20de%20se%C3%B1al%20ECG%20en%20python/Archivos/basalc.jpg) |
+| Inhalación Profunda        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/6.%20Ploteo%20de%20se%C3%B1al%20ECG%20en%20python/Archivos/basalc.jpg)          |![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/6.%20Ploteo%20de%20se%C3%B1al%20ECG%20en%20python/Archivos/basalc.jpg)        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/6.%20Ploteo%20de%20se%C3%B1al%20ECG%20en%20python/Archivos/basalc.jpg) |
+| Basal Post Inhalación        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/6.%20Ploteo%20de%20se%C3%B1al%20ECG%20en%20python/Archivos/basalc.jpg)          | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/6.%20Ploteo%20de%20se%C3%B1al%20ECG%20en%20python/Archivos/basalc.jpg)        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/6.%20Ploteo%20de%20se%C3%B1al%20ECG%20en%20python/Archivos/basalc.jpg) |
+| Post Ejercicio        | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/6.%20Ploteo%20de%20se%C3%B1al%20ECG%20en%20python/Archivos/basalc.jpg)       |![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/6.%20Ploteo%20de%20se%C3%B1al%20ECG%20en%20python/Archivos/basalc.jpg)       |![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/6.%20Ploteo%20de%20se%C3%B1al%20ECG%20en%20python/Archivos/basalc.jpg)     |
+
+
 
 ***
 ## **Creación del Dataset en Python**
