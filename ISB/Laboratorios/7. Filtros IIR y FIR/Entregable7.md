@@ -28,7 +28,39 @@ Los filtros digitales tienen como entrada una señal analógica o una señal dig
 Fig x. Esquema de funcionamiento de un filtro IIR.
 </p>
 
-Es un tipo de filtro digital que establece que la respuesta a una entrada impulso (delta de Kronecker) existe indefinidamente con un número infinito de valores no nulos, por lo que nunca vuelve al reposo y se caracterizan por tener una retroalimentación de la señal de salida.[xx] Debido a su diseño de retroalimentación, los filtros IIR pueden ser más eficientes en términos de uso de recursos computacionales en comparación con los filtros FIR. Los filtros IIR se utilizan comúnmente en aplicaciones de procesamiento de señales, como la eliminación de ruido, la ecualización de audio y la implementación de efectos de audio.
+Es un tipo de filtro digital que establece que la respuesta a una entrada impulso (delta de Kronecker) existe indefinidamente con un número infinito de valores no nulos, por lo que nunca vuelve al reposo y se caracterizan por tener una retroalimentación de la señal de salida [3]. Debido a su diseño de retroalimentación, los filtros IIR pueden ser más eficientes en términos de uso de recursos computacionales en comparación con los filtros FIR. Los filtros IIR se utilizan comúnmente en aplicaciones de procesamiento de señales, como la eliminación de ruido, la ecualización de audio y la implementación de efectos de audio.
+
+* Bessel: Este tipo de filtro tiene una respuesta de fase lineal, lo que significa que todas las frecuencias de la señal de entrada se retrasan por el mismo tiempo. Esto hace que sea útil en aplicaciones donde la distorsión de la fase es crítica, como en la señalización de datos o en la transmisión de señales de audio y vídeo [4].
+
+<p align="center"> 
+<img align="center" width="400" src="https://i.postimg.cc/xjy42Dz0/bessel.png">
+<p align="center">   
+Fig x. Filtro Bessel.
+</p>
+
+* Butterworth: Tiene una respuesta de amplitud plana en la banda pasante y una caída uniforme en la banda de rechazo. Esto significa que atenúa las frecuencias no deseadas de manera uniforme en toda la banda de rechazo. El filtro Butterworth se utiliza comúnmente en aplicaciones de audio y en la eliminación de ruido de señales de baja frecuencia [4]. Además, tienen como característica una atenuación de 3dB en el punto de corte. 
+
+<p align="center"> 
+<img align="center" width="400" src="https://i.postimg.cc/0jxXwZLR/butter.png">
+<p align="center">   
+Fig x. Filtro Butterworth.
+</p>
+
+* Chevyshev: Tiene una respuesta de amplitud de paso de banda irregular. Es capaz de proporcionar una atenuación más pronunciada en la banda de rechazo que el filtro Butterworth, a costa de una mayor irregularidad en la banda de paso. Esto lo hace útil en aplicaciones donde se requiere una mayor atenuación en la banda de rechazo, como en la eliminación de interferencias de radiofrecuencia [4].
+
+<p align="center"> 
+<img align="center" width="400" src="https://i.postimg.cc/gJ3Bj1tH/chev.png">
+<p align="center">   
+Fig x. Filtro Chevyshev.
+</p>
+
+* Elíptico: También conocido como filtro de Cauer, tiene una respuesta de amplitud de paso de banda y una banda de rechazo muy selectiva. Es útil en aplicaciones donde se requiere una alta selectividad en la banda de rechazo y en la banda de paso, como en la eliminación de interferencias de radiofrecuencia en sistemas de telecomunicaciones y en la separación de señales en el procesamiento de señales biomédicas [4].
+
+<p align="center"> 
+<img align="center" width="400" src="https://i.postimg.cc/KjNqrB2K/cauer.png">
+<p align="center">   
+Fig x. Filtro de Cauer (elíptico).
+</p>
 
 
 ### Filtros FIR
@@ -76,7 +108,14 @@ En el siguiente link, encontrará el código utilizado para la elaboración del 
 ***
 
 ## Referencias
-[1]  
+[1] J. Cedillo et al., “IMPLEMENTATION OF DIGITAL FILTERS OF FIR TYPE IN FPGA Implementación de Filtros Digitales Tipo FIR en FPGA,” vol. 37, 2008, Available: https://www.scielo.org.mx/pdf/poli/n37/n37a12.pdf
+
+‌[2] Willis J. Tompkins. Biomedical digital signal procesing.Prentice Hall, may, 1993. 
+
+[3] I. Grout, “Introduction to Digital Signal Processing,” Digital Systems Design with FPGAs and CPLDs, pp. 475–536, 2008, doi: https://doi.org/10.1016/b978-0-7506-8397-5.00007-6.
+
+‌[4] D. Filtros, L. Martínez, A. Gómez, J. Serrano, J. Vila, and Gómez, “2.1,” 2009. Available: http://ocw.uv.es/ingenieria-y-arquitectura/filtros-digitales/tema_2._revision_de_los_tipos_de_filtros_analogicos_mas_comunes.pdf
+
 ‌
 
 ‌
