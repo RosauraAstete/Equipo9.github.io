@@ -117,9 +117,6 @@ En el siguiente link, encontrará el código utilizado para la elaboración del 
 
 ‌[4] D. Filtros, L. Martínez, A. Gómez, J. Serrano, J. Vila, and Gómez, “2.1,” 2009. Available: http://ocw.uv.es/ingenieria-y-arquitectura/filtros-digitales/tema_2._revision_de_los_tipos_de_filtros_analogicos_mas_comunes.pdf
 
-‌
-
-‌
 ***
 
 
