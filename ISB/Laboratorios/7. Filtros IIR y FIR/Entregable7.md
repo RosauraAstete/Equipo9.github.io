@@ -81,7 +81,7 @@ Un filtro de respuesta de impulso finito posee un número limitado de términos.
 Fig 7. Ventana rectangular.
 </p>
 
-* **Barlett:** Es una ventana triangular simétrica.
+* **Bartlett:** Es una ventana triangular simétrica.
 
 <p align="center"> 
 <img align="center" width="400" src="Archivos/vent2.jpg">
