@@ -9,7 +9,7 @@
 ***
 ## **Introducción**
 
-### ¿Qué son los filtros?
+### **¿Qué son los filtros?**
 Un filtro es un sistema que realiza un proceso de discriminación de una señal de entrada obteniendo variaciones en su salida, esto depende de algunos parámetros.
 Los filtros digitales tienen como entrada una señal analógica o una señal digital y su salida es otra señal analógica o digital pero con variaciones como en su amplitud, frecuencia o fase dependiendo de las características del filtro [1]. Asimismo, el uso de filtros digitales es muy amplio hoy en día debido a la fácil disponibilidad de las computadoras.
 
@@ -20,67 +20,79 @@ Los filtros digitales tienen como entrada una señal analógica o una señal dig
 * El rendimiento no depende de factores como el envejecimiento de los componentes, la variación de temperatura y tensión de alimentación, esto es muy importante en aplicaciones médicas, ya que la mayoría de señales tienen frecuencias bajas que pueden distorsionarse [2].
 
 
-### Filtros IIR
+### **Filtros IIR**
 
 <p align="center"> 
 <img align="center" width="400" src="https://i.postimg.cc/gJ1jndvB/fir.png">
 <p align="center">   
-Fig x. Esquema de funcionamiento de un filtro IIR.
+Fig 1. Esquema de funcionamiento de un filtro IIR.
 </p>
 
 Es un tipo de filtro digital que establece que la respuesta a una entrada impulso (delta de Kronecker) existe indefinidamente con un número infinito de valores no nulos, por lo que nunca vuelve al reposo y se caracterizan por tener una retroalimentación de la señal de salida [3]. Debido a su diseño de retroalimentación, los filtros IIR pueden ser más eficientes en términos de uso de recursos computacionales en comparación con los filtros FIR. Los filtros IIR se utilizan comúnmente en aplicaciones de procesamiento de señales, como la eliminación de ruido, la ecualización de audio y la implementación de efectos de audio.
 
-* Bessel: Este tipo de filtro tiene una respuesta de fase lineal, lo que significa que todas las frecuencias de la señal de entrada se retrasan por el mismo tiempo. Esto hace que sea útil en aplicaciones donde la distorsión de la fase es crítica, como en la señalización de datos o en la transmisión de señales de audio y vídeo [4].
+* **Bessel:** Este tipo de filtro tiene una respuesta de fase lineal, lo que significa que todas las frecuencias de la señal de entrada se retrasan por el mismo tiempo. Esto hace que sea útil en aplicaciones donde la distorsión de la fase es crítica, como en la señalización de datos o en la transmisión de señales de audio y vídeo [4].
 
 <p align="center"> 
 <img align="center" width="400" src="https://i.postimg.cc/xjy42Dz0/bessel.png">
 <p align="center">   
-Fig x. Filtro Bessel.
+Fig 2. Filtro Bessel.
 </p>
 
-* Butterworth: Tiene una respuesta de amplitud plana en la banda pasante y una caída uniforme en la banda de rechazo. Esto significa que atenúa las frecuencias no deseadas de manera uniforme en toda la banda de rechazo. El filtro Butterworth se utiliza comúnmente en aplicaciones de audio y en la eliminación de ruido de señales de baja frecuencia [4]. Además, tienen como característica una atenuación de 3dB en el punto de corte. 
+* **Butterworth:** Tiene una respuesta de amplitud plana en la banda pasante y una caída uniforme en la banda de rechazo. Esto significa que atenúa las frecuencias no deseadas de manera uniforme en toda la banda de rechazo. El filtro Butterworth se utiliza comúnmente en aplicaciones de audio y en la eliminación de ruido de señales de baja frecuencia [4]. Además, tienen como característica una atenuación de 3dB en el punto de corte. 
 
 <p align="center"> 
 <img align="center" width="400" src="https://i.postimg.cc/0jxXwZLR/butter.png">
 <p align="center">   
-Fig x. Filtro Butterworth.
+Fig 3. Filtro Butterworth.
 </p>
 
-* Chevyshev: Tiene una respuesta de amplitud de paso de banda irregular. Es capaz de proporcionar una atenuación más pronunciada en la banda de rechazo que el filtro Butterworth, a costa de una mayor irregularidad en la banda de paso. Esto lo hace útil en aplicaciones donde se requiere una mayor atenuación en la banda de rechazo, como en la eliminación de interferencias de radiofrecuencia [4].
+* **Chevyshev:** Tiene una respuesta de amplitud de paso de banda irregular. Es capaz de proporcionar una atenuación más pronunciada en la banda de rechazo que el filtro Butterworth, a costa de una mayor irregularidad en la banda de paso. Esto lo hace útil en aplicaciones donde se requiere una mayor atenuación en la banda de rechazo, como en la eliminación de interferencias de radiofrecuencia [4].
 
 <p align="center"> 
 <img align="center" width="400" src="https://i.postimg.cc/gJ3Bj1tH/chev.png">
 <p align="center">   
-Fig x. Filtro Chevyshev.
+Fig 4. Filtro Chevyshev.
 </p>
 
-* Elíptico: También conocido como filtro de Cauer, tiene una respuesta de amplitud de paso de banda y una banda de rechazo muy selectiva. Es útil en aplicaciones donde se requiere una alta selectividad en la banda de rechazo y en la banda de paso, como en la eliminación de interferencias de radiofrecuencia en sistemas de telecomunicaciones y en la separación de señales en el procesamiento de señales biomédicas [4].
+* **Elíptico:** También conocido como filtro de Cauer, tiene una respuesta de amplitud de paso de banda y una banda de rechazo muy selectiva. Es útil en aplicaciones donde se requiere una alta selectividad en la banda de rechazo y en la banda de paso, como en la eliminación de interferencias de radiofrecuencia en sistemas de telecomunicaciones y en la separación de señales en el procesamiento de señales biomédicas [4].
 
 <p align="center"> 
 <img align="center" width="400" src="https://i.postimg.cc/KjNqrB2K/cauer.png">
 <p align="center">   
-Fig x. Filtro de Cauer (elíptico).
+Fig 5. Filtro de Cauer (elíptico).
 </p>
 
 
-### Filtros FIR
+### **Filtros FIR**
 
 <p align="center"> 
 <img align="center" width="400" src="https://i.postimg.cc/fLVkzk09/iir.png">
 <p align="center">   
-Fig x. Esquema de funcionamiento de un filtro FIR.
+Fig 6. Esquema de funcionamiento de un filtro FIR.
 </p>
 
-Un filtro de respuesta de impulso finito posee un número limitado de términos. Este tipo de filtro es causal, lo que significa que solo depende de entradas presentes y pasadas. Entre otras de sus propiedades tenemos que es lineal, es decir, tiene un retardo de tiempo puro como respuesta de fase, y que es estable, por lo que siempre que la entrada del filtro esté acotada, la salida de este también lo estará. Estas propiedades ayudan al diseño de filtros FIR para que cumplan con ciertas especificaciones necesarias.
+Un filtro de respuesta de impulso finito posee un número limitado de términos. Este tipo de filtro es causal, lo que significa que solo depende de entradas presentes y pasadas. Entre otras de sus propiedades tenemos que es lineal, es decir, tiene un retardo de tiempo puro como respuesta de fase, y que es estable, por lo que siempre que la entrada del filtro esté acotada, la salida de este también lo estará. Estas propiedades ayudan al diseño de filtros FIR para que cumplan con ciertas especificaciones necesarias.[ ] Uno de los métodos de diseño de filtros FIR es el uso de ventanas. Este se basa en acortar la respuesta en impulsos de la señal, mediante la multiplicación de la señal con la ventana [a]. Existen diferentes tipos de ventanas, entre las más conocidas tenemos:
+
+* Rectangular
+* Barlett
+* Hanning
+* Hamming
+* Blackman
+
+<p align="center"> 
+<img align="center" width="400" src="Archivos/fig4.jpg">
+<p align="center">   
+Fig x. Ventanas de un filtro FIR.
+</p
 
 ## **Tabla resumen**
-### Filtros IIR
+### **Filtros IIR**
 Mencionar el tipo de filtro IIR usado y justificar por qué
 
-### Filtros FIR
+### **Filtros FIR**
 Mencionar el tipo de filtro FIR usado y justificar los dos métodos de ventana elegidos
 
-### Tabla
+### **Tabla**
 
 | Campo  | Señal Cruda  | Filtro IIR | Filtro FIR |
 |:-------------: |:---------------:| :-------------:| :-------------: |
