@@ -75,10 +75,10 @@ Un filtro de respuesta de impulso finito posee un número limitado de términos.
 
 ## **Tabla resumen**
 ### Filtros IIR
-info
+Mencionar el tipo de filtro IIR usado y justificar por qué
 
 ### Filtros FIR
-info
+Mencionar el tipo de filtro FIR usado y justificar los dos métodos de ventana elegidos
 
 ### Tabla
 
@@ -92,7 +92,7 @@ info
 
 
 ***
-## **Creación del Dataset en Python**
+## **Código en Python**
 
 ### Link to GoogleColab
 En el siguiente link, encontrará el código utilizado para la elaboración del Dataset de las señales con python. 
