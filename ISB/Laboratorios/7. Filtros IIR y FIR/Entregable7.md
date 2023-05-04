@@ -82,7 +82,7 @@ Mencionar el tipo de filtro FIR usado y justificar los dos métodos de ventana e
 
 | Aplicando Ventana Hamming  | Aplicando Ventana Blackman  |
 |:-------------: |:---------------:|
-| ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/6.%20Ploteo%20de%20se%C3%B1al%20ECG%20en%20python/Archivos/basalc.jpg)         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/6.%20Ploteo%20de%20se%C3%B1al%20ECG%20en%20python/Archivos/basalc.jpg)          |
+| ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/7.%20Filtros%20IIR%20y%20FIR/Archivos/hamm.png)         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/7.%20Filtros%20IIR%20y%20FIR/Archivos/black.png)          |
 
 
 ### Tabla
