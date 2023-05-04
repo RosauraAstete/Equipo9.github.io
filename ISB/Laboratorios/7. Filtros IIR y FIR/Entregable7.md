@@ -80,7 +80,7 @@ Mencionar el tipo de filtro IIR usado y justificar por qué
 ### Filtros FIR
 Mencionar el tipo de filtro FIR usado y justificar los dos métodos de ventana elegidos
 
-| Aplicando Ventana Hamming  | Aplicando Ventana Blackman  | Aplicando Ventana Blackman  |
+| Aplicando Ventana Hamming  | Aplicando Ventana Blackman  | Comparación de filtros  |
 |:-------------: |:---------------:|:---------------:|
 | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/7.%20Filtros%20IIR%20y%20FIR/Archivos/hamm.png)         | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/7.%20Filtros%20IIR%20y%20FIR/Archivos/black.png)          | ![sinu](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/7.%20Filtros%20IIR%20y%20FIR/Archivos/comparacion.png)          |
 
