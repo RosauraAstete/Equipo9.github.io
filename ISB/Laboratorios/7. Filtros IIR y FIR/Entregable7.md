@@ -80,6 +80,11 @@ Mencionar el tipo de filtro IIR usado y justificar por qué
 ### Filtros FIR
 Mencionar el tipo de filtro FIR usado y justificar los dos métodos de ventana elegidos
 
+| Aplicando Ventana Hamming  | Aplicando Ventana Blackman  |
+|:-------------: |:---------------:|
+| Row 1         | Cell 2          |
+
+
 ### Tabla
 
 | Campo  | Señal Cruda  | Filtro IIR | Filtro FIR |
