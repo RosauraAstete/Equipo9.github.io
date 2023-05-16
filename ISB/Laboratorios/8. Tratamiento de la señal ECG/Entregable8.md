@@ -62,7 +62,23 @@ Se aprecia como el ruido de 60 y 180 Hz desaparece despues del filtrado.
 > Fig 7. Señal ECG filtrada
 
 ## 4. Filtro pasa banda
+Creación de filtro pasa banda
+
+![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/8.%20Tratamiento%20de%20la%20se%C3%B1al%20ECG/Archivos/pasabanda.png)
+> Fig 8. Filtro pasa banda
+
+![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/8.%20Tratamiento%20de%20la%20se%C3%B1al%20ECG/Archivos/se%C3%B1alPB.png)
+> Fig 9. Señal ECG filtrada con pasa banda
+
 ## 5. Filtro pasa alto
+Creación de filtro pasa alto
+
+![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/8.%20Tratamiento%20de%20la%20se%C3%B1al%20ECG/Archivos/pasaalto.png)
+> Fig 10. Filtro pasa alto
+
+![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/8.%20Tratamiento%20de%20la%20se%C3%B1al%20ECG/Archivos/se%C3%B1alPA.png)
+> Fig 11. Señal ECG filtrada con pasa alto
+
 ## 6. Filtrado derivativo
 ## 7. Operador cuadrático
 ## 8. Operador Moving Winfow Integration
