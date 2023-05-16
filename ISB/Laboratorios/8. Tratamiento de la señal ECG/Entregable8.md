@@ -121,5 +121,10 @@ Colocando marcadores de picos
 > Fig 16. Señal ECG con picos marcados
 
 ## 10. Análisis Threshold
+![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/8.%20Tratamiento%20de%20la%20se%C3%B1al%20ECG/Archivos/THRESHOLD.png)
+> Fig 17. Señal ECG con análisis Threshold
+
 ## 11. Complejos QRS
+![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/8.%20Tratamiento%20de%20la%20se%C3%B1al%20ECG/Archivos/QRS.png)
+> Fig 18. Señal ECG y complejos QRS
 
