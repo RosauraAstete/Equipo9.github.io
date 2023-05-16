@@ -18,9 +18,10 @@ El tratamiento consiste de los siguientes pasos:
 10. Realizar el análisis de Threshold: hallar el umbral del pico R y ruidos
 11. Obtener los complejos QRS en la señal ECG inicial
 
-## Conversión a mV
+## 1. Leer el DataSet
 La señal ECG a utilizar en este entregable es la señal de inhalación profunda obtenida en el entregable 4.
 
+### Conversión a mV
 ![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/8.%20Tratamiento%20de%20la%20se%C3%B1al%20ECG/Archivos/se%C3%B1alNUC.png)
 > Fig 2.  Señal ECG
 
@@ -36,13 +37,15 @@ Una vez realizada esta conversión, se obtiene los valores de la señal ECG en m
 ![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/8.%20Tratamiento%20de%20la%20se%C3%B1al%20ECG/Archivos/se%C3%B1alUC.png)
 > Fig 4. Señal ECG en mV
 
-## Analisis en frecuencia
+## 2. Analisis en frecuencia
 Se procede a realizar la FFT de la señal ECG.
 
 ![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/8.%20Tratamiento%20de%20la%20se%C3%B1al%20ECG/Archivos/FFTse%C3%B1al.png)
 > Fig 5. FFT de la señal ECG
 
 Se puede apreciar en la Fig 5. que existe ruido de frecuncias de 60 y 180 Hz, por lo que se procede a realizar un filtrado con filtro digital Notch.
+
+## 3. Filtro Notch
 
 Se aprecia como el ruido de 60 y 180 Hz desaparece despues del filtrado. 
 
@@ -51,4 +54,13 @@ Se aprecia como el ruido de 60 y 180 Hz desaparece despues del filtrado.
 
 ![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/8.%20Tratamiento%20de%20la%20se%C3%B1al%20ECG/Archivos/se%C3%B1alfiltrada.png)
 > Fig 7. Señal ECG filtrada
+
+## 4. Filtro pasa banda
+## 5. Filtro pasa alto
+## 6. Filtrado derivativo
+## 7. Operador cuadrático
+## 8. Operador Moving Winfow Integration
+## 9. Marcar picos
+## 10. Análisis Threshold
+## 11. Complejos QRS
 
