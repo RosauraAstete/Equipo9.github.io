@@ -18,7 +18,7 @@ El tratamiento consiste de los siguientes pasos:
 10. Realizar el análisis de Threshold: hallar el umbral del pico R y ruidos
 11. Obtener los complejos QRS en la señal ECG inicial
 
-## Procedimiento
+## Conversión a mV
 La señal ECG a utilizar en este entregable es la señal de inhalación profunda obtenida en el entregable 4.
 
 ![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/8.%20Tratamiento%20de%20la%20se%C3%B1al%20ECG/Archivos/se%C3%B1alNUC.png)
