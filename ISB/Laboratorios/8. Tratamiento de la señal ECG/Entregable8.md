@@ -18,6 +18,12 @@ El tratamiento consiste de los siguientes pasos:
 10. Realizar el análisis de Threshold: hallar el umbral del pico R y ruidos
 11. Obtener los complejos QRS en la señal ECG inicial
 
+## Código en Google Colab
+El tratamiento de la señal ECG fue realizado en Google Colab. En el siguiente enlace, podrá visualizar los resultados y el código utilizado.
+
+`<link>` : <https://colab.research.google.com/drive/1sgEgrFBqwY6Eeo2MMIpReVEdn0zYfs1W?usp=sharing>
+
+
 ## 1. Leer el DataSet
 La señal ECG a utilizar en este entregable es la señal de inhalación profunda obtenida en el entregable 4.
 
