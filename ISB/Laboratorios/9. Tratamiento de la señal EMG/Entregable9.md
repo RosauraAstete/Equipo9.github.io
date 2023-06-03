@@ -82,6 +82,11 @@ Se utilizó el método de umbral simple para distinguir las activaciones muscula
 
 El valor de RMS = 0.1637931652259006
 
+El cálculo del Root Mean Square (RMS) en electromiografía es importante para obtener una medida cuantitativa de la amplitud de una señal EMG. Al calcular el RMS, se toman en cuenta los valores absolutos de la señal EMG durante un período de tiempo determinado, esto implica elevar al cuadrado los valores de la señal, promediar los resultados y luego tomar la raíz cuadrada del promedio para obtener una medida de la amplitud eficaz de la señal.
+
+
+El RMS se utiliza comúnmente para analizar y caracterizar la actividad eléctrica pues la señal EMG es compleja y variable, y puede contener componentes de frecuencia diferentes; por lo tanto, el cálculo del RMS ayuda a resumir esta señal en un único valor que refleja la magnitud total de la actividad muscular.
+
 
 ### Área bajo la curva
 
