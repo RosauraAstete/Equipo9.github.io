@@ -133,13 +133,4 @@ Colocando marcadores de picos
 
 [2] PLUX-Wireless Biosignals, S.A., "Electrocardiography (ECG) - Sensor Data Sheet", PLUX-Wireless Biosignals, Lisbon, Portugal, ECG 011020, 2020.
 
-[d] M. Mamun, M. Mahmood Hussain, and Faisal Mohd-Yasin, “Techniques of EMG signal analysis: detection, processing, classification and applications,” vol. 8, no. 1, pp. 11–35, Mar. 2006, doi: https://doi.org/10.1251/bpo115.
-‌
 
-[e] H. Nagy and Karthika Durga Veerapaneni, “Myopathy,” Nih.gov, Aug. 22, 2022. https://www.ncbi.nlm.nih.gov/books/NBK562290/#:~:text=cramps%2C%20and%20spasms.-,Myopathies%20are%20a%20heterogeneous%20group%20of%20disorders%20primarily%20affecting%20the,myopathies%20are%20associated%20with%20rhabdomyolysis.
-
-‌[f] “Peripheral Neuropathy,” National Institute of Neurological Disorders and Stroke, 2023. https://www.ninds.nih.gov/health-information/disorders/peripheral-neuropathy.
-
-[g] “Amyotrophic Lateral Sclerosis (ALS),” National Institute of Neurological Disorders and Stroke, 2021. https://www.ninds.nih.gov/health-information/disorders/amyotrophic-lateral-sclerosis-als 
-
-[h] “Amyotrophic Lateral Sclerosis (ALS),” National Institute of Neurological Disorders and Stroke, 2021. https://www.ninds.nih.gov/health-information/disorders/amyotrophic-lateral-sclerosis-als.
