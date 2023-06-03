@@ -70,7 +70,7 @@ Se necesita conocer esta onda para poder diagnosticar y tratar trastornos neurol
 
 
 ![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/10.%20Tratamiento%20de%20la%20se%C3%B1al%20EEG/Archivos/ALFA.jpg)
-> Fig 9. 
+> Fig 9. Banda Alpha de la señal EEG
 
 ---
 ## ¿Qué se puede determinar con el análisis de señales EEG?
@@ -95,8 +95,8 @@ Algunas patologías que se pueden determinar con base en estos parámetro son la
 
 [3] S. Sur and V. Sinha, “Event-related potential: An overview,” vol. 18, no. 1, pp. 70–70, Jan. 2009, doi: https://doi.org/10.4103/0972-6748.57865.
 
-[4]/“Fisiología de la actividad eléctrica del cerebro | FISIOLOGÍA,” fisiologia.facmed.unam.mx. https://fisiologia.facmed.unam.mx/index.php/fisiologia-de-la-actividad-electrica-del-cerebro 
-‌
+[4]/“Fisiología de la actividad eléctrica del cerebro | FISIOLOGÍA,” fisiologia.facmed.unam.mx. https://fisiologia.facmed.unam.mx/index.php/fisiologia-de-la-actividad-electrica-del-cerebro  
+
 [5] J. Sánchez, M. Jofré, and M. Burán, Available: https://www.ucongreso.edu.ar/wp-content/uploads/2020/09/Las-ondas-alfa-del-electroencefalograma-cuantificado-y-su-relacio%CC%81n-con-la-evocacio%CC%81n-imaginaria-de-contenidos-diferenciados.pdf 
 
 ‌‌[6] World, “Epilepsy,” Who.int, Feb. 09, 2023. https://www.who.int/news-room/fact-sheets/detail/epilepsy.
