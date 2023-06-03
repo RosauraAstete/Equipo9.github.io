@@ -108,19 +108,28 @@ El cálculo del área debajo de la curva (ADC) en electromiografía es una medid
 Es importante tener en cuenta que el ADC no brinda información sobre la forma o la frecuencia de la señal EMG, por lo que se utiliza junto con otras medidas para obtener una visión completa de la actividad eléctrica muscular.
 
 ### Potencia Espectral de la Señal
+El potencial espectral de la señal, o también llamado la densidad de potencia espectral (PSD), nos muestra la forma en la que la energía de la señal está distribuída sobre las frecuencias en las que está formada. Se calcula mediante la transformada de Fourier de la señal y proporciona información sobre la intensidad o fuerza de cada componente de frecuencia presente en la señal. Con esta gráfica, se puede calcular la Frecuencia Media Instantánea (IMNF). [a]
+
+Además, se utiliza para examinar el nivel de ruido de una señal en un rango específico de frecuencias. Si se normaliza este espectro, esta medida  se vuelve independiente de la duración de la señal. Esto nos permite comparar señales de diferentes duraciones debido a que con la normalización obtenemos una medida relativa de la distribución de energía en el espectro. [b] 
+
+En la gráfica obtenida vemos que los picos más prominentes se encuentran alrededor de las frecuencias de 50Hz aproximadamente. Estas corresponden a las frecuencias armónicas de la señal. Asimismo, podemos ver que el ancho de banda de los picos es aproximadamente 10 Hz, lo que nos indica que existe una concentración de energía en una frecuencia específica. Por último, vemos que la forma del espectro no es uniforme, es decir, podemos afirmar que nuestra señal tiene frecuencias armónicas. [i]
 
 ![](https://hackmd.io/_uploads/S1a0f7uI3.jpg)
 > Fig 12. Potencia Espectral de la señal EMG
 
 
 ### Potencia Total 
-
 Potencia Total = 0.026677195208098428
 
+La potencia total de una señal se define como la cantidad total de energía o potencia contenida en la señal. Se calcula con la suma de potencias de todas las frecuencias de la señal o mediante la integral de la densidad de potencia espectral (PSD) sobre todo el rango de frecuencias. [c] Este valor nos sirve para hallar algunos otros parámetros así como para caracterizar la señal, comparar la señales y para el control y procesamiento de señales. 
+El valor obtenido es relativamente bajo, lo que nos indica que la energía también es baja. Mientras mayor sea el valor de la potencia total, mayor será la intensidad de la señal. 
 
 ### Frecuencia Media
-
 Frecuencia media = 40.0 Hz
+La frecuencia media de una señal es el promedio de todas las frecuencias presentes en la señal y se calcula mediante la suma de todas las frecuencias y dividiéndola por el número total de frecuencias. [a] Esta frecuencia nos ayuda al momento de caracterizar la señal, realizar el análisis espectral y en el filtrado de las señales, ya que nos puede servir como punto de referencia.
+
+En este caso, un valor de frecuencia media de 40 Hz significa que los valores de las frecuencias se sitúan alrededor de este punto. 
+
 
 ---
 ## ¿Qué se puede determinar con el análisis de señales EMG?
