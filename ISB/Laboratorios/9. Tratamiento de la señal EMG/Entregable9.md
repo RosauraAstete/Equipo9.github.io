@@ -67,7 +67,7 @@ La mayor  concentración de energía en las señales EMG es entre los 50 Hz y 15
 > Fig 9. Señal ECG filtrada con pasa banda
 
 ## 5. Detección de Eventos
-Se utilizó el método de umbral simple para distinguir las activaciones musculares del ruido de fondo. 
+Se utilizó el método de umbral simple para distinguir las activaciones musculares del ruido de fondo. Podemos notar que cuando hay actividad muscular, es decir, una contracción fuerte, la onda cuadrada pasa de baja a alta.
 
 ![](https://hackmd.io/_uploads/HytdjfuI3.jpg)
 > Fig 10. Detección de activación muscular
