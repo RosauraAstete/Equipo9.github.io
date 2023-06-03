@@ -33,45 +33,24 @@ Una vez realizada esta conversión, se obtiene los valores de la señal ECG en m
 ![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/10.%20Tratamiento%20de%20la%20se%C3%B1al%20EEG/Archivos/convertido.png)
 > Fig 4. Señal ECG en mV
 
-## 2. Analisis en frecuencia
-Se procede a realizar la FFT de la señal ECG.
+## 2. Señal Filtrada
+Se procede a filtrar la señal EEG.
 
 ![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/8.%20Tratamiento%20de%20la%20se%C3%B1al%20ECG/Archivos/FFTse%C3%B1al.png)
-> Fig 5. FFT de la señal ECG
-
-Se puede apreciar en la Fig 5. que existe ruido de frecuncias de 60 y 180 Hz, por lo que se procede a realizar un filtrado con filtro digital Notch.
-
-## 3. Filtro Notch
-
-Se aprecia como el ruido de 60 y 180 Hz desaparece despues del filtrado. 
-
-![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/8.%20Tratamiento%20de%20la%20se%C3%B1al%20ECG/Archivos/FFTfiltrada.png)
-> Fig 6. FFT de la señal ECG filtrada
-
-![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/8.%20Tratamiento%20de%20la%20se%C3%B1al%20ECG/Archivos/se%C3%B1alfiltrada.png)
-> Fig 7. Señal ECG filtrada
-
-## 4. Filtro pasa banda
-Creación de filtro pasa banda
-
-![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/8.%20Tratamiento%20de%20la%20se%C3%B1al%20ECG/Archivos/pasabanda.png)
-> Fig 8. Filtro pasa banda
-
-![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/8.%20Tratamiento%20de%20la%20se%C3%B1al%20ECG/Archivos/se%C3%B1alPB.png)
-> Fig 9. Señal ECG filtrada con pasa banda
+> Fig 5. Señal EEG filtrada
 
 ## 5. Detección de ERP
 Ploteo de la señal de audio
 
-![](https://github.com/RosauraAstete/Equipo9.github.io/blob/5d650d4398893f49aa9dffffdabcca82e9757edf/ISB/Laboratorios/10.%20Tratamiento%20de%20la%20se%C3%B1al%20EEG/Archivos/Audio%20Signal.png)
-> Fig 10. Audio plot
+![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/10.%20Tratamiento%20de%20la%20se%C3%B1al%20EEG/Archivos/1.1.png)
+> Fig 6. Audio plot
 
 Ploteo de la señal medida como respuesta al estímulo, en este caso el audio previamente mostrado
-![](https://github.com/RosauraAstete/Equipo9.github.io/blob/5d650d4398893f49aa9dffffdabcca82e9757edf/ISB/Laboratorios/10.%20Tratamiento%20de%20la%20se%C3%B1al%20EEG/Archivos/Se%C3%B1alestimulo.png)
-> Fig 11. Señal EEG obtenida como rspuesta al estímulo
+![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/10.%20Tratamiento%20de%20la%20se%C3%B1al%20EEG/Archivos/1.2.png)
+> Fig 7. Señal EEG obtenida como respuesta al estímulo
 
-![](https://github.com/RosauraAstete/Equipo9.github.io/blob/5d650d4398893f49aa9dffffdabcca82e9757edf/ISB/Laboratorios/10.%20Tratamiento%20de%20la%20se%C3%B1al%20EEG/Archivos/correlcruzada.png)
-> Fig 12. Correlación cruzada entre ambas señales
+![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/10.%20Tratamiento%20de%20la%20se%C3%B1al%20EEG/Archivos/1.3.png)
+> Fig 8. Correlación cruzada entre ambas señales
 
 ## 6. Filtrado derivativo
 En el artículo nos dan la siguiente función que describe al operador:
