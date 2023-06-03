@@ -23,25 +23,25 @@ El tratamiento de la señal EEG fue realizado en Google Colab. En el siguiente e
 La señal EEG a utilizar en este entregable es la señal de inhalación profunda obtenida en el entregable 5.
 
 ### Conversión a mV
-![]()
+![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/10.%20Tratamiento%20de%20la%20se%C3%B1al%20EEG/Archivos/EEGse%C3%B1al.jpeg)
 > Fig 2.  Señal EEG
 
 Esta señal no se encuentra en unidades de voltaje, por lo que habrá que realizar una conversión de unidades para poseer la señal en mV.
 
 Para ello, se realizará una conversión de unidades con la formula de la Figura 3 [2].
 
-![]()
+![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/10.%20Tratamiento%20de%20la%20se%C3%B1al%20EEG/Archivos/formulaEEG.jpeg)
 > Fig 3. Formula de conversión
 
 Una vez realizada esta conversión, se obtiene los valores de la señal EEG en mV.
 
-![](g)
+![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/10.%20Tratamiento%20de%20la%20se%C3%B1al%20EEG/Archivos/EEGmv.jpeg)
 > Fig 4. Señal EEG en mV
 
 ## 2. Señal Filtrada
 Se procede a filtrar la señal EEG.
 
-![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/8.%20Tratamiento%20de%20la%20se%C3%B1al%20ECG/Archivos/FFTse%C3%B1al.png)
+![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/10.%20Tratamiento%20de%20la%20se%C3%B1al%20EEG/Archivos/EEGfiltrada.jpeg)
 > Fig 5. Señal EEG filtrada
 
 ## 5. Detección de ERP
