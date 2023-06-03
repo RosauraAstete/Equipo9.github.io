@@ -26,7 +26,7 @@ Esta señal no se encuentra en unidades de voltaje, por lo que habrá que realiz
 Para ello, se realizará una conversión de unidades con la formula de la Figura 3 [2].
 
 ![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/10.%20Tratamiento%20de%20la%20se%C3%B1al%20EEG/Archivos/formula.png)
-(https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/10.%20Tratamiento%20de%20la%20se%C3%B1al%20EEG/Archivos/formula%202.png)
+![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/10.%20Tratamiento%20de%20la%20se%C3%B1al%20EEG/Archivos/formula%202.png)
 > Fig 3. Formula de conversión
 
 Una vez realizada esta conversión, se obtiene los valores de la señal ECG en mV.
