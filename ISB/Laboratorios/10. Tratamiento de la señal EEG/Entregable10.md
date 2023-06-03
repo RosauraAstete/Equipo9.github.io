@@ -30,7 +30,7 @@ Para ello, se realizará una conversión de unidades con la formula de la Figura
 
 Una vez realizada esta conversión, se obtiene los valores de la señal ECG en mV.
 
-![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/8.%20Tratamiento%20de%20la%20se%C3%B1al%20ECG/Archivos/se%C3%B1alUC.png)
+![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/10.%20Tratamiento%20de%20la%20se%C3%B1al%20EEG/Archivos/convertido.png)
 > Fig 4. Señal ECG en mV
 
 ## 2. Analisis en frecuencia
