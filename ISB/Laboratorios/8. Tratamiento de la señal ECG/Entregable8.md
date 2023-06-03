@@ -129,7 +129,6 @@ Colocando marcadores de picos
 > Fig 18. Señal ECG y complejos QRS
 
 ## ¿Qué se puede determinar con el análisis de señales EMG?
-![]
 Al analizar la amplitud, tendencia central y variabilidad de la señal EMG, se pueden determinar varias patologías y condiciones relacionadas con el sistema neuromuscular. Asimismo, la razón principal del interés en el análisis de señales EMG se encuentra en el diagnóstico clínico y las aplicaciones biomédicas [d]:
 
 Algunas patologías son las siguientes:
