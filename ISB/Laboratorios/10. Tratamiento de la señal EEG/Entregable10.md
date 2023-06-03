@@ -2,17 +2,11 @@
 
 En el siguente entregable, se presentará una señal EEG.
 El tratamiento consiste de los siguientes pasos:
-1.  Leer el DataSet
-2.  Analizar el ECG en frecuencia
-3. Reducir los ruidos con filtro Notch
-4. Filtrar la señal con un filtro pasa banda
-5. Filtrar la señal con un filtro pasa alto
-6. Realizar el filtrado derivativo
-7. Elevar al cuadrado la señal
-8. Emplear el operador Moving Window Integration
-9. Marcar los picos
-10. Realizar el análisis de Threshold: hallar el umbral del pico R y ruidos
-11. Obtener los complejos QRS en la señal ECG inicial
+1. Leer y mostrar los Datos
+2. Cargar los datos
+3. Filtrar la señal con un filtro Notch
+4. Detección de eventos
+5. Extracción de Características
 
 ## Código en Google Colab
 El tratamiento de la señal ECG fue realizado en Google Colab. En el siguiente enlace, podrá visualizar los resultados y el código utilizado.
