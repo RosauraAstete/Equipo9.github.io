@@ -128,6 +128,21 @@ Colocando marcadores de picos
 ![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/8.%20Tratamiento%20de%20la%20se%C3%B1al%20ECG/Archivos/QRS.png)
 > Fig 18. Señal ECG y complejos QRS
 
+## ¿Qué se puede determinar con el análisis de señales EMG?
+![]
+Al analizar la amplitud, tendencia central y variabilidad de la señal EMG, se pueden determinar varias patologías y condiciones relacionadas con el sistema neuromuscular. Asimismo, la razón principal del interés en el análisis de señales EMG se encuentra en el diagnóstico clínico y las aplicaciones biomédicas [d]:
+
+Algunas patologías son las siguientes:
+
+1. Miopatías: Engloban una variedad de trastornos que afectan principalmente la anatomía, el metabolismo o el funcionamiento de los músculos esqueléticos. Estas afecciones suelen manifestarse a través de debilidad muscular que puede interferir con las actividades cotidianas. Al analizar la amplitud de la señal EMG, se puede observar una reducción en la amplitud de la actividad eléctrica en pacientes con miopatías, lo que indica debilidad muscular [e]. 
+
+2. Neuropatías periféricas:Se refiere a una variedad de condiciones en las cuales se produce daño en el sistema nervioso periférico, el cual constituye una amplia red de comunicación encargada de enviar señales entre el sistema nervioso central (el cerebro y la médula espinal) y todas las otras partes del cuerpo. Al analizar la amplitud de la señal EMG, se puede observar una disminución en la amplitud o incluso la ausencia de actividad eléctrica en los músculos afectados [f]. 
+
+3. Esclerosis lateral amiotrófica (ELA): Se trata de una enfermedad neurológica poco común que impacta a las neuronas motoras, es decir, a las células nerviosas ubicadas en el cerebro y la médula espinal encargadas de controlar el movimiento muscular voluntario. En la ELA, el análisis de la amplitud de la señal EMG puede mostrar una disminución en la amplitud de la actividad eléctrica debido a la degeneración de las células nerviosas [g].
+
+4. Síndrome del túnel carpiano: Se trata de una afección neurológica frecuente que se produce cuando el nervio mediano, que se extiende desde el antebrazo hasta la palma de la mano, experimenta compresión o presión en la muñeca. Los síntomas pueden incluir entumecimiento, debilidad, dolor en la mano y la muñeca, así como hinchazón y dificultad para usar los dedos. Al analizar la amplitud de la señal EMG en los músculos afectados, se puede observar una disminución en la amplitud de la actividad eléctrica y posiblemente una menor variabilidad debido a la interferencia en la conducción nerviosa [h]. 
+
+
 # Referencias
 [1] J. PAN, W. J. TOMPKINS, "A Real-Time QRS Detection Algorithm", IEEE Transactions on Biomedical Engineering, vol. 22, pp- 230-236, March 1985.
 
