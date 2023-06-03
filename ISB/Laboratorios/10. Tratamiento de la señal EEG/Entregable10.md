@@ -11,7 +11,7 @@ El tratamiento consiste de los siguientes pasos:
 ## Código en Google Colab
 El tratamiento de la señal ECG fue realizado en Google Colab. En el siguiente enlace, podrá visualizar los resultados y el código utilizado.
 
-`<link>` : <https://colab.research.google.com/drive/1sgEgrFBqwY6Eeo2MMIpReVEdn0zYfs1W?usp=sharing>
+`<link>` : https://colab.research.google.com/drive/1HfNEeCAA7RXt4aH2zUnifKPWNI8O5apw?usp=sharing
 
 
 ## 1. Leer el DataSet
