@@ -70,14 +70,18 @@ Creación de filtro pasa banda
 ![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/8.%20Tratamiento%20de%20la%20se%C3%B1al%20ECG/Archivos/se%C3%B1alPB.png)
 > Fig 9. Señal ECG filtrada con pasa banda
 
-## 5. Filtro pasa alto
-Creación de filtro pasa alto
+## 5. Detección de ERP
+Ploteo de la señal de audio
 
-![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/8.%20Tratamiento%20de%20la%20se%C3%B1al%20ECG/Archivos/pasaalto.png)
-> Fig 10. Filtro pasa alto
+![](https://github.com/RosauraAstete/Equipo9.github.io/blob/5d650d4398893f49aa9dffffdabcca82e9757edf/ISB/Laboratorios/10.%20Tratamiento%20de%20la%20se%C3%B1al%20EEG/Archivos/Audio%20Signal.png)
+> Fig 10. Audio plot
 
-![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/8.%20Tratamiento%20de%20la%20se%C3%B1al%20ECG/Archivos/se%C3%B1alPA.png)
-> Fig 11. Señal ECG filtrada con pasa alto
+Ploteo de la señal medida como respuesta al estímulo, en este caso el audio previamente mostrado
+![](https://github.com/RosauraAstete/Equipo9.github.io/blob/5d650d4398893f49aa9dffffdabcca82e9757edf/ISB/Laboratorios/10.%20Tratamiento%20de%20la%20se%C3%B1al%20EEG/Archivos/Se%C3%B1alestimulo.png)
+> Fig 11. Señal EEG obtenida como rspuesta al estímulo
+
+![](https://github.com/RosauraAstete/Equipo9.github.io/blob/5d650d4398893f49aa9dffffdabcca82e9757edf/ISB/Laboratorios/10.%20Tratamiento%20de%20la%20se%C3%B1al%20EEG/Archivos/correlcruzada.png)
+> Fig 12. Correlación cruzada entre ambas señales
 
 ## 6. Filtrado derivativo
 En el artículo nos dan la siguiente función que describe al operador:
