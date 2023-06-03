@@ -18,8 +18,8 @@ El tratamiento de la señal ECG fue realizado en Google Colab. En el siguiente e
 La señal ECG a utilizar en este entregable es la señal de inhalación profunda obtenida en el entregable 4.
 
 ### Conversión a mV
-![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/8.%20Tratamiento%20de%20la%20se%C3%B1al%20ECG/Archivos/se%C3%B1alNUC.png)
-> Fig 2.  Señal ECG
+![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/10.%20Tratamiento%20de%20la%20se%C3%B1al%20EEG/Archivos/se%C3%B1al%20basal%20EEG.png)
+> Fig 2.  Señal EEG
 
 Esta señal no se encuentra en unidades de voltaje, por lo que habrá que realizar una conversión de unidades para poseer la señal en mV.
 
