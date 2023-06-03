@@ -52,14 +52,14 @@ Los ERPs se caracterizan por su forma y tiempo de aparición en relación con el
 
 Ploteo de la señal de audio
 
-![]()
+![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/10.%20Tratamiento%20de%20la%20se%C3%B1al%20EEG/Archivos/audiosignaL.jpeg)
 > Fig 6. Audio plot
 
 Ploteo de la señal medida como respuesta al estímulo, en este caso el audio previamente mostrado
-![]()
+![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/10.%20Tratamiento%20de%20la%20se%C3%B1al%20EEG/Archivos/EEGestimulate.jpeg)
 > Fig 7. Señal EEG obtenida como respuesta al estímulo
 
-![]()
+![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/10.%20Tratamiento%20de%20la%20se%C3%B1al%20EEG/Archivos/crosss.jpeg)
 > Fig 8. Correlación cruzada entre ambas señales
 
 ## 6. Extracción de la banda Alfa
