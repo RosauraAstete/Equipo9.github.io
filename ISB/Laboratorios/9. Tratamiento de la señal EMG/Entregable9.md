@@ -1,47 +1,42 @@
-# Tratamiento de señales LAB 9
+# Tratamiento de señales EMG
 
-En el siguente entregable, se presentará una señal ECG tratada. El tratamiento realizado está basado en la investigación *A Real-Time QRS Detection Algorithm* publicado por la organización IEEE [1].
-
-![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/8.%20Tratamiento%20de%20la%20se%C3%B1al%20ECG/Archivos/paper.PNG)
->Fig 1. Investigación *A Real-Time QRS Detection Algorithm*
+En el siguente entregable, se presentará una señal EMG tratada. El tratamiento realizado permitirá mejorar la calidad de la señal y obtener datos cuantitativos y cualitativos sobre la actividad eléctrica de los músculos.
 
 El tratamiento consiste de los siguientes pasos:
-1.  Leer el DataSet
-2.  Analizar el ECG en frecuencia
-3. Reducir los ruidos con filtro Notch
+1. Leer y mostrar los Datos
+2. Cargar los datos
+3. Filtrar la señal con un filtro Notch
 4. Filtrar la señal con un filtro pasa banda
-5. Filtrar la señal con un filtro pasa alto
-6. Realizar el filtrado derivativo
-7. Elevar al cuadrado la señal
-8. Emplear el operador Moving Window Integration
-9. Marcar los picos
-10. Realizar el análisis de Threshold: hallar el umbral del pico R y ruidos
-11. Obtener los complejos QRS en la señal ECG inicial
+5. Detección de eventos
+6. Extracción de Características
 
 ## Código en Google Colab
-El tratamiento de la señal ECG fue realizado en Google Colab. En el siguiente enlace, podrá visualizar los resultados y el código utilizado.
+El tratamiento de la señal EMG fue realizado en Google Colab. En el siguiente enlace, podrá visualizar los resultados y el código utilizado.
 
-`<link>` : <https://colab.research.google.com/drive/1sgEgrFBqwY6Eeo2MMIpReVEdn0zYfs1W?usp=sharing>
+`<link>` : https://colab.research.google.com/drive/1c3p3u3bgV1so3WMKKvJRaMzL6VFXSStj?usp=sharing 
 
 
-## 1. Leer el DataSet
-La señal ECG a utilizar en este entregable es la señal de inhalación profunda obtenida en el entregable 4.
+## 1. Leer y Mostrar los datos
+La señal EMG a utilizar en este entregable es la captada en el entregable número 3.
+
+Archivo txt: [Señal EMG](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/9.%20Tratamiento%20de%20la%20se%C3%B1al%20EMG/Archivos/Se%C3%B1alEMG.txt)
 
 ### Conversión a mV
-![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/8.%20Tratamiento%20de%20la%20se%C3%B1al%20ECG/Archivos/se%C3%B1alNUC.png)
-> Fig 2.  Señal ECG
+
+![](https://hackmd.io/_uploads/ryM0iWuLn.jpg)
+> Fig 2.  Señal EMG
 
 Esta señal no se encuentra en unidades de voltaje, por lo que habrá que realizar una conversión de unidades para poseer la señal en mV.
 
-Para ello, se realizará una conversión de unidades con la formula de la Figura 3 [2].
+Para ello, se realizará una conversión de unidades con la formula de la Figura 3 [1].
 
-![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/8.%20Tratamiento%20de%20la%20se%C3%B1al%20ECG/Archivos/formula.PNG)
+![](https://hackmd.io/_uploads/HkTicWuL2.png)
 > Fig 3. Formula de conversión
 
-Una vez realizada esta conversión, se obtiene los valores de la señal ECG en mV.
+Una vez realizada esta conversión, se obtiene los valores de la señal EMG en mV.
 
-![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/8.%20Tratamiento%20de%20la%20se%C3%B1al%20ECG/Archivos/se%C3%B1alUC.png)
-> Fig 4. Señal ECG en mV
+![](https://hackmd.io/_uploads/ryIQT-u82.jpg)
+> Fig 4. Señal EMG en mV
 
 ## 2. Analisis en frecuencia
 Se procede a realizar la FFT de la señal ECG.
