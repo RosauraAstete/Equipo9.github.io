@@ -1,4 +1,4 @@
-# Tratamiento de señales EEG LAB 10
+# Tratamiento de señales EEG 
 
 En el siguente entregable, se presentará una señal ECG tratada. El tratamiento realizado está basado en la investigación *A Real-Time QRS Detection Algorithm* publicado por la organización IEEE [1].
 
