@@ -66,8 +66,41 @@ La mayor  concentración de energía en las señales EMG es entre los 50 Hz y 15
 ![](https://hackmd.io/_uploads/HJeLUzuIn.jpg)
 > Fig 9. Señal ECG filtrada con pasa banda
 
-## 6. Filtrado derivativo
+## 5. Detección de Eventos
+Se utilizó el método de umbral simple para distinguir las activaciones musculares del ruido de fondo. 
 
+![](https://hackmd.io/_uploads/HytdjfuI3.jpg)
+> Fig 10. Detección de activación muscular
+
+## 6. Extracción de Características
+
+### Máximo, Mínimo, Promedio y Desviación Estándar
+![](https://hackmd.io/_uploads/r1Nj3Gd83.jpg)
+> Fig 11. Máximo, Mínimo, Promedio y Desviación Estándar de la señal EMG
+
+### Root Mean Square
+
+El valor de RMS = 0.1637931652259006
+
+
+### Área bajo la curva
+
+Area bajo la curva = [ 0.06718251,  0.13086815,  0.05141693, ..., -0.046185,  -0.01205472,  0.04502639 ]
+
+### Potencia Espectral de la Señal
+
+![](https://hackmd.io/_uploads/S1a0f7uI3.jpg)
+> Fig 12. Potencia Espectral de la señal EMG
+
+### Potencia Total 
+
+Potencia Total = 0.026677195208098428
+
+### Frecuencia Media
+
+Frecuencia media = 40.0 Hz
+
+---
 
 # Referencias
 
