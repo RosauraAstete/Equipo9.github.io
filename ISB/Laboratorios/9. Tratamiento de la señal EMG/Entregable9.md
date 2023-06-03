@@ -78,6 +78,17 @@ Se utilizó el método de umbral simple para distinguir las activaciones muscula
 ![](https://hackmd.io/_uploads/r1Nj3Gd83.jpg)
 > Fig 11. Máximo, Mínimo, Promedio y Desviación Estándar de la señal EMG
 
+* El máximo es el valor más alto alcanzado por la señal EMG en un período de tiempo determinado. Representa la amplitud máxima de la actividad muscular registrada y puede ser útil para identificar momentos de máxima contracción o picos de actividad.
+
+* El mínimo es el valor más bajo alcanzado por la señal EMG en un período de tiempo determinado. Representa la amplitud mínima de la actividad muscular registrada y puede ser útil para identificar momentos de mínima contracción o periodos de relajación.
+
+* El promedio se calcula sumando todos los valores de la señal EMG y dividiendo por el número total de muestras. Representa la tendencia central de la señal y proporciona una medida de la actividad muscular promedio durante el período de tiempo analizado.
+
+* La desviación estándar es una medida de la variabilidad o dispersión de los valores de la señal EMG con respecto a su promedio. Proporciona información sobre la amplitud de las fluctuaciones en la actividad muscular y puede ser útil para evaluar la estabilidad o variabilidad de la señal.
+
+Estas medidas estadísticas son comunes utilizadas para caracterizar una señal EMG, pues proporcionan información sobre la amplitud, tendencia central y variabilidad de la señal importantes para caracterizar y entender la amplitud, tendencia y variabilidad de la señal EMG, y pueden ser utilizadas en la evaluación clínica, la investigación científica y el monitoreo del rendimiento muscular.
+
+
 ### Root Mean Square
 
 El valor de RMS = 0.1637931652259006
@@ -92,14 +103,20 @@ El RMS se utiliza comúnmente para analizar y caracterizar la actividad eléctri
 
 Area bajo la curva = [ 0.06718251,  0.13086815,  0.05141693, ..., -0.046185,  -0.01205472,  0.04502639 ]
 
+El cálculo del área debajo de la curva (ADC) en electromiografía es una medida importante para evaluar la amplitud acumulada de la actividad muscular en un intervalo de tiempo determinado. El ADC representa la integral de la señal EMG en un tiempo específico y se utiliza para comparar la actividad entre músculos, condiciones o sujetos, así como para evaluar la fatiga muscular. 
+
+Es importante tener en cuenta que el ADC no brinda información sobre la forma o la frecuencia de la señal EMG, por lo que se utiliza junto con otras medidas para obtener una visión completa de la actividad eléctrica muscular.
+
 ### Potencia Espectral de la Señal
 
 ![](https://hackmd.io/_uploads/S1a0f7uI3.jpg)
 > Fig 12. Potencia Espectral de la señal EMG
 
+
 ### Potencia Total 
 
 Potencia Total = 0.026677195208098428
+
 
 ### Frecuencia Media
 
