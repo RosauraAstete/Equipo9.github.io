@@ -69,11 +69,11 @@ Se necesita conocer esta onda para poder diagnosticar y tratar trastornos neurol
 
 
 
-![]()
-> Fig 9. Señal ECG y complejos QRS
+![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/10.%20Tratamiento%20de%20la%20se%C3%B1al%20EEG/Archivos/ALFA.jpg)
+> Fig 9. 
 
 ---
-## ¿Qué se puede determinar con el análisis de señales EMG?
+## ¿Qué se puede determinar con el análisis de señales EEG?
 El análisis de la amplitud, tendencia central y variabilidad de la señal del electroencefalograma (EEG) puede ser útil para caracterizar y comprender diversas patologías y trastornos del sistema nervioso central. 
 
 Algunas patologías que se pueden determinar con base en estos parámetro son las siguientes:
