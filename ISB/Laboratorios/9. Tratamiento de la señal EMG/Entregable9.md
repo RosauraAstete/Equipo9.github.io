@@ -108,11 +108,11 @@ El cálculo del área debajo de la curva (ADC) en electromiografía es una medid
 Es importante tener en cuenta que el ADC no brinda información sobre la forma o la frecuencia de la señal EMG, por lo que se utiliza junto con otras medidas para obtener una visión completa de la actividad eléctrica muscular.
 
 ### Potencia Espectral de la Señal
-El potencial espectral de la señal, o también llamado la densidad de potencia espectral (PSD), nos muestra la forma en la que la energía de la señal está distribuída sobre las frecuencias en las que está formada. Se calcula mediante la transformada de Fourier de la señal y proporciona información sobre la intensidad o fuerza de cada componente de frecuencia presente en la señal. Con esta gráfica, se puede calcular la Frecuencia Media Instantánea (IMNF). [a]
+El potencial espectral de la señal, o también llamado la densidad de potencia espectral (PSD), nos muestra la forma en la que la energía de la señal está distribuída sobre las frecuencias en las que está formada. Se calcula mediante la transformada de Fourier de la señal y proporciona información sobre la intensidad o fuerza de cada componente de frecuencia presente en la señal. Con esta gráfica, se puede calcular la Frecuencia Media Instantánea (IMNF). [3]
 
-Además, se utiliza para examinar el nivel de ruido de una señal en un rango específico de frecuencias. Si se normaliza este espectro, esta medida  se vuelve independiente de la duración de la señal. Esto nos permite comparar señales de diferentes duraciones debido a que con la normalización obtenemos una medida relativa de la distribución de energía en el espectro. [b] 
+Además, se utiliza para examinar el nivel de ruido de una señal en un rango específico de frecuencias. Si se normaliza este espectro, esta medida  se vuelve independiente de la duración de la señal. Esto nos permite comparar señales de diferentes duraciones debido a que con la normalización obtenemos una medida relativa de la distribución de energía en el espectro. [4] 
 
-En la gráfica obtenida vemos que los picos más prominentes se encuentran alrededor de las frecuencias de 50Hz aproximadamente. Estas corresponden a las frecuencias armónicas de la señal. Asimismo, podemos ver que el ancho de banda de los picos es aproximadamente 10 Hz, lo que nos indica que existe una concentración de energía en una frecuencia específica. Por último, vemos que la forma del espectro no es uniforme, es decir, podemos afirmar que nuestra señal tiene frecuencias armónicas. [i]
+En la gráfica obtenida vemos que los picos más prominentes se encuentran alrededor de las frecuencias de 50Hz aproximadamente. Estas corresponden a las frecuencias armónicas de la señal. Asimismo, podemos ver que el ancho de banda de los picos es aproximadamente 10 Hz, lo que nos indica que existe una concentración de energía en una frecuencia específica. Por último, vemos que la forma del espectro no es uniforme, es decir, podemos afirmar que nuestra señal tiene frecuencias armónicas. [5]
 
 ![](https://hackmd.io/_uploads/S1a0f7uI3.jpg)
 > Fig 12. Potencia Espectral de la señal EMG
@@ -121,7 +121,7 @@ En la gráfica obtenida vemos que los picos más prominentes se encuentran alred
 ### Potencia Total 
 Potencia Total = 0.026677195208098428
 
-La potencia total de una señal se define como la cantidad total de energía o potencia contenida en la señal. Se calcula con la suma de potencias de todas las frecuencias de la señal o mediante la integral de la densidad de potencia espectral (PSD) sobre todo el rango de frecuencias. [c] Este valor nos sirve para hallar algunos otros parámetros así como para caracterizar la señal, comparar la señales y para el control y procesamiento de señales. 
+La potencia total de una señal se define como la cantidad total de energía o potencia contenida en la señal. Se calcula con la suma de potencias de todas las frecuencias de la señal o mediante la integral de la densidad de potencia espectral (PSD) sobre todo el rango de frecuencias. [6] Este valor nos sirve para hallar algunos otros parámetros así como para caracterizar la señal, comparar la señales y para el control y procesamiento de señales. 
 El valor obtenido es relativamente bajo, lo que nos indica que la energía también es baja. Mientras mayor sea el valor de la potencia total, mayor será la intensidad de la señal. 
 
 ### Frecuencia Media
@@ -133,17 +133,17 @@ En este caso, un valor de frecuencia media de 40 Hz significa que los valores de
 
 ---
 ## ¿Qué se puede determinar con el análisis de señales EMG?
-Al analizar la amplitud, tendencia central y variabilidad de la señal EMG, se pueden determinar varias patologías y condiciones relacionadas con el sistema neuromuscular. Asimismo, la razón principal del interés en el análisis de señales EMG se encuentra en el diagnóstico clínico y las aplicaciones biomédicas [d]:
+Al analizar la amplitud, tendencia central y variabilidad de la señal EMG, se pueden determinar varias patologías y condiciones relacionadas con el sistema neuromuscular. Asimismo, la razón principal del interés en el análisis de señales EMG se encuentra en el diagnóstico clínico y las aplicaciones biomédicas [7]:
 
 Algunas patologías son las siguientes:
 
-1. Miopatías: Engloban una variedad de trastornos que afectan principalmente la anatomía, el metabolismo o el funcionamiento de los músculos esqueléticos. Estas afecciones suelen manifestarse a través de debilidad muscular que puede interferir con las actividades cotidianas. Al analizar la amplitud de la señal EMG, se puede observar una reducción en la amplitud de la actividad eléctrica en pacientes con miopatías, lo que indica debilidad muscular [e]. 
+1. Miopatías: Engloban una variedad de trastornos que afectan principalmente la anatomía, el metabolismo o el funcionamiento de los músculos esqueléticos. Estas afecciones suelen manifestarse a través de debilidad muscular que puede interferir con las actividades cotidianas. Al analizar la amplitud de la señal EMG, se puede observar una reducción en la amplitud de la actividad eléctrica en pacientes con miopatías, lo que indica debilidad muscular [8]. 
 
-2. Neuropatías periféricas:Se refiere a una variedad de condiciones en las cuales se produce daño en el sistema nervioso periférico, el cual constituye una amplia red de comunicación encargada de enviar señales entre el sistema nervioso central (el cerebro y la médula espinal) y todas las otras partes del cuerpo. Al analizar la amplitud de la señal EMG, se puede observar una disminución en la amplitud o incluso la ausencia de actividad eléctrica en los músculos afectados [f]. 
+2. Neuropatías periféricas:Se refiere a una variedad de condiciones en las cuales se produce daño en el sistema nervioso periférico, el cual constituye una amplia red de comunicación encargada de enviar señales entre el sistema nervioso central (el cerebro y la médula espinal) y todas las otras partes del cuerpo. Al analizar la amplitud de la señal EMG, se puede observar una disminución en la amplitud o incluso la ausencia de actividad eléctrica en los músculos afectados [9]. 
 
-3. Esclerosis lateral amiotrófica (ELA): Se trata de una enfermedad neurológica poco común que impacta a las neuronas motoras, es decir, a las células nerviosas ubicadas en el cerebro y la médula espinal encargadas de controlar el movimiento muscular voluntario. En la ELA, el análisis de la amplitud de la señal EMG puede mostrar una disminución en la amplitud de la actividad eléctrica debido a la degeneración de las células nerviosas [g].
+3. Esclerosis lateral amiotrófica (ELA): Se trata de una enfermedad neurológica poco común que impacta a las neuronas motoras, es decir, a las células nerviosas ubicadas en el cerebro y la médula espinal encargadas de controlar el movimiento muscular voluntario. En la ELA, el análisis de la amplitud de la señal EMG puede mostrar una disminución en la amplitud de la actividad eléctrica debido a la degeneración de las células nerviosas [10].
 
-4. Síndrome del túnel carpiano: Se trata de una afección neurológica frecuente que se produce cuando el nervio mediano, que se extiende desde el antebrazo hasta la palma de la mano, experimenta compresión o presión en la muñeca. Los síntomas pueden incluir entumecimiento, debilidad, dolor en la mano y la muñeca, así como hinchazón y dificultad para usar los dedos. Al analizar la amplitud de la señal EMG en los músculos afectados, se puede observar una disminución en la amplitud de la actividad eléctrica y posiblemente una menor variabilidad debido a la interferencia en la conducción nerviosa [h]. 
+4. Síndrome del túnel carpiano: Se trata de una afección neurológica frecuente que se produce cuando el nervio mediano, que se extiende desde el antebrazo hasta la palma de la mano, experimenta compresión o presión en la muñeca. Los síntomas pueden incluir entumecimiento, debilidad, dolor en la mano y la muñeca, así como hinchazón y dificultad para usar los dedos. Al analizar la amplitud de la señal EMG en los músculos afectados, se puede observar una disminución en la amplitud de la actividad eléctrica y posiblemente una menor variabilidad debido a la interferencia en la conducción nerviosa [11]. 
 
 ---
 # Referencias
@@ -153,15 +153,20 @@ Algunas patologías son las siguientes:
 [2] U. Nacional De Colombia, C. Romo, H. Realpe, and J. Jojoa. "Análisis de Señales EMG Superficiales y su 
 Aplicación en Control de Prótesis de Mano". Revista Avances en Sistemas e Informática, vol. 4, pp. 127–136, 2007, Available: https://www.redalyc.org/pdf/1331/133116856017.pdf
 
-[3]
-
-[d] M. Mamun, M. Mahmood Hussain, and Faisal Mohd-Yasin, “Techniques of EMG signal analysis: detection, processing, classification and applications,” vol. 8, no. 1, pp. 11–35, Mar. 2006, doi: https://doi.org/10.1251/bpo115.
+[3] J. L. Correa-Figueroa, E. Morales-Sánchez, J. A. Huerta-Ruelas, José-Joel Gonzalez-Barbosa, and C. R. Cárdenas-Pérez, “SEMG signal acquisition system for muscle fatigue detection,” Jan. 2016, doi: https://doi.org/10.17488/rmib.37.1.4.
 ‌
+[4] J. Correa-Figueroa, E. Morales-Sánchez, J. Huerta-Ruelas, J. González-Barbosa, and C. Cárdenas-Pérez, “REVISTA MEXICANA DE INGENIERÍA BIOMÉDICA ib Sistema de Adquisición de Señales SEMG para la Detección de Fatiga Muscular,” vol. 37, no. 1, pp. 17–27, 2016, doi: https://doi.org/10.17488/RMIB.37.1.4.
+‌
+[5] G. Pequera and P. Biología, “Análisis tiempo-frecuencia de la.” Available: https://www.colibri.udelar.edu.uy/jspui/bitstream/20.500.12008/8156/1/uy24-17718.pdf
 
-[e] H. Nagy and Karthika Durga Veerapaneni, “Myopathy,” Nih.gov, Aug. 22, 2022. https://www.ncbi.nlm.nih.gov/books/NBK562290/#:~:text=cramps%2C%20and%20spasms.-,Myopathies%20are%20a%20heterogeneous%20group%20of%20disorders%20primarily%20affecting%20the,myopathies%20are%20associated%20with%20rhabdomyolysis.
+[6] M. o Gonçalves. Levantamento manual de carga repetitivo de curta duração com e sem o uso de cinto pélvico: efeito sobre a atividade EMG normalizada por diferentesv indicadores. Available: https://www.researchgate.net/profile/Mauro-Goncalves/publication/26623006_Effect_of_a_pelvic_belt_on_EMG_activity_during_manual_load_lifting/links/02e7e51d7246b0c856000000/Effect-of-a-pelvic-belt-on-EMG-activity-during-manual-load-lifting.pdf
 
-‌[f] “Peripheral Neuropathy,” National Institute of Neurological Disorders and Stroke, 2023. https://www.ninds.nih.gov/health-information/disorders/peripheral-neuropathy.
+[7] M. Mamun, M. Mahmood Hussain, and Faisal Mohd-Yasin, “Techniques of EMG signal analysis: detection, processing, classification and applications,” vol. 8, no. 1, pp. 11–35, Mar. 2006, doi: https://doi.org/10.1251/bpo115.
+‌
+[8] H. Nagy and Karthika Durga Veerapaneni, “Myopathy,” Nih.gov, Aug. 22, 2022. https://www.ncbi.nlm.nih.gov/books/NBK562290/#:~:text=cramps%2C%20and%20spasms.-,Myopathies%20are%20a%20heterogeneous%20group%20of%20disorders%20primarily%20affecting%20the,myopathies%20are%20associated%20with%20rhabdomyolysis.
 
-[g] “Amyotrophic Lateral Sclerosis (ALS),” National Institute of Neurological Disorders and Stroke, 2021. https://www.ninds.nih.gov/health-information/disorders/amyotrophic-lateral-sclerosis-als 
+‌[9] “Peripheral Neuropathy,” National Institute of Neurological Disorders and Stroke, 2023. https://www.ninds.nih.gov/health-information/disorders/peripheral-neuropathy.
 
-[h] “Amyotrophic Lateral Sclerosis (ALS),” National Institute of Neurological Disorders and Stroke, 2021. https://www.ninds.nih.gov/health-information/disorders/amyotrophic-lateral-sclerosis-als.
+[10] “Amyotrophic Lateral Sclerosis (ALS),” National Institute of Neurological Disorders and Stroke, 2021. https://www.ninds.nih.gov/health-information/disorders/amyotrophic-lateral-sclerosis-als 
+
+[11] “Amyotrophic Lateral Sclerosis (ALS),” National Institute of Neurological Disorders and Stroke, 2021. https://www.ninds.nih.gov/health-information/disorders/amyotrophic-lateral-sclerosis-als.
