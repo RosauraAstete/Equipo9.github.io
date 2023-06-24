@@ -1,25 +1,83 @@
 
 # Uso del Kit Arduino TinyML
 
-## ¿Qué es el balanceo de datos?
+## Objetivos del laboratorio
 
-A menudo, los datos del mundo real no están disponibles según nuestras expectativas, tienen muchas irregularidades y es un desafío tratar con esos datos. Uno de los principales obstáculos en el manejo de tales datos es que están desequilibrados. El balanceo de datos, es una técnica utilizada en el procesamiento de datos, especialmente en el campo del aprendizaje automático (Machine Learning) y la minería de datos, para abordar el desequilibrio de clases en un conjunto de datos [1].
+* Conocer los aspectos básicos del TinyML con el Arduino 33 BLE Sense.
+* Explorar la plataforma Edge Impulse. 
+* Conectar el Arduino nano 33 BLE Sense con Arduino y explorar ejemplos de TinyML.
 
-## Balanceo de Datos e Inteligencia Artificial
+## Materiales
 
-El rendimiento general de los modelos de Machine Learning basados en conjuntos de datos desequilibrados se verá limitado por su capacidad para predecir puntos raros y minoritarios. Los conjuntos de datos desequilibrados crean desafíos para el modelado predictivo. 
+| Modelo | Descripción | Cantidad |
+|:--------:|:--------:|:--------:|
+| TinyML Kit   | EL Kit incluye: Arduino nano 33 BLE, CámaraOV7675, Tiny ML Shield y cable USB   | 1   |
+| -    | Laptop o PC   | 1   |
 
-Equilibrar un conjunto de datos facilita el entrenamiento de un modelo, pues ayuda a evitar que este se sesgue hacia una clase. En otras palabras, el modelo ya no favorecerá a la clase mayoritaria solo por contener más datos [2].
+## Fundamentos
 
-El balanceo de datos busca corregir esta desproporción mediante diferentes técnicas. Algunas de las técnicas comunes utilizadas para equilibrar los datos incluyen [1][3]:
+1. Tiny ML kit
 
-- Submuestreo (undersampling): Consiste en eliminar aleatoriamente ejemplos de la clase mayoritaria hasta alcanzar un equilibrio entre las clases. Es relativamente simple de implementar y puede mejorar el tiempo de ejecución del modelo y los costos de cómputo. Sin embargo, debe realizarse con cuidado, ya que la eliminación de muestras del conjunto de datos original podría provocar la pérdida de información útil.
+    1.1. Arduino nano 33 BLE [1]:
+   
+      Comparte su configuración de pines con el Arduino Nano clásico, pero se basa en el microcontrolador nRF52840 con memoria flash de CPU de 1 MB. Con una unidad de medición inercial de 9 ejes y la posibilidad de conectividad Bluetooth Low Energy. 
+      Algunas especificaciones técnicas:
+      - Pin LED incorporado: 13
+      - Pines de E/S digitales: 14
+      - Pines de entrada lógica: 8
+      - Pines PWM: 5
+      - Interrupciones externas: Todos los pines digitales
+      - Bluetooth: NINA-B306
+      - Microcontrolador : nRF52840
+      - Tensión de funcionamiento : 3.3 V
+      - Voltaje de entrada (límite) : 21 V 
+      - Velocidad de reloj : 64 MHz 
+      - Memoria flash de la CPU : 1MB (nRF52840) 
+      - SRAM : 256 KB (nRF52840)
+        
+  
+      1.2. Cámara OV7675: 
+      
+    Este es un sensor de obturador rodante, que captura una columna (o fila) completa simultáneamente y compila la imagen al escanear a través (o hacia abajo). Cuenta con el sensor de color OV7675 (U6037) de OmniVision. El sensor tiene un formato óptico de 1/9,0″, que combinado con el tamaño de píxel de 2,5 µm x 2,5 µm, proporciona una imagen VGA de 0,3 MP (640 x 480) [2]. 
+    Algunas especificaciones técnicas son:
+    - Tamaño de matriz activa: 640 × 480
+    - Fuente de alimentación:
+      - Analógica: 2,6 ~ 3,0 V
+      - Núcleo: 1,5 V CC + 5 % (regulador interno)
+      - E/S: 1,71 ~ 3,0 V
+    - Requisitos de energía:
+      - Activo: 98 mW
+      - En espera: 60 μW
+    - Rango de temperatura:
+      - Funcionamiento: -30°C a 70°C 
+      - Imagen estable: 0°C a 50°C
+    - Tamaño de lente: 1/9″
+    - Frecuencia de reloj de entrada: 1,5 ~ 27 MHz
+    - Relación señal/ruido: 38dB
+    - Tamaño de píxel: 2,5 μm x 2,5 μm
+    - Área de imagen: 1640 μm x 1220 μm [3]
+  
+2. Edge impulse
 
-- Sobremuestreo (oversampling): Implica replicar aleatoriamente ejemplos de la clase minoritaria para igualar la cantidad de muestras en ambas clases. Sin embargo, debido a que la clase minoritaria todavía se compone de una cantidad limitada de puntos de datos únicos, el modelo es susceptible de memorizar patrones de datos y sobreajuste. 
+Es una plataforma de machine learning diseñada específicamente para la creación y despliegue de modelos de inteligencia artificial en edge devices.
+Permite entrenar modelos de aprendizaje automático y crear soluciones de inteligencia artificial que se ejecutan directamente en estos dispositivos de borde, sin necesidad de depender de una conexión a Internet o de una infraestructura de nube. Asimismo, proporciona herramientas y recursos para adquirir datos, etiquetarlos, entrenar modelos de aprendizaje automático y realizar pruebas en tiempo real [4].
 
-- Generación sintética de muestras: Se utilizan algoritmos para generar nuevas muestras sintéticas de la clase minoritaria, basadas en las muestras existentes. Esto aborda el desequilibrio sin duplicar directamente las muestras existentes y puede ser útil cuando el conjunto de datos es limitado. Ejemplo: método SMOTE [4]. 
+3. Reconocimiento de imágenes
 
----
+La identificación de objetos o características en imágenes o videos es conocida como reconocimiento de imágenes. Este proceso se emplea en diversas aplicaciones, como la detección de fallas, el manejo de imágenes médicas y la vigilancia de seguridad.
+
+Algunas aplicaciones:
+
+- Inspección visual: Proceso de detectar piezas defectuosas o no defectuosas durante la fabricación. Permite examinar de manera eficiente miles de piezas en una cadena de producción.
+
+- Clasificación de imágenes: Consiste en organizar imágenes en diferentes categorías según su contenido. Es especialmente valiosa en aplicaciones como la recuperación de imágenes y los sistemas de recomendación en el comercio electrónico.
+
+- Conducción autónoma: Implica la capacidad de reconocer señales de alto o peatones en imágenes, lo cual es crucial en las aplicaciones de conducción autónoma.
+
+- En robótica: Se utiliza para mejorar la navegación autónoma de los robots, así como para identificar ubicaciones y objetos en su trayectoria.
+
+Hay diversos enfoques para el reconocimiento de imágenes, que abarcan técnicas de aprendizaje automático (Machine Learning) y aprendizaje profundo (Deep Learning). La elección de la técnica a emplear depende de la aplicación en cuestión. Sin embargo, en términos generales, cuanto más complejo sea el problema, es más probable que se utilicen técnicas de Deep Learning [5].
+
 
 ## Código en Google Colab
 El Balanceo de Datos fue realizado en Google Colab. En el siguiente enlace, podrá visualizar los resultados y el código utilizado.
@@ -52,14 +110,17 @@ La diferencia entre precision y recall disminuye.
 > Fig 4. Reporte del modelo
 
 ---
+## Video Explicativo
 
 
-# Referencias
-[1] T. A. Team, “Imbalanced Data and How to Balance It – Towards AI,” towardsai.net. https://towardsai.net/p/l/imbalanced-data-and-how-to-balance-it
 
-[2] “Balanced and Imbalanced Datasets in Machine Learning [Introduction],” encord.com. https://encord.com/blog/an-introduction-to-balanced-and-imbalanced-datasets-in-machine-learning/
+## Referencias
+[1] “Nano 33 BLE | Arduino Documentation,” Arduino.cc, 2023. https://docs.arduino.cc/hardware/nano-33-ble.
 
-[3] He, H., & Garcia, E. A. (2009). Learning from imbalanced data. IEEE Transactions on knowledge and data engineering, 21(9), 1263-1284.
+[2] “OV7675 - 0.3 MP Camera Module w/ Stock Lens • dlscorp,” dlscorp, Jul. 23, 2022. 
 
-[4] Chawla, N. V., Bowyer, K. W., Hall, L. O., & Kegelmeyer, W. P. (2002). SMOTE: Synthetic minority over-sampling technique. Journal of artificial intelligence research, 16, 321-357.
+[3] “0.3MP: OV7675 CMOS VGA Camera Module,” Arducam, Aug. 22, 2021. https://www.arducam.com/products/camera-breakout-board/0-3mp-ov7675/
 
+[4] “Edge Impulse,” Edgeimpulse.com, 2023. https://www.edgeimpulse.com/ 
+
+[5] “¿Qué es el reconocimiento de imágenes?,” Mathworks.com, 2023. https://es.mathworks.com/discovery/image-recognition matlab.html#:~:text=El%20reconocimiento%20de%20im%C3%A1genes%20es,y%20vigilancia%20de%20la%20seguridad.
