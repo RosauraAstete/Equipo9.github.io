@@ -106,29 +106,84 @@ Algunas aplicaciones:
 
 Hay diversos enfoques para el reconocimiento de imágenes, que abarcan técnicas de aprendizaje automático (Machine Learning) y aprendizaje profundo (Deep Learning). La elección de la técnica a emplear depende de la aplicación en cuestión. Sin embargo, en términos generales, cuanto más complejo sea el problema, es más probable que se utilicen técnicas de Deep Learning [5].
 
-## 1. Leer el DataSet
-Se analizará la base de datos de un ventilador mecánico con un analizador de gases y un pulmón artificial. 
+## 1. Creación de proyecto en EdgeImpulse y el DataSet 
 
-![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/11.%20Introducci%C3%B3n%20a%20la%20IA%20/Archivos/I1.PNG)
-> Fig 1. DataSet
+Crea un proyecto en EdgeImpulse y recopila el conjunto de datos para la aplicación de TinyML utilizando Arduino 33 BLE y la cámara OV7675.
 
-## 2. Desbalance de datos
-Se evalualrá los datos de la presión ingresada y la presión que brinda el ventilador. Se puede apreciar que hay un desbalance, pues existe un error apreciable entre la presión ingresada y la presión del ventilador. En el grafico apreciamos el desbalance entre el error aceptable y el no aceptable. La diferencia es apreciable, por lo que relizar un oversampling es util para su entrenamiento con IA.
+<p align="center">
+  <img src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/12.%20Uso%20del%20Kit%20Arduino%20TinyML/Archivos/1DS.PNG?raw=true" alt="Texto alternativo" width="700px">
+</p>
 
-![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/11.%20Introducci%C3%B3n%20a%20la%20IA%20/Archivos/I2.png)
-> Fig 2. Debalance
 
-## 3. Reporte del modelo con el test
-La diferencia entre precision y recall es muy distante.
+> Fig 1. Creación del DataSet
 
-![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/11.%20Introducci%C3%B3n%20a%20la%20IA%20/Archivos/I3.PNG)
-> Fig 3. Reporte del modelo con el test
+## 2. Imagenes de para el entrenamiento
 
-## 4. Reporte del modelo
-La diferencia entre precision y recall disminuye.
+Captura imágenes utilizando la cámara OV7675 y agrégalas al conjunto de datos para entrenar tu modelo de TinyML.
 
-![](https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/11.%20Introducci%C3%B3n%20a%20la%20IA%20/Archivos/I5.PNG)
-> Fig 4. Reporte del modelo
+<p align="center">
+  <img src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/12.%20Uso%20del%20Kit%20Arduino%20TinyML/Archivos/2_1DSB.PNG?raw=true" alt="Texto alternativo" width="700px">
+</p>
+
+> Fig 2. Data traning, máscara blanca
+
+<p align="center">
+  <img src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/12.%20Uso%20del%20Kit%20Arduino%20TinyML/Archivos/2_2DSN.PNG?raw=true" alt="Texto alternativo" width="700px">
+</p>
+
+> Fig 3. Data traning, máscara naranja
+
+## 3. Modelo de entrenamiento
+
+Utiliza EdgeImpulse para entrenar un modelo de aprendizaje automático con las imágenes recopiladas y configura los parámetros de entrenamiento.
+
+<p align="center">
+  <img src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/12.%20Uso%20del%20Kit%20Arduino%20TinyML/Archivos/3ME.PNG?raw=true" alt="Texto alternativo" width="700px">
+</p>
+
+> Fig 4. Entrenamiento 
+
+## 4. Resultados del entrenamiento
+
+Análisis de los resultados del entrenamiento, como la precisión y la pérdida, para evaluar el rendimiento del modelo de TinyML.
+
+<p align="center">
+  <img src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/12.%20Uso%20del%20Kit%20Arduino%20TinyML/Archivos/4MER.PNG?raw=true" alt="Texto alternativo" width="700px">
+</p>
+
+> Fig 5. Reporte del modelo
+
+## 5. Prueba en vivo
+
+Realiza pruebas en vivo utilizando el Arduino 33 BLE y la cámara OV7675 para capturar imágenes y utilizar el modelo entrenado para inferir y clasificar en tiempo real.
+
+<p align="center">
+  <img src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/12.%20Uso%20del%20Kit%20Arduino%20TinyML/Archivos/5_1LVB.PNG?raw=true" alt="Texto alternativo" width="700px">
+</p>
+
+> Fig 6. Pruebas con máscara blanca
+
+<p align="center">
+  <img src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/12.%20Uso%20del%20Kit%20Arduino%20TinyML/Archivos/5_2LVN.PNG?raw=true" alt="Texto alternativo" width="700px">
+</p>
+
+> Fig 7. Pruebas con máscara naranja
+
+## 6. Creación del modelo para Arduino
+
+ Exporta el modelo entrenado desde EdgeImpulse en un formato compatible con Arduino y realiza la integración en tu proyecto de Arduino 33 BLE para su despliegue en el dispositivo.
+
+<p align="center">
+  <img src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/12.%20Uso%20del%20Kit%20Arduino%20TinyML/Archivos/6_1MArEG.PNG?raw=true" alt="Texto alternativo" width="700px">
+</p>
+
+> Fig 8. Exportación del modelo
+
+<p align="center">
+  <img src="https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/Laboratorios/12.%20Uso%20del%20Kit%20Arduino%20TinyML/Archivos/6_2MAr.PNG?raw=true" alt="Texto alternativo" width="700px">
+</p>
+
+> Fig 9. Visualización en el IDLE de Arduino
 
 ---
 ## Video Explicativo
