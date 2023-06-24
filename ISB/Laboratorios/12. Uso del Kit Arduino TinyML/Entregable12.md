@@ -133,6 +133,7 @@ La diferencia entre precision y recall disminuye.
 ---
 ## Video Explicativo
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TU-ID-DEL-VIDEO" frameborder="0" allowfullscreen></iframe>
 
 
 ## Referencias
