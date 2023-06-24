@@ -188,8 +188,9 @@ Realiza pruebas en vivo utilizando el Arduino 33 BLE y la cámara OV7675 para ca
 ---
 ## Video Explicativo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TU-ID-DEL-VIDEO" frameborder="0" allowfullscreen></iframe>
+[![Texto alternativo](https://img.youtube.com/vi/78Lp1fxr7tk/0.jpg)](https://www.youtube.com/watch?v=78Lp1fxr7tk)
 
+Link: https://youtu.be/78Lp1fxr7tk
 
 ## Referencias
 [1] “Nano 33 BLE | Arduino Documentation,” Arduino.cc, 2023. https://docs.arduino.cc/hardware/nano-33-ble.
