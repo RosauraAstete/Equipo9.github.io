@@ -1,4 +1,3 @@
-
 # Uso del Kit Arduino TinyML
 
 ## Objetivos del laboratorio
@@ -19,6 +18,10 @@
 1. Tiny ML kit
 
     1.1. Arduino nano 33 BLE [1]:
+
+    <p align="center">
+        <img src="https://i.ebayimg.com/images/g/ADcAAOSwBTlduETz/s-l1600.jpg" alt="Texto alternativo" width="300px">
+    </p>
    
       Comparte su configuración de pines con el Arduino Nano clásico, pero se basa en el microcontrolador nRF52840 con memoria flash de CPU de 1 MB. Con una unidad de medición inercial de 9 ejes y la posibilidad de conectividad Bluetooth Low Energy. 
       Algunas especificaciones técnicas:
@@ -36,8 +39,12 @@
       - SRAM : 256 KB (nRF52840)
         
   
-      1.2. Cámara OV7675: 
-      
+      1.2. Cámara OV7675:
+
+    <p align="center">
+    <img src="https://www.uctronics.com/media/catalog/product/cache/a932a38b0e312591d2537bcc81c3c0e5/6/4/640x480_0.3_mp_mega_pixel_lens_ov7675_cmos_camera_module_with_adapter_board_side_view_1.jpg" alt="Texto alternativo" width="300px">
+    </p>
+
     Este es un sensor de obturador rodante, que captura una columna (o fila) completa simultáneamente y compila la imagen al escanear a través (o hacia abajo). Cuenta con el sensor de color OV7675 (U6037) de OmniVision. El sensor tiene un formato óptico de 1/9,0″, que combinado con el tamaño de píxel de 2,5 µm x 2,5 µm, proporciona una imagen VGA de 0,3 MP (640 x 480) [2]. 
     Algunas especificaciones técnicas son:
     - Tamaño de matriz activa: 640 × 480
@@ -57,7 +64,12 @@
     - Tamaño de píxel: 2,5 μm x 2,5 μm
     - Área de imagen: 1640 μm x 1220 μm [3]
   
-2. Edge impulse
+3. Edge impulse
+
+<p align="center">
+  <img src="https://files.seeedstudio.com/wiki/Wio-Terminal-Edge-Impulse/banner.png" alt="Texto alternativo" width="500px">
+</p>
+
 
 Es una plataforma de machine learning diseñada específicamente para la creación y despliegue de modelos de inteligencia artificial en edge devices.
 Permite entrenar modelos de aprendizaje automático y crear soluciones de inteligencia artificial que se ejecutan directamente en estos dispositivos de borde, sin necesidad de depender de una conexión a Internet o de una infraestructura de nube. Asimismo, proporciona herramientas y recursos para adquirir datos, etiquetarlos, entrenar modelos de aprendizaje automático y realizar pruebas en tiempo real [4].
@@ -70,20 +82,29 @@ Algunas aplicaciones:
 
 - Inspección visual: Proceso de detectar piezas defectuosas o no defectuosas durante la fabricación. Permite examinar de manera eficiente miles de piezas en una cadena de producción.
 
+<p align="center">
+    <img src="https://www.vibrant-rna.com/wp-content/uploads/2019/01/VInspection-and-QualityCtrol.607x406.jpg" alt="Texto alternativo" width="500px">
+</p>
+
 - Clasificación de imágenes: Consiste en organizar imágenes en diferentes categorías según su contenido. Es especialmente valiosa en aplicaciones como la recuperación de imágenes y los sistemas de recomendación en el comercio electrónico.
+
+<p align="center">
+    <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/311631437/original/2ca654a24adf4b5dd5014092ae931d2607de85f1/object-detection-with-deep-learning.jpg" alt="Texto alternativo" width="500px">
+</p>
 
 - Conducción autónoma: Implica la capacidad de reconocer señales de alto o peatones en imágenes, lo cual es crucial en las aplicaciones de conducción autónoma.
 
+<p align="center">
+    <img src="https://www.diariomotor.com/imagenes/picscache/1440x655c/Tesla-conducci%C3%B3n-aut%C3%B3noma_visi%C3%B3n-c%C3%A1maras-sensores_1440x655c.jpg" alt="Texto alternativo" width="500px">
+</p>
+
 - En robótica: Se utiliza para mejorar la navegación autónoma de los robots, así como para identificar ubicaciones y objetos en su trayectoria.
 
+<p align="center">
+    <img src="https://i.blogs.es/314b66/robot-escritura/1366_2000.jpg" alt="Texto alternativo" width="500px">
+</p>
+
 Hay diversos enfoques para el reconocimiento de imágenes, que abarcan técnicas de aprendizaje automático (Machine Learning) y aprendizaje profundo (Deep Learning). La elección de la técnica a emplear depende de la aplicación en cuestión. Sin embargo, en términos generales, cuanto más complejo sea el problema, es más probable que se utilicen técnicas de Deep Learning [5].
-
-
-## Código en Google Colab
-El Balanceo de Datos fue realizado en Google Colab. En el siguiente enlace, podrá visualizar los resultados y el código utilizado.
-
-`<link>` : https://colab.research.google.com/drive/1ETASNXJj_UIzZlZdq3cPj9Ov62ypebXz?usp=sharing
-
 
 ## 1. Leer el DataSet
 Se analizará la base de datos de un ventilador mecánico con un analizador de gases y un pulmón artificial. 
