@@ -55,24 +55,28 @@ Una vez importadas las señales se realizó el filtrado de cada una de ellas med
 
 <div align="center">
 
-<img src="Imagenes/mov1.png" alt="1" width="400">
+<img src="Imagenes/mov1.png" alt="1" width="500">
 
 *Figura 1. Movimientos activos de la muñeca* 
 
-<img src="Imagenes/mov2.png" alt="2" width="250">
+<img src="Imagenes/mov2.png" alt="2" width="350">
 
 *Figura 2. Abducción del pulgar* 
 
-![control](Imagenes/1.png)
+<img src="Imagenes/1.png" alt="3" width="500">
+
 *Figura 3. Señales EMG de la paciente control sin filtrado* 
 
-![control_filt](Imagenes/2.png)
+<img src="Imagenes/2.png" alt="4" width="500">
+
 *Figura 4. Señales EMG filtradas de la paciente control.* 
 
-![paciente](Imagenes/3.png)
+<img src="Imagenes/3.png" alt="5" width="500">
+
 *Figura 5. Señales EMG de la paciente control síndrome de túnel carpiano* 
 
-![paciente_filt](Imagenes/4.png)
+<img src="Imagenes/4.png" alt="6" width="500">
+
 *Figura 6. Señales EMG filtradas de la paciente control síndrome de túnel carpiano* 
 
 </div>
@@ -97,8 +101,12 @@ Se concluye que existe una diferencia en las señales registradas durante contra
 [1] “Carpal Tunnel Syndrome,” National Institute of Neurological Disorders and Stroke, 2023. https://www.ninds.nih.gov/health-information/disorders/carpal-tunnel-syndrome 
 
 [2] J. O. Sevy and M. Varacallo, “Carpal Tunnel Syndrome,” Nih.gov, Sep. 05, 2022. https://www.ncbi.nlm.nih.gov/books/NBK448179/ 
+
 [3] T. Yesuf, H. Aragie, and Y. Asmare, “Prevalence of Carpal Tunnel Syndrome and its associated factors
+
 [4] J. O. Sevy and M. Varacallo, “Carpal Tunnel Syndrome,” Nih.gov, Sep. 05, 2022. https://www.ncbi.nlm.nih.gov/books/NBK448179/ 
+
 [5] A. Rainoldi, M. Gazzoni, and R. Casale, “Surface EMG signal alterations in Carpal Tunnel syndrome: a pilot study,” European Journal of Applied Physiology, vol. 103, no. 2, pp. 233–242, Feb. 2008, doi: https://doi.org/10.1007/s00421-008-0694-x.
+
 [6] C.-B. Kim, C.-H. Park, C.-H. Kim, H.-S. Lee, and M.-O. Kim, “Changes in Surface Electromyography Signal according to Severity in Patients with Carpal Tunnel Syndrome,” Journal of Electrodiagnosis and Neuromuscular Diseases, vol. 22, no. 1, pp. 15–22, Jun. 2020, doi: https://doi.org/10.18214/jend.2020.22.1.15.
 
