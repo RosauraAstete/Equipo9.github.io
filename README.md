@@ -49,9 +49,11 @@ El problema identificado es que no existe un patrón determinado para diagnostic
 <p align="justify">   
 Para analizar el estado de la enfermedad se realizaron pruebas basadas en movimientos activos de la muñeca (flexión, extensión, desviación radial, desviación ulnar, pronación, supinación) [10] y fuerza de abducción del pulgar [11] mientras que se mide la señal electromiográfica de los músculos involucrados. Estas pruebas servirán para la reconocer los patrones de las señales EMG de las participantes, quienes fueron señoras con las edades de 46 y 52 años. Seadquirireron las señales con el Kit BiTalino y el software Open Signals.
 
+![control](image.png)
+![control_filtrado](image-1.png)
+![paciente](image-2.png)
+![paciente_filtrado](image-3.png)
 
-[Señales obtenidas]
-[Señales filtradas]
 
 *Analisis y resultados*
 
@@ -63,7 +65,7 @@ Se concluye que existe una diferencia en las señales registradas durante contra
 ---
      
 ### Links importantes
-* Informe: 
-* Sobre nosotros:
+* Informe: https://docs.google.com/document/d/1-lfR3EVbEm9OArWXMdRQ86HtOIjvKhQNFDnVqe9sTD8/edit?usp=sharing
+* Sobre nosotros: https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/README1.md
 
 ---
