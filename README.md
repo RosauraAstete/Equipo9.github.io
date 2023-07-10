@@ -1,5 +1,5 @@
 # Introducción a Señales Biomédicas
-## Proyecto: **Early diagnosis of carpal tunnel syndrome using electromyogram signals**  
+## **Early diagnosis of carpal tunnel syndrome using electromyogram signals**  
 
 ## **Diagnóstico temprano del síndrome del túnel carpiano mediante señales de electromiograma** 
 
@@ -47,28 +47,39 @@ El problema identificado es que no existe un patrón determinado para diagnostic
 
 ### Principales hallazgos
 <p align="justify">   
-Para analizar el estado de la enfermedad se realizaron pruebas basadas en movimientos activos de la muñeca (flexión, extensión, desviación radial, desviación ulnar, pronación, supinación) [10] y fuerza de abducción del pulgar [11] mientras que se mide la señal electromiográfica de los músculos involucrados. Estas pruebas servirán para la reconocer los patrones de las señales EMG de las participantes, quienes fueron señoras con las edades de 46 y 52 años. Seadquirireron las señales con el Kit BiTalino y el software Open Signals.
+Para analizar el estado de la enfermedad se realizaron pruebas basadas en movimientos activos de la muñeca (flexión, extensión, desviación radial, desviación ulnar, pronación, supinación) [10] y fuerza de abducción del pulgar [11] mientras que se mide la señal electromiográfica de los músculos involucrados. Estas pruebas servirán para la reconocer los patrones de las señales EMG de las participantes, quienes fueron señoras con las edades de 46 y 52 años. 
+
+Se adquirireron las señales con el Kit BiTalino y el software Open Signals.
+Una vez importadas las señales se realizó el filtrado de cada una de ellas mediante el uso de un filtro pasa banda y un  filtro Notch.
 
 
 <div align="center">
 
+<img src="Imagenes/mov1.png" alt="1" width="400">
+
+*Figura 1. Movimientos activos de la muñeca* 
+
+<img src="Imagenes/mov2.png" alt="2" width="250">
+
+*Figura 2. Abducción del pulgar* 
+
 ![control](Imagenes/1.png)
-*Figura 1. Señales EMG de la paciente control sin filtrado* 
+*Figura 3. Señales EMG de la paciente control sin filtrado* 
 
 ![control_filt](Imagenes/2.png)
-*Figura 2. Señales EMG filtradas de la paciente control.* 
+*Figura 4. Señales EMG filtradas de la paciente control.* 
 
 ![paciente](Imagenes/3.png)
-*Figura 3. Señales EMG de la paciente control síndrome de túnel carpiano* 
+*Figura 5. Señales EMG de la paciente control síndrome de túnel carpiano* 
 
 ![paciente_filt](Imagenes/4.png)
-*Figura 4. Señales EMG filtradas de la paciente control síndrome de túnel carpiano* 
+*Figura 6. Señales EMG filtradas de la paciente control síndrome de túnel carpiano* 
 
 </div>
 
+A partir de los valores máximos y mínimos que se obtuvieron para cada movimiento realizado se observó que la paciente control tenía valores más altos, lo cual indica que tiene valores de amplitud mayores. 
+Por otro lado, de los valores RMS (Root Mean Square) obtenidos en 5 de los 7 movimientos que se  realizaron, la paciente con tunel carpiano presentó valores de RMS menores al control, esta disminución en el RMS indica un menor reclutamiento de la unidades motoras durante la contracción. Asimismo, los dos valores de RMS en el que el paciente con tunel carpiano salieron mayor se puede deber a que la paciente tuvo un mayor tiempo de descanso.
 
-
-*Analisis y resultados*
 
 Se concluye que existe una diferencia en las señales registradas durante contracciones musculares entre la paciente control y una con síndrome del túnel carpiano, se observa una disminución en el patrón de interferencia, lo cual indica una reducción en la actividad eléctrica registrada en el músculo durante la contracción. Asimismo, la disminución en el patrón de interferencia y el valor de contracción voluntaria máxima reducido en la paciente con síndrome del túnel carpiano podría indicar una menor fuerza muscular. Por otro lado, se observa una disminución progresiva en la velocidad de conducción nerviosa y en la amplitud de las señales entre la paciente con síndrome del túnel carpiano y la paciente de control. 
 
@@ -79,6 +90,6 @@ Se concluye que existe una diferencia en las señales registradas durante contra
      
 ### Links importantes
 * Informe: https://docs.google.com/document/d/1-lfR3EVbEm9OArWXMdRQ86HtOIjvKhQNFDnVqe9sTD8/edit?usp=sharing
-* Sobre nosotros: https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/README1.md
+* Sobre el equipo: https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/README1.md
 
 ---
