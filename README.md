@@ -84,6 +84,12 @@ Una vez importadas las señales se realizó el filtrado de cada una de ellas med
 A partir de los valores máximos y mínimos que se obtuvieron para cada movimiento realizado se observó que la paciente control tenía valores más altos, lo cual indica que tiene valores de amplitud mayores. 
 Por otro lado, de los valores RMS (Root Mean Square) obtenidos en 5 de los 7 movimientos que se  realizaron, la paciente con tunel carpiano presentó valores de RMS menores al control, esta disminución en el RMS indica un menor reclutamiento de la unidades motoras durante la contracción. Asimismo, los dos valores de RMS en el que el paciente con tunel carpiano salieron mayor se puede deber a que la paciente tuvo un mayor tiempo de descanso.
 
+| Valor   | Media, p50, varianza, desviación estándar y coeficiente de variación  |  Prueba de Shapiro Wilk | Gráfico caja y bigotes |
+|:-------------: |:---------------:| :---------------:| :---------------:| 
+| Valores máximos   | <img src="Imagenes/1a.png" alt="a" width="300"> | <img src="Imagenes/2b.png" alt="a" width="300"> | <img src="Imagenes/3c.png" alt="a" width="300"> |
+| Valores mínimos   | <img src="Imagenes/4d.png" alt="a" width="300"> | <img src="Imagenes/5e.png" alt="a" width="300"> | <img src="Imagenes/6f.png" alt="a" width="300"> |
+| Valores RMS   | <img src="Imagenes/7g.png" alt="a" width="300"> | <img src="Imagenes/8.png" alt="a" width="300"> | <img src="Imagenes/9.png" alt="a" width="300"> |
+| Frecuencia media   | <img src="Imagenes/10.png" alt="a" width="300"> | <img src="Imagenes/11.png" alt="a" width="300"> | <img src="Imagenes/12.png" alt="a" width="300"> |
 
 Se concluye que existe una diferencia en las señales registradas durante contracciones musculares entre la paciente control y una con síndrome del túnel carpiano, se observa una disminución en el patrón de interferencia, lo cual indica una reducción en la actividad eléctrica registrada en el músculo durante la contracción. Asimismo, la disminución en el patrón de interferencia y el valor de contracción voluntaria máxima reducido en la paciente con síndrome del túnel carpiano podría indicar una menor fuerza muscular. Por otro lado, se observa una disminución progresiva en la velocidad de conducción nerviosa y en la amplitud de las señales entre la paciente con síndrome del túnel carpiano y la paciente de control. 
 
