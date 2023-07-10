@@ -31,7 +31,6 @@ La presente investigación propone utilizar señales electromiográficas para el
 
 ### Motivación
 <p align="justify"> 
-
 El síndrome del túnel carpiano es un problema neurológico frecuente que se presenta cuando el nervio mediano se comprime o se aprieta en la zona de la muñeca [1]. 
 
 Se estima que esta enfermedad afecta a aproximadamente un 4% a 5% de la población mundial [2]. Se ha encontrado que la proporción de pacientes con síndrome de túnel carpiano aumenta con la edad, obteniendo el mayor número de incidencia en hombres de 40 años y mujeres de 50 años [3]. 
@@ -39,7 +38,6 @@ Se estima que esta enfermedad afecta a aproximadamente un 4% a 5% de la poblaci�
 La fisiopatología de este síndrome resulta de una combinación de mecanismos de compresión y tracción y puede estar vinculado a factores laborales, con la exposición a altos niveles de vibración en las manos y brazos, trabajo prolongado con una muñeca en posición flexionada o extendida, altos requerimientos de fuerza manual y alta repetitividad en las tareas laborales [4].
 
 El problema identificado es que no existe un patrón determinado para diagnosticar a pacientes con túnel carpiano. Por ello, en esta investigación se propone utilizar señales electromiográficas para el diagnóstico de túnel carpiano con el objetivo de ayudar a reducir la cantidad de falsos positivos y negativos que se obtienen con los criterios usados actualmente como los síntomas y signos clínicos. 
-
 </p>
 
 ---
@@ -84,6 +82,10 @@ Una vez importadas las señales se realizó el filtrado de cada una de ellas med
 A partir de las señales obtenidas y con el código desarrollado realizamos un análisis estadístico tomando en consideración los valores máximos, mínimos, RMS y frecuencia media tanto del paciente control (Paciente 1) y paciente con túnel carpiano (Paciente 2). 
 Para analizar si hay datos atípicos y si hay asimetría realizamos gráficos de cajas y bigotes. Luego, para observar si los datos tienen una distribución normal realizamos la prueba de Shapiro Wilk. 
 
+Utilizando los valores máximos y mínimos que se obtuvieron para cada movimiento realizado se observó que la paciente control tenía valores más altos, lo cual indica que tiene valores de amplitud mayores. 
+Por otro lado, de los valores RMS (Root Mean Square) obtenidos en 5 de los 7 movimientos que se  realizaron, la paciente con tunel carpiano presentó valores de RMS menores al control, esta disminución en el RMS indica un menor reclutamiento de la unidades motoras durante la contracción. Asimismo, los dos valores de RMS en el que el paciente con tunel carpiano salieron mayor se puede deber a que la paciente tuvo un mayor tiempo de descanso.
+
+
 
 | Valor   | Media, p50, varianza, desviación estándar y coeficiente de variación  |  Prueba de Shapiro Wilk | Gráfico caja y bigotes |
 |:-------------: |:---------------:| :---------------:| :---------------:| 
@@ -93,8 +95,6 @@ Para analizar si hay datos atípicos y si hay asimetría realizamos gráficos de
 | Frecuencia media   | <img src="Imagenes/10.png" alt="a" width="300"> | <img src="Imagenes/11.png" alt="a" width="300"> | <img src="Imagenes/12.png" alt="a" width="300"> |
 
 
-A partir de los valores máximos y mínimos que se obtuvieron para cada movimiento realizado se observó que la paciente control tenía valores más altos, lo cual indica que tiene valores de amplitud mayores. 
-Por otro lado, de los valores RMS (Root Mean Square) obtenidos en 5 de los 7 movimientos que se  realizaron, la paciente con tunel carpiano presentó valores de RMS menores al control, esta disminución en el RMS indica un menor reclutamiento de la unidades motoras durante la contracción. Asimismo, los dos valores de RMS en el que el paciente con tunel carpiano salieron mayor se puede deber a que la paciente tuvo un mayor tiempo de descanso.
 
 
 Se concluye que existe una diferencia en las señales registradas durante contracciones musculares entre la paciente control y una con síndrome del túnel carpiano, se observa una disminución en el patrón de interferencia, lo cual indica una reducción en la actividad eléctrica registrada en el músculo durante la contracción. Asimismo, la disminución en el patrón de interferencia y el valor de contracción voluntaria máxima reducido en la paciente con síndrome del túnel carpiano podría indicar una menor fuerza muscular. Por otro lado, se observa una disminución progresiva en la velocidad de conducción nerviosa y en la amplitud de las señales entre la paciente con síndrome del túnel carpiano y la paciente de control. 
