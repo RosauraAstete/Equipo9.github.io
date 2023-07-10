@@ -63,19 +63,19 @@ Una vez importadas las señales se realizó el filtrado de cada una de ellas med
 
 *Figura 2. Abducción del pulgar* 
 
-<img src="Imagenes/1.png" alt="3" width="500">
+<img src="Imagenes/1.png" alt="3" width="700">
 
 *Figura 3. Señales EMG de la paciente control sin filtrado* 
 
-<img src="Imagenes/2.png" alt="4" width="500">
+<img src="Imagenes/2.png" alt="4" width="700">
 
 *Figura 4. Señales EMG filtradas de la paciente control.* 
 
-<img src="Imagenes/3.png" alt="5" width="500">
+<img src="Imagenes/3.png" alt="5" width="700">
 
 *Figura 5. Señales EMG de la paciente control síndrome de túnel carpiano* 
 
-<img src="Imagenes/4.png" alt="6" width="500">
+<img src="Imagenes/4.png" alt="6" width="700">
 
 *Figura 6. Señales EMG filtradas de la paciente control síndrome de túnel carpiano* 
 
@@ -95,6 +95,8 @@ Se concluye que existe una diferencia en las señales registradas durante contra
 ### Links importantes
 * Informe: https://docs.google.com/document/d/1-lfR3EVbEm9OArWXMdRQ86HtOIjvKhQNFDnVqe9sTD8/edit?usp=sharing
 * Sobre el equipo: https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/README1.md
+* Códigos paciente 1: https://drive.google.com/drive/folders/1HakDzOBfT3Wt_eW0LnaiuRYtCzRRE0kz?usp=sharing
+* Códigos paciente 2: https://drive.google.com/drive/folders/1GOYq1Gou1tC4RWq0zTn5ofaQfDjc88mx?usp=sharing
 
 ---
 
