@@ -23,7 +23,7 @@ Tabla de contenidos:
 
 ### Resumen
 <p align="justify"> 
-La presente investigación propone utilizar señales electromiográficas para el diagnóstico del túnel carpiano con el objetivo de ayudar a disminuir el número de falsos positivos y negativos que se obtienen con los criterios actualmente utilizados. Para ello se analizaron las señales EMG mediante el kit Bitalino de un paciente con túnel carpiano y un paciente control. Las señales fueron filtradas y analizadas utilizando el lenguaje Python. Se obtuvo que las señales presentaban ligeras diferencias en la actividad eléctrica de ambos. Se concluye que el paciente con túnel carpiano tiene una disminución en la velocidad de conducción en comparación con un paciente sano.
+La presente investigación propone utilizar señales electromiográficas para el diagnóstico del túnel carpiano con el objetivo de ayudar a disminuir el número de falsos positivos y negativos que se obtienen con los criterios actualmente utilizados. Para ello se analizaron las señales EMG mediante el kit Bitalino de un paciente con túnel carpiano y un paciente control. Las señales fueron filtradas y analizadas utilizando el lenguaje Python. De esto se obtuvo que las señales presentaron ligeras diferencias en la actividad eléctrica de ambos pacientes, se observó una disminución en el patrón de interferencia lo que indica una reducción en la actividad eléctrica registrada en el músculo durante la contracción y se concluye que el túnel carpiano el paciente tiene una disminución progresiva en la velocidad de conducción nerviosa en comparación con un paciente de control.
 
 </p>
 
@@ -49,10 +49,23 @@ El problema identificado es que no existe un patrón determinado para diagnostic
 <p align="justify">   
 Para analizar el estado de la enfermedad se realizaron pruebas basadas en movimientos activos de la muñeca (flexión, extensión, desviación radial, desviación ulnar, pronación, supinación) [10] y fuerza de abducción del pulgar [11] mientras que se mide la señal electromiográfica de los músculos involucrados. Estas pruebas servirán para la reconocer los patrones de las señales EMG de las participantes, quienes fueron señoras con las edades de 46 y 52 años. Seadquirireron las señales con el Kit BiTalino y el software Open Signals.
 
-![control](image.png)
-![control_filtrado](image-1.png)
-![paciente](image-2.png)
-![paciente_filtrado](image-3.png)
+
+<div align="center">
+
+![control](Imagenes/1.png)
+*Figura 1. Señales EMG de la paciente control sin filtrado* 
+
+![control_filt](Imagenes/2.png)
+*Figura 2. Señales EMG filtradas de la paciente control.* 
+
+![paciente](Imagenes/3.png)
+*Figura 3. Señales EMG de la paciente control síndrome de túnel carpiano* 
+
+![paciente_filt](Imagenes/4.png)
+*Figura 4. Señales EMG filtradas de la paciente control síndrome de túnel carpiano* 
+
+</div>
+
 
 
 *Analisis y resultados*
