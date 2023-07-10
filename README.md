@@ -32,11 +32,11 @@ La presente investigación propone utilizar señales electromiográficas para el
 ### Motivación
 <p align="justify"> 
 
-El síndrome del túnel carpiano es un problema neurológico frecuente que se presenta cuando el nervio mediano se comprime o se aprieta en la zona de la muñeca. 
+El síndrome del túnel carpiano es un problema neurológico frecuente que se presenta cuando el nervio mediano se comprime o se aprieta en la zona de la muñeca [1]. 
 
-Se estima que esta enfermedad afecta a aproximadamente un 4% a 5% de la población mundial. Se ha encontrado que la proporción de pacientes con síndrome de túnel carpiano aumenta con la edad, obteniendo el mayor número de incidencia en hombres de 40 años y mujeres de 50 años. 
+Se estima que esta enfermedad afecta a aproximadamente un 4% a 5% de la población mundial [2]. Se ha encontrado que la proporción de pacientes con síndrome de túnel carpiano aumenta con la edad, obteniendo el mayor número de incidencia en hombres de 40 años y mujeres de 50 años [3]. 
 
-La fisiopatología de este síndrome resulta de una combinación de mecanismos de compresión y tracción y puede estar vinculado a factores laborales, con la exposición a altos niveles de vibración en las manos y brazos, trabajo prolongado con una muñeca en posición flexionada o extendida, altos requerimientos de fuerza manual y alta repetitividad en las tareas laborales.
+La fisiopatología de este síndrome resulta de una combinación de mecanismos de compresión y tracción y puede estar vinculado a factores laborales, con la exposición a altos niveles de vibración en las manos y brazos, trabajo prolongado con una muñeca en posición flexionada o extendida, altos requerimientos de fuerza manual y alta repetitividad en las tareas laborales [4].
 
 El problema identificado es que no existe un patrón determinado para diagnosticar a pacientes con túnel carpiano. Por ello, en esta investigación se propone utilizar señales electromiográficas para el diagnóstico de túnel carpiano con el objetivo de ayudar a reducir la cantidad de falsos positivos y negativos que se obtienen con los criterios usados actualmente como los síntomas y signos clínicos. 
 
@@ -47,7 +47,7 @@ El problema identificado es que no existe un patrón determinado para diagnostic
 
 ### Principales hallazgos
 <p align="justify">   
-Para analizar el estado de la enfermedad se realizaron pruebas basadas en movimientos activos de la muñeca (flexión, extensión, desviación radial, desviación ulnar, pronación, supinación) [10] y fuerza de abducción del pulgar [11] mientras que se mide la señal electromiográfica de los músculos involucrados. Estas pruebas servirán para la reconocer los patrones de las señales EMG de las participantes, quienes fueron señoras con las edades de 46 y 52 años. 
+Para analizar el estado de la enfermedad se realizaron pruebas basadas en movimientos activos de la muñeca (flexión, extensión, desviación radial, desviación ulnar, pronación, supinación) [5] y fuerza de abducción del pulgar [6] mientras que se mide la señal electromiográfica de los músculos involucrados. Estas pruebas servirán para la reconocer los patrones de las señales EMG de las participantes, quienes fueron señoras con las edades de 46 y 52 años. 
 
 Se adquirireron las señales con el Kit BiTalino y el software Open Signals.
 Una vez importadas las señales se realizó el filtrado de cada una de ellas mediante el uso de un filtro pasa banda y un  filtro Notch.
@@ -93,3 +93,12 @@ Se concluye que existe una diferencia en las señales registradas durante contra
 * Sobre el equipo: https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/README1.md
 
 ---
+
+[1] “Carpal Tunnel Syndrome,” National Institute of Neurological Disorders and Stroke, 2023. https://www.ninds.nih.gov/health-information/disorders/carpal-tunnel-syndrome 
+
+[2] J. O. Sevy and M. Varacallo, “Carpal Tunnel Syndrome,” Nih.gov, Sep. 05, 2022. https://www.ncbi.nlm.nih.gov/books/NBK448179/ 
+[3] T. Yesuf, H. Aragie, and Y. Asmare, “Prevalence of Carpal Tunnel Syndrome and its associated factors
+[4] J. O. Sevy and M. Varacallo, “Carpal Tunnel Syndrome,” Nih.gov, Sep. 05, 2022. https://www.ncbi.nlm.nih.gov/books/NBK448179/ 
+[5] A. Rainoldi, M. Gazzoni, and R. Casale, “Surface EMG signal alterations in Carpal Tunnel syndrome: a pilot study,” European Journal of Applied Physiology, vol. 103, no. 2, pp. 233–242, Feb. 2008, doi: https://doi.org/10.1007/s00421-008-0694-x.
+[6] C.-B. Kim, C.-H. Park, C.-H. Kim, H.-S. Lee, and M.-O. Kim, “Changes in Surface Electromyography Signal according to Severity in Patients with Carpal Tunnel Syndrome,” Journal of Electrodiagnosis and Neuromuscular Diseases, vol. 22, no. 1, pp. 15–22, Jun. 2020, doi: https://doi.org/10.18214/jend.2020.22.1.15.
+
