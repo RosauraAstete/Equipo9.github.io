@@ -99,6 +99,9 @@ Por otro lado, de los valores RMS (Root Mean Square) obtenidos en 5 de los 7 mov
 
 Se concluye que existe una diferencia en las señales registradas durante contracciones musculares entre la paciente control y una con síndrome del túnel carpiano, se observa una disminución en el patrón de interferencia, lo cual indica una reducción en la actividad eléctrica registrada en el músculo durante la contracción. Asimismo, la disminución en el patrón de interferencia y el valor de contracción voluntaria máxima reducido en la paciente con síndrome del túnel carpiano podría indicar una menor fuerza muscular. Por otro lado, se observa una disminución progresiva en la velocidad de conducción nerviosa y en la amplitud de las señales entre la paciente con síndrome del túnel carpiano y la paciente de control. 
 
+El uso de las señales electromiográficas como herramienta diagnóstica tiene el potencial de reducir la cantidad de falsos positivos (diagnosticar erróneamente a personas sanas como si tuvieran túnel carpiano) y falsos negativos (no detectar la condición en personas que realmente la padecen). Esto puede contribuir a un diagnóstico más preciso y a un tratamiento más oportuno para los pacientes con túnel carpiano, mejorando así su calidad de vida y evitando intervenciones innecesarias.
+
+
 
 </p>   
 
@@ -106,9 +109,8 @@ Se concluye que existe una diferencia en las señales registradas durante contra
      
 ### Links importantes
 * Informe: https://docs.google.com/document/d/1-lfR3EVbEm9OArWXMdRQ86HtOIjvKhQNFDnVqe9sTD8/edit?usp=sharing
-* Sobre el equipo: https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/README1.md
-* Códigos paciente 1: https://drive.google.com/drive/folders/1HakDzOBfT3Wt_eW0LnaiuRYtCzRRE0kz?usp=sharing
-* Códigos paciente 2: https://drive.google.com/drive/folders/1GOYq1Gou1tC4RWq0zTn5ofaQfDjc88mx?usp=sharing
+* Sobre el equipo: https://github.com/RosauraAstete/Equipo9.github.io/blob/main/ISB/README.md
+* Códigos utilizados: https://github.com/RosauraAstete/Equipo9.github.io/tree/main/Software
 
 ---
 
